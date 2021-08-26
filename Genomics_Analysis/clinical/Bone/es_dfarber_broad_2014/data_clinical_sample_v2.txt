@@ -1,0 +1,108 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_CLASS	SITE	PRIMARY_SITE	SAMPLE_TYPE	CODE
+A673	A673	Cell line			Cell line	92603
+Cado-ES1	Cado-ES1	Cell line			Cell line	92603
+CHLA-258	CHLA-258	Cell line			Cell line	92603
+EW8	EW8	Cell line			Cell line	92603
+EWS502	EWS502	Cell line			Cell line	92603
+EWS834	EWS834	Cell line			Cell line	92603
+RDES	RDES	Cell line			Cell line	92603
+SKNEP1	SKNEP1	Cell line			Cell line	92603
+TC32	TC32	Cell line			Cell line	92603
+TC71	TC71	Cell line			Cell line	92603
+TTC466	TTC466	Cell line			Cell line	92603
+SJDES001	SJDES001-R		Bone	Femur	Metastasis	92603
+SJDES002	SJDES002-R	Recurrence	Bone	Talus	Metastasis	92603
+SJDES003	SJDES003-R	Recurrence	Bone	Femur	Metastasis	92603
+SJDES011	SJDES011-R		Bone	Iliac bone	Metastasis	92603
+SJDES022	SJDES022-R	Recurrence	Bone	Mediastinum and Lungs	Metastasis	92603
+SJDES004	SJDES004-R	Recurrence	Bone	Pubic bone	Metastasis	92603
+SJDES016	SJDES016-R	Recurrence	Bone	Vertebral bodies	Metastasis	92603
+SJDES004	SJDES004		Bone	Pubic bone	Primary	92603
+SJDES005	SJDES005		Muscle	Gluteus muscle	Primary	92603
+SJDES006	SJDES006		Bone	Rib	Primary	92603
+SJDES008	SJDES008		Muscle	Gluteus muscle	Primary	92603
+SJDES009	SJDES009		Bone	Pubic bone	Primary	92603
+SJDES010	SJDES010		Bone	Chest wall	Primary	92603
+SJDES012	SJDES012		Bone	Vertebral body	Primary	92603
+SJDES013	SJDES013		Bone	Vertebral body + rib	Primary	92603
+SJDES015	SJDES015		Bone	Femur	Primary	92603
+SJDES016	SJDES016		Bone	Vertebral bodies	Primary	92603
+SJDES017	SJDES017		Bone	Iliac bone	Primary	92603
+SJDES019	SJDES019		Bone	Chest wall	Primary	92603
+SJDES020	SJDES020		Bone	Sacrum	Primary	92603
+SJDES021	SJDES021		Bone	Fibula	Primary	92603
+SJDES028	SJDES028		Bone	Iliac bone	Primary	92603
+SJDES029	SJDES029		Bone	Chest wall	Primary	92603
+SJDES007	SJDES007-R1	Recurrence	Bone	Scapula	Primary	92603
+SJDES014	SJDES014-R1	Recurrence	Bone	Chest wall	Primary	92603
+SJDES018	SJDES018-R	Recurrence	Bone	Chest wall	Primary	92603
+CHEWS001	CHEWS001		Bone	Iliac crest	Primary	92603
+CHEWS002	CHEWS002		Bone	Pelvis	Primary	92603
+CHEWS003	CHEWS003		Bone	Pelvis	Primary	92603
+CHEWS004	CHEWS004		Bone	Shoulder	Primary	92603
+CHEWS005	CHEWS005		Bone	Tibia	Primary	92603
+CHEWS006	CHEWS006		Bone	Tibia	Primary	92603
+CHEWS007	CHEWS007		Bone	Femur	Primary	92603
+CHEWS008	CHEWS008		Bone	Face	Primary	92603
+CHEWS009	CHEWS009		Bone	Pelvis	Primary	92603
+CHEWS010	CHEWS010		Bone	Scalp	Primary	92603
+CHEWS011	CHEWS011		Bone	Clavicle	Primary	92603
+CHEWS012	CHEWS012		Bone	Neck	Primary	92603
+CHEWS013	CHEWS013		Bone	Tibia	Primary	92603
+CHEWS014	CHEWS014		Bone	Tibia	Primary	92603
+CHEWS015	CHEWS015		Bone	Pelvis	Primary	92603
+CHEWS016	CHEWS016		Bone	Pelvis	Primary	92603
+CHEWS017	CHEWS017		Bone	Rib	Primary	92603
+CHEWS018	CHEWS018		Bone	Fibula	Primary	92603
+CHEWS019	CHEWS019		Muscle	Thigh	Primary	92603
+CHEWS020	CHEWS020		Other	Thorax	Primary	92603
+CHEWS021	CHEWS021		Bone	Fibula	Primary	92603
+CHEWS023	CHEWS023		Bone	Tibia	Primary	92603
+CHEWS024	CHEWS024		Bone	Chest wall	Primary	92603
+CHEWS025	CHEWS025		Bone	Paraspinal	Primary	92603
+CHEWS026	CHEWS026		Bone	Fibula	Primary	92603
+CHEWS027	CHEWS027		Bone	Femur	Primary	92603
+CHEWS028	CHEWS028		Bone	Parasacral	Primary	92603
+CHEWS029	CHEWS029		Bone	Chest wall	Primary	92603
+CHEWS030	CHEWS030		Bone	Chest wall	Primary	92603
+CHEWS031	CHEWS031		Muscle	Buttock	Primary	92603
+CHEWS032	CHEWS032		Bone	Iliac crest	Primary	92603
+CHEWS033	CHEWS033		Bone	Clavicle	Primary	92603
+CHEWS034	CHEWS034		Bone	Femur	Primary	92603
+CHEWS035	CHEWS035		Bone	Tibia	Primary	92603
+CHEWS036	CHEWS036		Bone	Humerus	Primary	92603
+SJDES007	SJDES007-R2	Recurrence_2	Bone	Scapula	Primary	92603
+SJDES014	SJDES014-R2	Recurrence_2	Bone	Chest wall	Primary	92603
+03-P152	03-P152				unknown	92603
+05-P103	05-P103				unknown	92603
+01-P034	01-P034				unknown	92603
+01-P1216	01-P1216				unknown	92603
+01-P131	01-P131				unknown	92603
+01-P459	01-P459				unknown	92603
+01-P8014	01-P8014				unknown	92603
+02-P170	02-P170				unknown	92603
+03-P1004	03-P1004				unknown	92603
+05-P8014	05-P8014				unknown	92603
+05-P8068	05-P8068				unknown	92603
+06-P036	06-P036				unknown	92603
+06-P2007	06-P2007				unknown	92603
+07-P075	07-P075				unknown	92603
+07-P1079	07-P1079				unknown	92603
+07-P8041	07-P8041				unknown	92603
+08-P054	08-P054				unknown	92603
+08-P1004	08-P1004				unknown	92603
+08-P1177	08-P1177				unknown	92603
+08-P462	08-P462				unknown	92603
+08-P8005	08-P8005				unknown	92603
+10-P083	10-P083				unknown	92603
+10-P1058	10-P1058				unknown	92603
+10-P4110	10-P4110				unknown	92603
+10-P8045	10-P8045				unknown	92603
+11-P048	11-P048				unknown	92603
+11-P8004	11-P8004				unknown	92603
+12-P2194	12-P2194				unknown	92603
+12-P279	12-P279				unknown	92603
+12-P4072	12-P4072				unknown	92603
+12-P412	12-P412				unknown	92603
+12-P616	12-P616				unknown	92603
+12-P8001	12-P8001				unknown	92603

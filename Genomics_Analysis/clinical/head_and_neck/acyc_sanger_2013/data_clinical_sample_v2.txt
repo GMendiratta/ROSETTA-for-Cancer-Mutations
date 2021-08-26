@@ -1,0 +1,25 @@
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE	CANCER_TYPE_DETAILED	PRIMARY_SITE	TUMOR_TISSUE_SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+PD3197a	PD3197a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3178a	PD3178a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Oropharynx	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3195a	PD3195a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3208a	PD3208a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3184a	PD3184a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3188a	PD3188a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3198a	PD3198a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3216a	PD3216a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Head and Neck	Maxilla	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3185a	PD3185a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Oral cavity	Palate	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3199a	PD3199a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Oral cavity	Floor of mouth	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3194a	PD3194a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Oral cavity	Floor of mouth	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3186a	PD3186a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Oral cavity	Tongue	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3196a	PD3196a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Oral cavity	Base of tongue	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3191a	PD3191a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Orbital cavity	Orbital mass	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3189a	PD3189a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Orbital cavity	Orbital mass	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3192a	PD3192a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Orbital cavity	Orbital mass	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3181a	PD3181a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3193a	PD3193a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Submandibular gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3200a	PD3200a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3180a	PD3180a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3179a	PD3179a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3190a	PD3190a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Lymph node	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3182a	PD3182a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma
+PD3226a	PD3226a	Salivary Carcinoma	Adenoid Cystic Carcinoma	Salivary gland	Parotid gland	Primary	70267	Salivary Adenoid Cystic Carcinoma

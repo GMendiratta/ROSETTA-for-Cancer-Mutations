@@ -1,0 +1,16 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE
+990196	990196	Extrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+715	715	Extrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+824	824	Extrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+930	930	Extrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+1202	1202	Extrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+2000123	2000123	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+2000861	2000861	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+17231203	17231203	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+21914187	21914187	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+23474504	23474504	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+29150572	29150572	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+33587479	33587479	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+72600277	72600277	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+77071507	77071507	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603
+3001	3001	Intrahepatic	Primary	Hepatobiliary Cancer	Cholangiocarcinoma	81603

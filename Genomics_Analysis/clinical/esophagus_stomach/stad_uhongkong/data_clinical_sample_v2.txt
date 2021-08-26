@@ -1,0 +1,23 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	TUMOR_SITE	PATHOLOGY_LAUREN	TUMOR_DIFFERENTIATION	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+pfg005T	pfg005T	Primary	Stomach	antrum	diffuse (signet ring cell)	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg015T	pfg015T	Primary	Stomach	antrum	diffuse (signet ring cell)	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg002T	pfg002T	Primary	Stomach	antrum	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg006T	pfg006T	Primary	Stomach	antrum	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg007T	pfg007T	Primary	Stomach	cardia	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg008T	pfg008T	Primary	Stomach	antrum	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg009T	pfg009T	Primary	Stomach	body	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg010T	pfg010T	Primary	Stomach	antrum	intestinal	well	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg011T	pfg011T	Primary	Stomach	cardia	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg014T	pfg014T	Primary	Stomach	cardia	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg016T	pfg016T	Primary	Stomach	antrum	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg017T	pfg017T	Primary	Stomach	antrum	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg018T	pfg018T	Primary	Stomach	body	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg019T	pfg019T	Primary	Stomach	body	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg020T	pfg020T	Primary	Stomach	cardia	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg021T	pfg021T	Primary	Stomach	body	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg022T	pfg022T	Primary	Stomach	body	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg024T	pfg024T	Primary	Stomach	cardia	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg025T	pfg025T	Primary	Stomach	antrum	intestinal	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg029T	pfg029T	Primary	Stomach	antrum	intestinal	moderate	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg001T	pfg001T	Primary	Stomach	cardia	mixed	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+pfg003T	pfg003T	Primary	Stomach	body	mixed	poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma

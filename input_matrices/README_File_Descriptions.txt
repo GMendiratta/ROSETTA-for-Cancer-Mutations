@@ -1,0 +1,5 @@
+TCGA2013_Kandoth_Supplementary_Table_4.txt contains validation data from Kandoth et al with citation included in the manuscript.
+TCGA_2018_Bailey.txt contains validation data from Bailey et al with citation in manuscript.
+Lists_CT1and2.txt contain consensus tier 1 and 2 gene lists cited in the manuscript. Consensus lists was obtained from COSMIC with the citation in manuscript.
+List_Ras_Kinome.txt contain RAS pathway and kinome gene lists cited in the manuscript. 
+Homo_sapiens_gene_info_GM.txt was the file shared in cbioportal docs which we have used to identify redundant gene names. The file was obtained from the following link and then a few rows at the end of the file with inconsistent information were deleted. ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz

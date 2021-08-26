@@ -1,0 +1,183 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	SITE	TUMOR_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	GRADE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-IG-A3Y9	TCGA-IG-A3Y9-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YA	TCGA-IG-A3YA-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YB	TCGA-IG-A3YB-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YC	TCGA-IG-A3YC-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A4P3	TCGA-IG-A4P3-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A50L	TCGA-IG-A50L-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A51D	TCGA-IG-A51D-01	C15.3	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A5S3	TCGA-IG-A5S3-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A625	TCGA-IG-A625-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A8O2	TCGA-IG-A8O2-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A97H	TCGA-IG-A97H-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A97I	TCGA-IG-A97I-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FA	TCGA-JY-A6FA-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FD	TCGA-JY-A6FD-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FE	TCGA-JY-A6FE-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FG	TCGA-JY-A6FG-01	C16.0	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A93F	TCGA-JY-A93F-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-KH-A6WC	TCGA-KH-A6WC-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A43H	TCGA-L5-A43H-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A43J	TCGA-L5-A43J-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88S	TCGA-L5-A88S-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88W	TCGA-L5-A88W-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88Z	TCGA-L5-A88Z-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A8NK	TCGA-L5-A8NK-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A8NQ	TCGA-L5-A8NQ-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L7-A56G	TCGA-L7-A56G-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49K	TCGA-LN-A49K-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49L	TCGA-LN-A49L-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49M	TCGA-LN-A49M-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49N	TCGA-LN-A49N-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49O	TCGA-LN-A49O-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49P	TCGA-LN-A49P-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49R	TCGA-LN-A49R-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49S	TCGA-LN-A49S-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49U	TCGA-LN-A49U-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49V	TCGA-LN-A49V-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49W	TCGA-LN-A49W-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49X	TCGA-LN-A49X-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49Y	TCGA-LN-A49Y-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A1	TCGA-LN-A4A1-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A2	TCGA-LN-A4A2-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A3	TCGA-LN-A4A3-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A4	TCGA-LN-A4A4-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A5	TCGA-LN-A4A5-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A6	TCGA-LN-A4A6-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A8	TCGA-LN-A4A8-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A9	TCGA-LN-A4A9-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4MQ	TCGA-LN-A4MQ-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4MR	TCGA-LN-A4MR-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U5	TCGA-LN-A5U5-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U6	TCGA-LN-A5U6-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U7	TCGA-LN-A5U7-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HV	TCGA-LN-A7HV-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HW	TCGA-LN-A7HW-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HX	TCGA-LN-A7HX-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HY	TCGA-LN-A7HY-01	C15.3	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HZ	TCGA-LN-A7HZ-01	C15.3	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8HZ	TCGA-LN-A8HZ-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8I0	TCGA-LN-A8I0-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8I1	TCGA-LN-A8I1-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FO	TCGA-LN-A9FO-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FP	TCGA-LN-A9FP-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FQ	TCGA-LN-A9FQ-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FR	TCGA-LN-A9FR-01	C15.3	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Q9-A6FU	TCGA-Q9-A6FU-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-S8-A6BW	TCGA-S8-A6BW-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-V5-A7RC	TCGA-V5-A7RC-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-V5-AASV	TCGA-V5-AASV-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EO	TCGA-VR-A8EO-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EP	TCGA-VR-A8EP-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8ER	TCGA-VR-A8ER-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8ET	TCGA-VR-A8ET-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EU	TCGA-VR-A8EU-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EW	TCGA-VR-A8EW-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EX	TCGA-VR-A8EX-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EY	TCGA-VR-A8EY-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EZ	TCGA-VR-A8EZ-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8Q7	TCGA-VR-A8Q7-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA4G	TCGA-VR-AA4G-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7B	TCGA-VR-AA7B-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7D	TCGA-VR-AA7D-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7I	TCGA-VR-AA7I-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-XP-A8T6	TCGA-XP-A8T6-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-XP-A8T7	TCGA-XP-A8T7-01	C15.4	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-XP-A8T8	TCGA-XP-A8T8-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A8JD	TCGA-Z6-A8JD-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A8JE	TCGA-Z6-A8JE-01	C15.3	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G3	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A9VB	TCGA-Z6-A9VB-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-AAPN	TCGA-Z6-AAPN-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3I8	TCGA-IG-A3I8-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3QL	TCGA-IG-A3QL-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A4QT	TCGA-IG-A4QT-01	C15.1	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G2	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A5B8	TCGA-IG-A5B8-01	C15.9	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A6QS	TCGA-IG-A6QS-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	G1	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A4OM	TCGA-L5-A4OM-01	C15.5	Esophagus	Esophagus Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	Esophageal Squamous Cell Carcinoma	GX	Primary	70217	Esophageal Squamous Cell Carcinoma
+TCGA-2H-A9GF	TCGA-2H-A9GF-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GH	TCGA-2H-A9GH-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GI	TCGA-2H-A9GI-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GJ	TCGA-2H-A9GJ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GK	TCGA-2H-A9GK-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GL	TCGA-2H-A9GL-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GM	TCGA-2H-A9GM-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GN	TCGA-2H-A9GN-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GO	TCGA-2H-A9GO-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GQ	TCGA-2H-A9GQ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GR	TCGA-2H-A9GR-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-IC-A6RE	TCGA-IC-A6RE-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-IG-A4QS	TCGA-IG-A4QS-01	C15.1	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-IG-A7DP	TCGA-IG-A7DP-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6F8	TCGA-JY-A6F8-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G1	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6FB	TCGA-JY-A6FB-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6FH	TCGA-JY-A6FH-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A938	TCGA-JY-A938-01	C16.0	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A939	TCGA-JY-A939-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93C	TCGA-JY-A93C-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93D	TCGA-JY-A93D-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93E	TCGA-JY-A93E-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43E	TCGA-L5-A43E-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43I	TCGA-L5-A43I-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43M	TCGA-L5-A43M-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OE	TCGA-L5-A4OE-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OF	TCGA-L5-A4OF-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OG	TCGA-L5-A4OG-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G1	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OH	TCGA-L5-A4OH-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OI	TCGA-L5-A4OI-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OJ	TCGA-L5-A4OJ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4ON	TCGA-L5-A4ON-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OO	TCGA-L5-A4OO-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OP	TCGA-L5-A4OP-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OQ	TCGA-L5-A4OQ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OR	TCGA-L5-A4OR-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OS	TCGA-L5-A4OS-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OT	TCGA-L5-A4OT-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OU	TCGA-L5-A4OU-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OW	TCGA-L5-A4OW-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OX	TCGA-L5-A4OX-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A88V	TCGA-L5-A88V-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A88Y	TCGA-L5-A88Y-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A891	TCGA-L5-A891-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A893	TCGA-L5-A893-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NE	TCGA-L5-A8NE-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NF	TCGA-L5-A8NF-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NG	TCGA-L5-A8NG-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NH	TCGA-L5-A8NH-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NI	TCGA-L5-A8NI-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NJ	TCGA-L5-A8NJ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NL	TCGA-L5-A8NL-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NM	TCGA-L5-A8NM-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NN	TCGA-L5-A8NN-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NR	TCGA-L5-A8NR-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NS	TCGA-L5-A8NS-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NT	TCGA-L5-A8NT-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NU	TCGA-L5-A8NU-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NV	TCGA-L5-A8NV-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NW	TCGA-L5-A8NW-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L7-A6VZ	TCGA-L7-A6VZ-01	C15.4	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-M9-A5M8	TCGA-M9-A5M8-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-Q9-A6FW	TCGA-Q9-A6FW-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6DN	TCGA-R6-A6DN-01	C15.4	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6DQ	TCGA-R6-A6DQ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6KZ	TCGA-R6-A6KZ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6L4	TCGA-R6-A6L4-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6L6	TCGA-R6-A6L6-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6XG	TCGA-R6-A6XG-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6XQ	TCGA-R6-A6XQ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6Y0	TCGA-R6-A6Y0-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6Y2	TCGA-R6-A6Y2-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8W5	TCGA-R6-A8W5-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8W8	TCGA-R6-A8W8-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8WC	TCGA-R6-A8WC-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8WG	TCGA-R6-A8WG-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-RE-A7BO	TCGA-RE-A7BO-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-S8-A6BV	TCGA-S8-A6BV-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-V5-A7RB	TCGA-V5-A7RB-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma
+TCGA-V5-A7RE	TCGA-V5-A7RE-01	C15.4	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-V5-AASW	TCGA-V5-AASW-01	C15.9	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-V5-AASX	TCGA-V5-AASX-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-VR-AA4D	TCGA-VR-AA4D-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-X8-AAAR	TCGA-X8-AAAR-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G1	Primary	70337	Esophageal Adenocarcinoma
+TCGA-ZR-A9CJ	TCGA-ZR-A9CJ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G3	Primary	70337	Esophageal Adenocarcinoma
+TCGA-VR-A8EQ	TCGA-VR-A8EQ-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	G2	Primary	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43C	TCGA-L5-A43C-01	C15.5	Esophagus	Esophagus Adenocarcinoma (NOS)	Esophagogastric Adenocarcinoma	Esophageal Adenocarcinoma	GX	Primary	70337	Esophageal Adenocarcinoma

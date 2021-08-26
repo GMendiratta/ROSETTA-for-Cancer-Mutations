@@ -1,0 +1,23 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE_OF_RECURRENCE	OVERALL_PATIENT_HISTOLOGY	CODE	CATEGORY_NAME
+NYU1162	NYU1162	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Died Postop	Epithelial	70067	Mesothelioma
+NYU1189	NYU1189	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local Ribs	Epithelial	70067	Mesothelioma
+NYU1245	NYU1245	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local, Contralateral	Desmoplastic	70067	Mesothelioma
+NYU1283	NYU1283	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Perciardium, Contralateral	Biphasic	70067	Mesothelioma
+NYU1353	NYU1353	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local, Then Pulm Mets	Epithelial	70067	Mesothelioma
+NYU1363	NYU1363	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Pulm Mets	Epithelial	70067	Mesothelioma
+NYU1396	NYU1396	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU269	NYU269	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU274	NYU274	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Abdomen	Epithelial	70067	Mesothelioma
+NYU321	NYU321	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Biphasic	70067	Mesothelioma
+NYU460	NYU460	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Abdomen	Epithelial	70067	Mesothelioma
+NYU517	NYU517	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Contralateral Lung	Epithelial	70067	Mesothelioma
+NYU587	NYU587	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU589	NYU589	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Abdomen	Epithelial	70067	Mesothelioma
+NYU647	NYU647	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU658	NYU658	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local And Abdomen	Epithelial	70067	Mesothelioma
+NYU695	NYU695	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Biphasic	70067	Mesothelioma
+NYU754	NYU754	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	No	Epithelial	70067	Mesothelioma
+NYU872	NYU872	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU929	NYU929	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Abdomen	Epithelial	70067	Mesothelioma
+NYU937	NYU937	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma
+NYU939	NYU939	Primary	Pleura	Mesothelioma	Pleural Mesothelioma	Local	Epithelial	70067	Mesothelioma

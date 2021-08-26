@@ -1,0 +1,24 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+ACINAR01	ACINAR01	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR02	ACINAR02	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR03	ACINAR03	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR04	ACINAR04	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR05	ACINAR05	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR06	ACINAR06	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR08	ACINAR08	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR09	ACINAR09	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR10	ACINAR10	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR11	ACINAR11	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR13	ACINAR13	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR14	ACINAR14	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR15	ACINAR15	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR17	ACINAR17	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR18	ACINAR18	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR19	ACINAR19	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR20	ACINAR20	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR21	ACINAR21	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR25	ACINAR25	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR26	ACINAR26	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR27	ACINAR27	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR28	ACINAR28	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas
+ACINAR29	ACINAR29	Pancreas	Primary	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas	70397	Acinar Cell Carcinoma of the Pancreas

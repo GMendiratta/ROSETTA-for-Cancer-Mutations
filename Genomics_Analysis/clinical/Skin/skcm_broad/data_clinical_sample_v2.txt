@@ -1,0 +1,122 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	PRIMARY_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+MEL-JWCI-WGS-1	MEL-JWCI-WGS-1	Primary	Skin Melanoma	Face (Except Nose)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-11	MEL-JWCI-WGS-11	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-12	MEL-JWCI-WGS-12	Primary	Skin Melanoma	Arm, Upper Dorsal	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-13	MEL-JWCI-WGS-13	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-14	MEL-JWCI-14	Primary	Skin Melanoma	Neck, Posterior Midline	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-15	MEL-JWCI-WGS-15	Primary	Skin Melanoma	Leg, Lower Anterior	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-18	MEL-JWCI-WGS-18	Primary	Skin Melanoma	Leg, Lower Posterior	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-19	MEL-JWCI-WGS-19	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-2	MEL-JWCI-WGS-2	Primary	Skin Melanoma	Plantar Foot (Except Toes)	Melanoma	Cutaneous Melanoma	87443	Acral_lentiginous_melanoma_malignant
+MEL-JWCI-WGS-20	MEL-JWCI-WGS-20	Primary	Skin Melanoma	Subungual, Fingers	Melanoma	Cutaneous Melanoma	87443	Acral_lentiginous_melanoma_malignant
+MEL-JWCI-WGS-21	MEL-JWCI-WGS-21	Primary	Skin Melanoma	Thigh, Anterior	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-22	MEL-JWCI-WGS-22	Primary	Skin Melanoma	Neck, Anterior (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-23	MEL-JWCI-WGS-23	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-24	MEL-JWCI-WGS-24	Primary	Skin Melanoma	Thigh, Anterior	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-25	MEL-JWCI-WGS-25	Primary	Skin Melanoma	Neck, Anterior (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-26	MEL-JWCI-WGS-26	Primary	Skin Melanoma	Eye, Iris & Sclera, Choroid, Ocular	Melanoma	Cutaneous Melanoma	70097	Uveal Melanoma
+MEL-JWCI-WGS-27	MEL-JWCI-27	Primary	Skin Melanoma	Scalp, Posterior (Behind Anterior Part Of Helix)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-29	MEL-JWCI-WGS-29	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-3	MEL-JWCI-WGS-3	Primary	Skin Melanoma	Chest, Trunk Anterior Upper (Except Nipple & Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-31	MEL-JWCI-WGS-31	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-32	MEL-JWCI-WGS-32	Primary	Skin Melanoma	Forearm, Volar	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-33	MEL-JWCI-WGS-33	Primary	Skin Melanoma	Leg, Lower Posterior	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-34	MEL-JWCI-WGS-34	Primary	Skin Melanoma	Leg & Hip	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-35	MEL-JWCI-WGS-35	Primary	Skin Melanoma	Neck, Anterior (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-36	MEL-JWCI-WGS-36	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-37	MEL-JWCI-WGS-37	Primary	Skin Melanoma	Chest, Trunk Anterior Upper (Except Nipple & Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-38	MEL-JWCI-WGS-38	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-39	MEL-JWCI-WGS-39	Primary	Skin Melanoma	Back, Trunk Upper Midline	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-4	MEL-JWCI-WGS-4	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-42	MEL-JWCI-WGS-42	Primary	Skin Melanoma	Chest, Trunk Anterior Upper (Except Nipple & Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-43	MEL-JWCI-WGS-43	Primary	Skin Melanoma	Back, Trunk Posterior Upper (Except Midline)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-5	MEL-JWCI-WGS-5	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-6	MEL-JWCI-WGS-6	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-7	MEL-JWCI-WGS-7	Primary	Skin Melanoma	Scalp, Posterior (Behind Anterior Part Of Helix)	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-JWCI-WGS-8	MEL-JWCI-WGS-8	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-04	MEL-Ma-Mel-04	Primary	Skin Melanoma	Thigh	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-05	MEL-Ma-Mel-05	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-08a	MEL-Ma-Mel-08a	Primary	Skin Melanoma	Abdomen	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-102	MEL-Ma-Mel-102	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-103b	MEL-Ma-Mel-103b	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-105	MEL-Ma-Mel-105	Primary	Skin Melanoma	Upper Arm	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-107	MEL-Ma-Mel-107	Primary	Skin Melanoma	Finger/Toe	Melanoma	Cutaneous Melanoma	87443	Acral_lentiginous_melanoma_malignant
+MEL-Ma-Mel-108	MEL-Ma-Mel-108	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-114	MEL-Ma-Mel-114	Primary	Skin Melanoma	Breast	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-119	MEL-Ma-Mel-119	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-120	MEL-Ma-Mel-120	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-122	MEL-Ma-Mel-122	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-123	MEL-Ma-Mel-123	Primary	Skin Melanoma	Nose	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-15	MEL-Ma-Mel-15	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-16	MEL-Ma-Mel-16	Primary	Skin Melanoma	Thigh	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-19	MEL-Ma-Mel-19	Primary	Skin Melanoma	Thigh	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-27	MEL-Ma-Mel-27	Primary	Skin Melanoma	Palmar/Plantar	Melanoma	Cutaneous Melanoma	87443	Acral_lentiginous_melanoma_malignant
+MEL-Ma-Mel-28	MEL-Ma-Mel-28	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-35	MEL-Ma-Mel-35	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-36	MEL-Ma-Mel-36	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-37	MEL-Ma-Mel-37	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-48	MEL-Ma-Mel-48	Primary	Skin Melanoma	Face	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-53	MEL-Ma-Mel-53	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-54a	MEL-Ma-Mel-54a	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-55	MEL-Ma-Mel-55	Primary	Skin Melanoma	Abdomen	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-59	MEL-Ma-Mel-59	Primary	Skin Melanoma	Thigh	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-62	MEL-Ma-Mel-62	Primary	Skin Melanoma	Thigh	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-63	MEL-Ma-Mel-63	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-65	MEL-Ma-Mel-65	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-67	MEL-Ma-Mel-67	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-71	MEL-Ma-Mel-71	Primary	Skin Melanoma	Back The Hand/Food	Melanoma	Cutaneous Melanoma	87443	Acral_lentiginous_melanoma_malignant
+MEL-Ma-Mel-76	MEL-Ma-Mel-76	Primary	Skin Melanoma	Breast	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-79	MEL-Ma-Mel-79	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-85	MEL-Ma-Mel-85	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-86	MEL-Ma-Mel-86	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-91	MEL-Ma-Mel-91	Primary	Skin Melanoma	Breast	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-92	MEL-Ma-Mel-92	Primary	Skin Melanoma	Lower Leg	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-Ma-Mel-94	MEL-Ma-Mel-94	Primary	Skin Melanoma	Back	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME001	ME001	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME002	ME002	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME009	ME009	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME010	ME010	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME011	ME011	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME012	ME012	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME014	ME014	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME015	ME015	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME016	ME016	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME017	ME017	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME018	ME018	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME020	ME020	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME021	ME021	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME024	ME024	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME029	ME029	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME030	ME030	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME032	ME032	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME033	ME033	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME034	ME034	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME035	ME035	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME037	ME037	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME041	ME041	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME043	ME043	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME044	ME044	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME045	ME045	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME048	ME048	Primary	Skin Melanoma	Extremities	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME049	ME049	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+ME050	ME050	Primary	Skin Melanoma	Trunk	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+Mel_BRAFi_02_PRE	Mel_BRAFi_02_PRE	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+Mel-BRAFi-03	Mel-BRAFi-03	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13447	MEL-13447	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13456	MEL-13456	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13463	MEL-13463	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13468	MEL-13468	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13473	MEL-13473	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13531	MEL-13531	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13537	MEL-13537	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13543	MEL-13543	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13549	MEL-13549	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13560	MEL-13560	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13561	MEL-13561	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13567	MEL-13567	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13575	MEL-13575	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13591	MEL-13591	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-13600	MEL-13600	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-UKRV-Mel-20	MEL-UKRV-Mel-20	Primary	Skin Melanoma	Neck	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-UKRV-Mel-24	MEL-UKRV-Mel-24	Primary	Skin Melanoma		Melanoma	Cutaneous Melanoma	70107	Malignant melanoma
+MEL-UKRV-Mel-6	MEL-UKRV-Mel-6	Primary	Skin Melanoma	Shoulder	Melanoma	Cutaneous Melanoma	70107	Malignant melanoma

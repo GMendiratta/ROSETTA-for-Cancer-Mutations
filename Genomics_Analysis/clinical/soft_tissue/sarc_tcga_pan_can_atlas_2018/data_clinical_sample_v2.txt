@@ -1,0 +1,254 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	TUMOR_TISSUE_SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-DX-AATS	TCGA-DX-AATS-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Retroperitoneum	Primary	70027	Sarcoma
+TCGA-HB-A3YV	TCGA-HB-A3YV-01	C64.9	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Kidney	Primary	70027	Sarcoma
+TCGA-IE-A4EJ	TCGA-IE-A4EJ-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A7EF	TCGA-DX-A7EF-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A7ET	TCGA-DX-A7ET-01	C49.6	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Abdominal Wal	Primary	70027	Sarcoma
+TCGA-DX-A8BH	TCGA-DX-A8BH-01	C49.6	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Abdominal Wal	Primary	70027	Sarcoma
+TCGA-DX-A8BK	TCGA-DX-A8BK-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BL	TCGA-DX-A8BL-01	C49.1	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Shoulder/Axilla	Primary	70027	Sarcoma
+TCGA-DX-A8BM	TCGA-DX-A8BM-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BN	TCGA-DX-A8BN-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BO	TCGA-DX-A8BO-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-DX-A8BS	TCGA-DX-A8BS-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BX	TCGA-DX-A8BX-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Retroperitoneum	Primary	70027	Sarcoma
+TCGA-DX-AB2J	TCGA-DX-AB2J-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Pelvis	Primary	70027	Sarcoma
+TCGA-DX-AB2X	TCGA-DX-AB2X-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-HB-A2OT	TCGA-HB-A2OT-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-IE-A6BZ	TCGA-IE-A6BZ-01	C49.5	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Buttock	Primary	70027	Sarcoma
+TCGA-LI-A9QH	TCGA-LI-A9QH-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-MB-A5Y8	TCGA-MB-A5Y8-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-MB-A5Y9	TCGA-MB-A5Y9-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-MB-A8JK	TCGA-MB-A8JK-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-QC-A6FX	TCGA-QC-A6FX-01	C49.6	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Back	Primary	70027	Sarcoma
+TCGA-QC-A7B5	TCGA-QC-A7B5-01	C49.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Head	Primary	70027	Sarcoma
+TCGA-QC-AA9N	TCGA-QC-AA9N-01	C49.5	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Buttock	Primary	70027	Sarcoma
+TCGA-QQ-A5V9	TCGA-QQ-A5V9-01	C49.9	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Retroperitoneum	Primary	70027	Sarcoma
+TCGA-SG-A6Z4	TCGA-SG-A6Z4-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-SG-A849	TCGA-SG-A849-01	C49.1	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Upper Arm/Elbow	Primary	70027	Sarcoma
+TCGA-SI-AA8B	TCGA-SI-AA8B-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-VT-A80G	TCGA-VT-A80G-01	C49.5	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Extremity	Primary	70027	Sarcoma
+TCGA-VT-A80J	TCGA-VT-A80J-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-VT-AB3D	TCGA-VT-AB3D-01	C49.1	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Upper Arm/Elbow	Primary	70027	Sarcoma
+TCGA-WK-A8Y0	TCGA-WK-A8Y0-01	C49.3	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Chest Wall	Primary	70027	Sarcoma
+TCGA-X6-A8C2	TCGA-X6-A8C2-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-X6-A8C4	TCGA-X6-A8C4-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-X9-A973	TCGA-X9-A973-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Pelvis	Primary	70027	Sarcoma
+TCGA-Z4-AAPG	TCGA-Z4-AAPG-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Retroperitoneum	Primary	70027	Sarcoma
+TCGA-DX-A6YQ	TCGA-DX-A6YQ-01	C49.5	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Lower Extremity	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YR	TCGA-DX-A6YR-01	C49.3	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Chest Wall	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YS	TCGA-DX-A6YS-01	C49.5	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Lower Extremity	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YT	TCGA-DX-A6YT-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YU	TCGA-DX-A6YU-01	C49.3	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Chest Wall	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YV	TCGA-DX-A6YV-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YX	TCGA-DX-A6YX-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6YZ	TCGA-DX-A6YZ-01	C49.5	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A6Z0	TCGA-DX-A6Z0-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A7EU	TCGA-DX-A7EU-01	C48.0	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Pelvis	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A8BG	TCGA-DX-A8BG-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A8BV	TCGA-DX-A8BV-01	C48.0	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Retroperitoneum	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB2E	TCGA-DX-AB2E-01	C49.3	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Shoulder/Axilla	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB2L	TCGA-DX-AB2L-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB2S	TCGA-DX-AB2S-01	C49.6	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Back	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB2T	TCGA-DX-AB2T-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB2V	TCGA-DX-AB2V-01	C49.6	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Back	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB30	TCGA-DX-AB30-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-AB32	TCGA-DX-AB32-01	C49.3	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Chest Wall	Primary	70607	Fibromatous neoplasms
+TCGA-K1-A6RU	TCGA-K1-A6RU-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-MJ-A68J	TCGA-MJ-A68J-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Lower Leg/Calf	Primary	70607	Fibromatous neoplasms
+TCGA-X6-A7W8	TCGA-X6-A7W8-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-X6-A8C3	TCGA-X6-A8C3-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Lower Leg/Calf	Primary	70607	Fibromatous neoplasms
+TCGA-X6-A8C6	TCGA-X6-A8C6-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-DX-A8BJ	TCGA-DX-A8BJ-01	C49.3	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Chest Wall	Primary	70027	Sarcoma
+TCGA-DX-A8BP	TCGA-DX-A8BP-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BR	TCGA-DX-A8BR-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-A8BT	TCGA-DX-A8BT-01	C49.3	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Shoulder/Axilla	Primary	70027	Sarcoma
+TCGA-DX-A8BU	TCGA-DX-A8BU-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-AB2O	TCGA-DX-AB2O-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-DX-AB2P	TCGA-DX-AB2P-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-AB2Q	TCGA-DX-AB2Q-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Lower Leg/Calf	Primary	70027	Sarcoma
+TCGA-DX-AB2W	TCGA-DX-AB2W-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-DX-AB2Z	TCGA-DX-AB2Z-01	C49.6	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Pleomorphic MFH|Undifferentiated Pleomorphic Sarcoma	Thigh/Knee	Primary	70027	Sarcoma
+TCGA-FX-A3TO	TCGA-FX-A3TO-01	C48.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Retroperitoneum	Primary	70027	Sarcoma
+TCGA-LI-A67I	TCGA-LI-A67I-01	C49.2	Sarcoma	Myxofibrosarcoma	Myxofibrosarcoma	Thigh/Knee	Primary	70607	Fibromatous neoplasms
+TCGA-QQ-A5V2	TCGA-QQ-A5V2-01	C49.5	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Giant Cell MFH, Undifferentiated Pleomorphic Sarcoma"	Pelvis	Primary	70027	Sarcoma
+TCGA-DX-A6B8	TCGA-DX-A6B8-01	C49.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Shoulder/Axilla	Primary	70637	Myomatous neoplasms
+TCGA-MO-A47P	TCGA-MO-A47P-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Kidney	Primary	70627	Lipomatous neoplams
+TCGA-UE-A6QT	TCGA-UE-A6QT-01	C49.0	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Chest Wall|Head	Primary	70027	Sarcoma
+TCGA-UE-A6QU	TCGA-UE-A6QU-01	C49.2	Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	"Pleomorphic Sarcoma (UPS), Undifferentiated"	Shoulder/Axilla	Primary	70027	Sarcoma
+TCGA-3B-A9HI	TCGA-3B-A9HI-01	C49.1	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Upper Arm/Elbow	Primary	70627	Lipomatous neoplams
+TCGA-3B-A9HJ	TCGA-3B-A9HJ-01	C49.5	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Groin	Primary	70627	Lipomatous neoplams
+TCGA-3B-A9HL	TCGA-3B-A9HL-01	C48.1	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-3B-A9HO	TCGA-3B-A9HO-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Intra-Abdominal	Primary	70627	Lipomatous neoplams
+TCGA-3R-A8YX	TCGA-3R-A8YX-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1KU	TCGA-DX-A1KU-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1KW	TCGA-DX-A1KW-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1KX	TCGA-DX-A1KX-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Pelvis	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1KY	TCGA-DX-A1KY-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1KZ	TCGA-DX-A1KZ-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1L0	TCGA-DX-A1L0-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1L1	TCGA-DX-A1L1-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1L2	TCGA-DX-A1L2-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1L3	TCGA-DX-A1L3-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A1L4	TCGA-DX-A1L4-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23R	TCGA-DX-A23R-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23T	TCGA-DX-A23T-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23U	TCGA-DX-A23U-01	C49.5	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Pelvis	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23V	TCGA-DX-A23V-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23Y	TCGA-DX-A23Y-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A23Z	TCGA-DX-A23Z-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A240	TCGA-DX-A240-01	C63.1	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Spermatic Cord	Primary	70627	Lipomatous neoplams
+TCGA-DX-A2IZ	TCGA-DX-A2IZ-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A2J0	TCGA-DX-A2J0-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A2J1	TCGA-DX-A2J1-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A2J4	TCGA-DX-A2J4-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Intra-Abdominal	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3LS	TCGA-DX-A3LS-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3LT	TCGA-DX-A3LT-01	C49.1	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Upper Arm/Elbow	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3LU	TCGA-DX-A3LU-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3LW	TCGA-DX-A3LW-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3LY	TCGA-DX-A3LY-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3M1	TCGA-DX-A3M1-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3M2	TCGA-DX-A3M2-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3U5	TCGA-DX-A3U5-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A3U6	TCGA-DX-A3U6-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A48N	TCGA-DX-A48N-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A6BE	TCGA-DX-A6BE-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A6BF	TCGA-DX-A6BF-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A6BG	TCGA-DX-A6BG-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A6BH	TCGA-DX-A6BH-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Pelvis	Primary	70627	Lipomatous neoplams
+TCGA-DX-A6BK	TCGA-DX-A6BK-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A7EI	TCGA-DX-A7EI-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-A7ES	TCGA-DX-A7ES-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB2F	TCGA-DX-AB2F-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB2G	TCGA-DX-AB2G-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB2H	TCGA-DX-AB2H-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB35	TCGA-DX-AB35-01	C18.6	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB36	TCGA-DX-AB36-01	C49.3	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Chest Wall	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB37	TCGA-DX-AB37-01	C49.2	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Thigh/Knee	Primary	70627	Lipomatous neoplams
+TCGA-DX-AB3A	TCGA-DX-AB3A-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-FX-A2QS	TCGA-FX-A2QS-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum/Upper Abdominal	Primary	70627	Lipomatous neoplams
+TCGA-FX-A3NK	TCGA-FX-A3NK-01	C16.9	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Gastric	Primary	70627	Lipomatous neoplams
+TCGA-IF-A3RQ	TCGA-IF-A3RQ-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Intra-Abdominal|Pelvis|Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-QQ-A5VA	TCGA-QQ-A5VA-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum	Primary	70627	Lipomatous neoplams
+TCGA-SG-A6Z7	TCGA-SG-A6Z7-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Kidney|Liver|Retroperitoneum/Upper Abdominal	Primary	70627	Lipomatous neoplams
+TCGA-WK-A8XO	TCGA-WK-A8XO-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Retroperitoneum|Retroperitoneum/Upper Abdominal|Small Intestine	Primary	70627	Lipomatous neoplams
+TCGA-WK-A8XQ	TCGA-WK-A8XQ-01	C48.0	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Intra-Abdominal|Retroperitoneum/Upper Abdominal	Primary	70627	Lipomatous neoplams
+TCGA-Z4-A9VC	TCGA-Z4-A9VC-01	C49.2	Sarcoma	Dedifferentiated Liposarcoma	Dedifferentiated Liposarcoma	Thigh/Knee	Primary	70627	Lipomatous neoplams
+TCGA-3B-A9HP	TCGA-3B-A9HP-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HQ	TCGA-3B-A9HQ-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HR	TCGA-3B-A9HR-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HT	TCGA-3B-A9HT-01	C02.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Head and Neck	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HU	TCGA-3B-A9HU-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HV	TCGA-3B-A9HV-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HX	TCGA-3B-A9HX-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Colon	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HY	TCGA-3B-A9HY-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HZ	TCGA-3B-A9HZ-01	C49.3	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Mediastinum	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9I0	TCGA-3B-A9I0-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9I1	TCGA-3B-A9I1-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9I3	TCGA-3B-A9I3-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3U7	TCGA-DX-A3U7-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3U8	TCGA-DX-A3U8-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Spermatic Cord	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3U9	TCGA-DX-A3U9-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Abdomen/Pelvis	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UA	TCGA-DX-A3UA-01	C40.3	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Foot/Ankle	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UB	TCGA-DX-A3UB-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Small Intestine	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UC	TCGA-DX-A3UC-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UD	TCGA-DX-A3UD-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Kidney	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UE	TCGA-DX-A3UE-01	C49.6	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Back	Primary	70637	Myomatous neoplasms
+TCGA-DX-A3UF	TCGA-DX-A3UF-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48J	TCGA-DX-A48J-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48K	TCGA-DX-A48K-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Leg/Calf	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48L	TCGA-DX-A48L-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Leg/Calf	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48O	TCGA-DX-A48O-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48P	TCGA-DX-A48P-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48R	TCGA-DX-A48R-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48U	TCGA-DX-A48U-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A48V	TCGA-DX-A48V-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A6B7	TCGA-DX-A6B7-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Colon	Primary	70637	Myomatous neoplasms
+TCGA-DX-A6B9	TCGA-DX-A6B9-01	C49.8	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Colon	Primary	70637	Myomatous neoplasms
+TCGA-DX-A6BA	TCGA-DX-A6BA-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Pelvis	Primary	70637	Myomatous neoplasms
+TCGA-DX-A6BB	TCGA-DX-A6BB-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Pelvis	Primary	70637	Myomatous neoplasms
+TCGA-DX-A6Z2	TCGA-DX-A6Z2-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A7EL	TCGA-DX-A7EL-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum/Upper Abdominal	Primary	70637	Myomatous neoplasms
+TCGA-DX-A7EM	TCGA-DX-A7EM-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A7EN	TCGA-DX-A7EN-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-DX-A8BZ	TCGA-DX-A8BZ-01	C49.5	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Buttock	Primary	70637	Myomatous neoplasms
+TCGA-FX-A3NJ	TCGA-FX-A3NJ-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Kidney	Primary	70637	Myomatous neoplasms
+TCGA-FX-A3RE	TCGA-FX-A3RE-01	C56.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Ovary	Primary	70637	Myomatous neoplasms
+TCGA-FX-A48G	TCGA-FX-A48G-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-FX-A76Y	TCGA-FX-A76Y-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-HB-A3L4	TCGA-HB-A3L4-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Cervix|Uterus	Primary	70637	Myomatous neoplasms
+TCGA-HB-A43Z	TCGA-HB-A43Z-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-HB-A5W3	TCGA-HB-A5W3-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Kidney	Primary	70637	Myomatous neoplasms
+TCGA-HS-A5N7	TCGA-HS-A5N7-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-HS-A5N8	TCGA-HS-A5N8-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-HS-A5NA	TCGA-HS-A5NA-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IE-A3OV	TCGA-IE-A3OV-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-IE-A4EH	TCGA-IE-A4EH-01	C54.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IE-A4EI	TCGA-IE-A4EI-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-IE-A4EK	TCGA-IE-A4EK-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Kidney	Primary	70637	Myomatous neoplasms
+TCGA-IF-A4AJ	TCGA-IF-A4AJ-01	C40.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Leg/Calf	Primary	70637	Myomatous neoplasms
+TCGA-IS-A3K6	TCGA-IS-A3K6-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IS-A3K7	TCGA-IS-A3K7-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IS-A3KA	TCGA-IS-A3KA-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IW-A3M4	TCGA-IW-A3M4-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IW-A3M5	TCGA-IW-A3M5-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-IW-A3M6	TCGA-IW-A3M6-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-JV-A5VE	TCGA-JV-A5VE-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Pelvis|Uterus	Primary	70637	Myomatous neoplasms
+TCGA-JV-A5VF	TCGA-JV-A5VF-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Pelvis|Uterus	Primary	70637	Myomatous neoplasms
+TCGA-JV-A75J	TCGA-JV-A75J-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-K1-A3PN	TCGA-K1-A3PN-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-K1-A3PO	TCGA-K1-A3PO-01	C49.5	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Bladder	Primary	70637	Myomatous neoplasms
+TCGA-K1-A42W	TCGA-K1-A42W-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Pancreas	Primary	70637	Myomatous neoplasms
+TCGA-K1-A42X	TCGA-K1-A42X-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-K1-A6RT	TCGA-K1-A6RT-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-K1-A6RV	TCGA-K1-A6RV-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-KD-A5QS	TCGA-KD-A5QS-01	C54.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-KD-A5QT	TCGA-KD-A5QT-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Cervix|Uterus	Primary	70637	Myomatous neoplasms
+TCGA-KD-A5QU	TCGA-KD-A5QU-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Gynecological|Uterus	Primary	70637	Myomatous neoplasms
+TCGA-KF-A41W	TCGA-KF-A41W-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-MB-A5YA	TCGA-MB-A5YA-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Colon	Primary	70637	Myomatous neoplasms
+TCGA-MB-A8JL	TCGA-MB-A8JL-01	C49.3	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Breast	Primary	70637	Myomatous neoplasms
+TCGA-MJ-A68H	TCGA-MJ-A68H-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Abdomen/Pelvis	Primary	70637	Myomatous neoplasms
+TCGA-MO-A47R	TCGA-MO-A47R-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Intra-Abdominal	Primary	70637	Myomatous neoplasms
+TCGA-N1-A6IA	TCGA-N1-A6IA-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-PC-A5DK	TCGA-PC-A5DK-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-PC-A5DL	TCGA-PC-A5DL-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-PC-A5DN	TCGA-PC-A5DN-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-PC-A5DO	TCGA-PC-A5DO-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-QQ-A5VB	TCGA-QQ-A5VB-01	C49.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Groin	Primary	70637	Myomatous neoplasms
+TCGA-QQ-A5VC	TCGA-QQ-A5VC-01	C49.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-QQ-A5VD	TCGA-QQ-A5VD-01	C49.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Foot/Ankle	Primary	70637	Myomatous neoplasms
+TCGA-QQ-A8VF	TCGA-QQ-A8VF-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Leg/Calf	Primary	70637	Myomatous neoplasms
+TCGA-WK-A8XS	TCGA-WK-A8XS-01	C16.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Gastric	Primary	70637	Myomatous neoplasms
+TCGA-WK-A8XX	TCGA-WK-A8XX-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum|Retroperitoneum/Upper Abdominal	Primary	70637	Myomatous neoplasms
+TCGA-WK-A8XY	TCGA-WK-A8XY-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum/Upper Abdominal|Small Intestine	Primary	70637	Myomatous neoplasms
+TCGA-WK-A8XZ	TCGA-WK-A8XZ-01	C49.4	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum|Retroperitoneum/Upper Abdominal	Primary	70637	Myomatous neoplasms
+TCGA-WP-A9GB	TCGA-WP-A9GB-01	C54.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-X2-A95T	TCGA-X2-A95T-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-X6-A7WA	TCGA-X6-A7WA-01	C49.3	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Chest	Primary	70637	Myomatous neoplasms
+TCGA-X6-A7WB	TCGA-X6-A7WB-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-X6-A7WC	TCGA-X6-A7WC-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Thigh/Knee	Primary	70637	Myomatous neoplasms
+TCGA-X6-A7WD	TCGA-X6-A7WD-01	C49.2	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Lower Leg/Calf	Primary	70637	Myomatous neoplasms
+TCGA-X6-A8C5	TCGA-X6-A8C5-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Small Intestine	Primary	70637	Myomatous neoplasms
+TCGA-X9-A971	TCGA-X9-A971-01	C49.1	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Shoulder/Axilla	Primary	70637	Myomatous neoplasms
+TCGA-3B-A9HS	TCGA-3B-A9HS-01	C48.0	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Retroperitoneum	Primary	70637	Myomatous neoplasms
+TCGA-IS-A3K8	TCGA-IS-A3K8-01	C55.9	Sarcoma	Leiomyosarcoma	Leiomyosarcoma (LMS)	Uterus	Primary	70637	Myomatous neoplasms
+TCGA-FX-A8OO	TCGA-FX-A8OO-01	C49.3	Sarcoma	Synovial Sarcoma	"Sarcoma, Synovial, Poorly Differentiated"	Lung/Pleura	Primary	70517	Synovial Sarcoma
+TCGA-Z4-AAPF	TCGA-Z4-AAPF-01	C49.1	Sarcoma	Synovial Sarcoma	"Sarcoma, Synovial, Poorly Differentiated"	Upper Arm/Elbow	Primary	70517	Synovial Sarcoma
+TCGA-DX-A7EQ	TCGA-DX-A7EQ-01	C49.2	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Thigh/Knee	Primary	70517	Synovial Sarcoma
+TCGA-DX-A7ER	TCGA-DX-A7ER-01	C49.3	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Lung/Pleura	Primary	70517	Synovial Sarcoma
+TCGA-DX-AB3B	TCGA-DX-AB3B-01	C49.2	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Foot/Ankle	Primary	70517	Synovial Sarcoma
+TCGA-DX-AB3C	TCGA-DX-AB3C-01	C49.2	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Thigh/Knee	Primary	70517	Synovial Sarcoma
+TCGA-MJ-A850	TCGA-MJ-A850-01	C49.0	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Head and Neck|Neck	Primary	70517	Synovial Sarcoma
+TCGA-WK-A8XT	TCGA-WK-A8XT-01	C64.9	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Monophasic Type"	Kidney	Primary	70517	Synovial Sarcoma
+TCGA-DX-A7EO	TCGA-DX-A7EO-01	C49.6	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Biphasic Type"	Flank	Primary	70517	Synovial Sarcoma
+TCGA-X6-A8C7	TCGA-X6-A8C7-01	C49.2	Sarcoma	Synovial Sarcoma	"Synovial Sarcoma, Biphasic Type"	Foot/Ankle	Primary	70517	Synovial Sarcoma
+TCGA-QQ-A8VB	TCGA-QQ-A8VB-01	C49.6	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Buttock	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-QQ-A8VG	TCGA-QQ-A8VG-01	C49.6	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Back	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-QQ-A8VH	TCGA-QQ-A8VH-01	C48.0	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Chest	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-RN-A68Q	TCGA-RN-A68Q-01	C70.1	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Head and Neck	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-RN-AAAQ	TCGA-RN-AAAQ-01	C49.0	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Shoulder/Axilla	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-SI-A71O	TCGA-SI-A71O-01	C49.2	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Lower Extremity	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-SI-A71P	TCGA-SI-A71P-01	C47.1	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)		Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-SI-A71Q	TCGA-SI-A71Q-01	C49.3	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Chest Wall	Primary	95403	Malignant peripheral nerve sheath tumor
+TCGA-SI-AA8C	TCGA-SI-AA8C-01	C49.2	Sarcoma	Malignant Peripheral Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Thigh/Knee	Primary	95403	Malignant peripheral nerve sheath tumor

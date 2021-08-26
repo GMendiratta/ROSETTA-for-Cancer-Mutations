@@ -1,0 +1,16 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	PRIMARY_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+Sample_2	Sample_2	other nervous system	Primary	Arm	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_4	Sample_4	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_7	Sample_7	other nervous system	Primary	Neck	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_18	Sample_18	other nervous system	Primary	Arm	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_8	Sample_8	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_9	Sample_9	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_19	Sample_19	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_10	Sample_10	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_11	Sample_11	other nervous system	Primary	Chest Wall	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_12	Sample_12	other nervous system	Primary	Calf	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_13	Sample_13	other nervous system	Primary	Lung	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_14	Sample_14	other nervous system	Primary	Chest Wall	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_15	Sample_15	other nervous system	Primary	Arm	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_16	Sample_16	other nervous system	Primary	Thigh	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor
+Sample_20	Sample_20	other nervous system	Primary	Arm	Nerve Sheath Tumor	Malignant Peripheral Nerve Sheath Tumor	95403	Malignant Peripheral Nerve Sheath Tumor

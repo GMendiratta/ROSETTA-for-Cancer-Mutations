@@ -1,0 +1,237 @@
+SAMPLE_ID	PATIENT_ID	SITE	SAMPLE_TIMEPOINT	BX_LOCATION	BX_HISTOLOGY	SAMPLE_TYPE	CODE	CATEGORY_NAME
+MBC-MBCProject_2pt4t9cA-Tumor-SM-GQD4Q	MBCProject_2pt4t9cA	CHEST WALL	MBCProject_2pt4t9cA_T2	CHEST WALL	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_2WCGcxuk-Tumor-SM-GQAVI	MBCProject_2WCGcxuk	BRAIN	MBCProject_2WCGcxuk_T4	BRAIN	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_5jSPs9fl-Tumor-SM-CGL1A	MBCProject_5jSPs9fl	LIVER	MBCProject_5jSPs9fl_T3	LIVER	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_6vTVHzur-Tumor-SM-GQCQV	MBCProject_6vTVHzur	CHEST WALL	MBCProject_6vTVHzur_T3	CHEST WALL	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_8bfWIQu1-Tumor-SM-GQCD2	MBCProject_8bfWIQu1	BRAIN	MBCProject_8bfWIQu1_T2	BRAIN	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_Ali6SAHL-Tumor-SM-GQAH2	MBCProject_Ali6SAHL	BONE	MBCProject_Ali6SAHL_T1	BONE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_AqtYu0IW-Tumor-SM-DL3YJ	MBCProject_AqtYu0IW	LUNG	MBCProject_AqtYu0IW_T2	LUNG	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_bAi0Slsx-Tumor-SM-CGMFB	MBCProject_bAi0Slsx 	LUNG	MBCProject_bAi0Slsx_T2	LUNG	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_BvsPhwI1-Tumor-SM-DL4A8	MBCProject_BvsPhwI1	BRAIN-CNS	MBCProject_BvsPhwI1_T2	BRAIN-CNS	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_e4SaTnIW-Tumor-SM-GQC6R	MBCProject_e4SaTnIW	FALLOPIAN TUBE	MBCProject_e4SaTnIW_T4	FALLOPIAN TUBE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_gotjfgf0-Tumor-SM-CGL7K	MBCProject_gotjfgf0	BONE	MBCProject_gotjfgf0_T2	BONE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_j2F2sQC0-Tumor-SM-DL3CJ	MBCProject_j2F2sQC0	REGIONAL LYMPH NODE	MBCProject_j2F2sQC0_T1	REGIONAL LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_JGcLUJiA-Tumor-SM-GQAF6	MBCProject_JGcLUJiA	AXILLARY LYMPH NODE	MBCProject_JGcLUJiA_T4	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_K0UDUnFE-Tumor-SM-AZ5FD	MBCProject_K0UDUnFE	LIVER	MBCProject_K0UDUnFE_T1	LIVER	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_K7f6fdUz-Tumor-SM-AZ5MA	MBCProject_K7f6fdUz 	LIVER	MBCProject_K7f6fdUz_T2	LIVER	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_KphMt4F9-Tumor-SM-DL4PB	MBCProject_KphMt4F9	AXILLARY LYMPH NODE	MBCProject_KphMt4F9_T1	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_kwS1CXSR-Tumor-SM-DL4SG	MBCProject_kwS1CXSR	AXILLARY LYMPH NODE	MBCProject_kwS1CXSR_T1	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_lQtMtjFR-Tumor-SM-GQCOD	MBCProject_lQtMtjFR	SOFT TISSUE	MBCProject_lQtMtjFR_T2	SOFT TISSUE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_oqupfDu7-Tumor-SM-GQCIP	MBCProject_oqupfDu7	AXILLARY LYMPH NODE	MBCProject_oqupfDu7_T2B	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_PzUBH7I3-Tumor-SM-CGLNW	MBCProject_PzUBH7I3	BONE	MBCProject_PzUBH7I3_T3	BONE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_RKf1frsr-Tumor-SM-AZ5L1	MBCProject_RKf1frsr	LIVER	MBCProject_RKf1frsr_T1	LIVER	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_rmSBIguN-Tumor-SM-DL385	MBCProject_rmSBIguN	AXILLARY LYMPH NODE	MBCProject_rmSBIguN_T1C	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_W4FBsLSx-Tumor-SM-GQA6D	MBCProject_W4FBsLSx	CERVICAL LYMPH NODE	MBCProject_W4FBsLSx_T1	CERVICAL LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_W4FBsLSx-Tumor-SM-GQ9LV	MBCProject_W4FBsLSx	AXILLARY LYMPH NODE	MBCProject_W4FBsLSx_T2	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_W4FBsLSx-Tumor-SM-GQ9QW	MBCProject_W4FBsLSx	AXILLARY LYMPH NODE	MBCProject_W4FBsLSx_T3	AXILLARY LYMPH NODE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_y2F3IgIE-Tumor-SM-GQBAC	MBCProject_y2F3IgIE	BONE	MBCProject_y2F3IgIE_T1	BONE	CARCINOMA NOS	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_BOHWtZT8-Tumor-SM-CGLQF	MBCProject_BOHWtZT8	LIVER	MBCProject_BOHWtZT8_T2	LIVER	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_ePi1smiM-Tumor-SM-AZ5OS	MBCProject_ePi1smiM	BONE	MBCProject_ePi1smiM_T3	BONE	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_GvHkH2Hk-Tumor-SM-AZ5H9	MBCProject_GvHkH2Hk	BONE	MBCProject_GvHkH2Hk_T1	BONE	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_JGcLUJiA-Tumor-SM-GQAYN	MBCProject_JGcLUJiA	PLEURAL FLUID	MBCProject_JGcLUJiA_T5	PLEURAL FLUID	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_MmSBTJtJ-Tumor-SM-GQAGF	MBCProject_MmSBTJtJ	BONE	MBCProject_MmSBTJtJ_T1	BONE	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_mrIQIdsx-Tumor-SM-GQC5I	MBCProject_mrIQIdsx	BRAIN-CNS	MBCProject_mrIQIdsx_T3	BRAIN-CNS	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_mrIQIdsx-Tumor-SM-GQ9JZ	MBCProject_mrIQIdsx	PLEURA	MBCProject_mrIQIdsx_T2	PLEURA	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_PASlTyTy-Tumor-SM-DL473	MBCProject_PASlTyTy	OMENTUM	MBCProject_PASlTyTy_T1	OMENTUM	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_W5ceiLi0-Tumor-SM-GQAR4	MBCProject_W5ceiLi0	BONE MARROW	MBCProject_W5ceiLi0_T1	BONE MARROW	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_x4cLHdhw-Tumor-SM-GQAU9	MBCProject_x4cLHdhw	LIVER	MBCProject_x4cLHdhw_T2	LIVER	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_x4cLHdhw-Tumor-SM-GQALG	MBCProject_x4cLHdhw	SOFT TISSUE	MBCProject_x4cLHdhw_T3	SOFT TISSUE	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_zatdFvhp-Tumor-SM-GQAAR	MBCProject_zatdFvhp	AXILLARY LYMPH NODE	MBCProject_zatdFvhp_T2	AXILLARY LYMPH NODE	ADENOCARCINOMA	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_BVCVuGhl-Tumor-SM-DL4DD	MBCProject_BVCVuGhl	AXILLA	MBCProject_BVCVuGhl_T1	AXILLA	IDC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_7XFmtytw-Tumor-SM-DL457	MBCProject_7XFmtytw	AXILLARY LYMPH NODE	MBCProject_7XFmtytw_T3	AXILLARY LYMPH NODE	IDC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_AzCnt3sL-Tumor-SM-GQAY1	MBCProject_AzCnt3sL	AXILLARY LYMPH NODE	MBCProject_AzCnt3sL_T1	AXILLARY LYMPH NODE	IDC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_kduys9h5-Tumor-SM-DL47P	MBCProject_kduys9h5	AXILLARY LYMPH NODE	MBCProject_kduys9h5_T1	AXILLARY LYMPH NODE	IDC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_mrhKt1Ue-Tumor-SM-DL4UY	MBCProject_mrhKt1Ue	AXILLARY LYMPH NODE	MBCProject_mrhKt1Ue_T1	AXILLARY LYMPH NODE	IDC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_0aTBfPcG-Tumor-SM-DL3W1	MBCProject_0aTBfPcG	Breast	MBCProject_0aTBfPcG_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_1ps2hZH8-Tumor-SM-DL4OO	MBCProject_1ps2hZH8	Breast	MBCProject_1ps2hZH8_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_1qhlIasw-Tumor-SM-AXGNH	MBCProject_1qhlIasw 	Breast	MBCProject_1qhlIasw_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_27uAugT4-Tumor-SM-DL45T	MBCProject_27uAugT4	Breast	MBCProject_27uAugT4_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_2kS5fYc1-Tumor-SM-DL4O2	MBCProject_2kS5fYc1	Breast	MBCProject_2kS5fYc1_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_3LI1TNs3-Tumor-SM-DL43B	MBCProject_3LI1TNs3	Breast	MBCProject_3LI1TNs3_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_3vhkhAcY-Tumor-SM-GQAW5	MBCProject_3vhkhAcY	Breast	MBCProject_3vhkhAcY_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_43UpSwhz-Tumor-SM-DL4W8	MBCProject_43UpSwhz	Breast	MBCProject_43UpSwhz_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_4DIpSBFV-Tumor-SM-CGM2Q	MBCProject_4DIpSBFV 	Breast	MBCProject_4DIpSBFV_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_4MF1FlFQ-Tumor-SM-CGM4M	MBCProject_4MF1FlFQ	Breast	MBCProject_4MF1FlFQ_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_4MF1FlFQ-Tumor-SM-AZ5CU	MBCProject_4MF1FlFQ	Breast	MBCProject_4MF1FlFQ_T3	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_4OIOfAt9-Tumor-SM-CGLYL	MBCProject_4OIOfAt9	Breast	MBCProject_4OIOfAt9_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_4vC6Fgio-Tumor-SM-CGLZ8	MBCProject_4vC6Fgio	Breast	MBCProject_4vC6Fgio_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_57iLiJIl-Tumor-SM-CGLIV	MBCProject_57iLiJIl	Breast	MBCProject_57iLiJIl_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_5gHasou8-Tumor-SM-GQA1C	MBCProject_5gHasou8	Breast	MBCProject_5gHasou8_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_5gHasou8-Tumor-SM-GQBYU	MBCProject_5gHasou8	Breast	MBCProject_5gHasou8_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_6JhKimhv-Tumor-SM-GQCJC	MBCProject_6JhKimhv	Breast	MBCProject_6JhKimhv_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_6QhZF6ur-Tumor-SM-GQD37	MBCProject_6QhZF6ur	Breast	MBCProject_6QhZF6ur_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_6vTVHzur-Tumor-SM-GQCG7	MBCProject_6vTVHzur	Breast	MBCProject_6vTVHzur_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_6Yt3czsW-Tumor-SM-GQC9A	MBCProject_6Yt3czsW	Breast	MBCProject_6Yt3czsW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_6zfRF2fl-Tumor-SM-GQ9UO	MBCProject_6zfRF2fl	Breast	MBCProject_6zfRF2fl_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_70CxiQFk-Tumor-SM-DL3TI	MBCProject_70CxiQFk	Breast	MBCProject_70CxiQFk_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_74CYIyHw-Tumor-SM-DL3P4	MBCProject_74CYIyHw	Breast	MBCProject_74CYIyHw_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7AC8CoUL-Tumor-SM-GQ9WK	MBCProject_7AC8CoUL	Breast	MBCProject_7AC8CoUL_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7of5i3hp-Tumor-SM-CGMAA	MBCProject_7of5i3hp	Breast	MBCProject_7of5i3hp_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7VFnIqfw-Tumor-SM-CGL6X	MBCProject_7VFnIqfw	Breast	MBCProject_7VFnIqfw_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_8bfWIQu1-Tumor-SM-GQC81	MBCProject_8bfWIQu1	Breast	MBCProject_8bfWIQu1_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_99CdCOHm-Tumor-SM-CGLF4	MBCProject_99CdCOHm	Breast	MBCProject_99CdCOHm_T1B_2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_9JI1fwuX-Tumor-SM-DL4TP	MBCProject_9JI1fwuX	Breast	MBCProject_9JI1fwuX_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_9RtxtGUO-Tumor-SM-GQC4V	MBCProject_9RtxtGUO	Breast	MBCProject_9RtxtGUO_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_AqtYu0IW-Tumor-SM-DL4Y4	MBCProject_AqtYu0IW	Breast	MBCProject_AqtYu0IW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_AwukckTD-Tumor-SM-GQADA	MBCProject_AwukckTD	Breast	MBCProject_AwukckTD_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_B7f5hRfD-Tumor-SM-GQACN	MBCProject_B7f5hRfD	Breast	MBCProject_B7f5hRfD_T0	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_B7f5hRfD-Tumor-SM-GQ9XT	MBCProject_B7f5hRfD	Breast	MBCProject_B7f5hRfD_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_beTYUZij-Tumor-SM-GQBWY	MBCProject_beTYUZij	Breast	MBCProject_beTYUZij_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_BOHWtZT8-Tumor-SM-CGM6I	MBCProject_BOHWtZT8	Breast	MBCProject_BOHWtZT8_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_brTys8Hl-Tumor-SM-GQCYF	MBCProject_brTys8Hl	Breast	MBCProject_brTys8Hl_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_BVHET8iq-Tumor-SM-CGLGD	MBCProject_BVHET8iq	Breast	MBCProject_BVHET8iq_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_bvHXCoTY-Tumor-SM-DL3JG	MBCProject_bvHXCoTY	Breast	MBCProject_bvHXCoTY_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_d5CbUNTb-Tumor-SM-CGM5V	MBCProject_d5CbUNTb	Breast	MBCProject_d5CbUNTb_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_DDUmIZuW-Tumor-SM-DL3GX	MBCProject_DDUmIZuW	Breast	MBCProject_DDUmIZuW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_DWTkcWCW-Tumor-SM-GQB7T	MBCProject_DWTkcWCW	Breast	MBCProject_DWTkcWCW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_DxibF0hM-Tumor-SM-CGLWP	MBCProject_DxibF0hM	Breast	MBCProject_DxibF0hM_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_DximH6Cn-Tumor-SM-DL3XW	MBCProject_DximH6Cn	Breast	MBCProject_DximH6Cn_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_EBTBIGFy-Tumor-SM-DL3ZS	MBCProject_EBTBIGFy	Breast	MBCProject_EBTBIGFy_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_EkHAIECZ-Tumor-SM-GQ9OE	MBCProject_EkHAIECZ	Breast	MBCProject_EkHAIECZ_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ePi1smiM-Tumor-SM-CGLOK	MBCProject_ePi1smiM	Breast	MBCProject_ePi1smiM_T1B	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ePi1smiM-Tumor-SM-CGLMN	MBCProject_ePi1smiM	Breast	MBCProject_ePi1smiM_T1C	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ePi1smiM-Tumor-SM-CGME2	MBCProject_ePi1smiM	Breast	MBCProject_ePi1smiM_T1D	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ePi1smiM-Tumor-SM-CGMFX	MBCProject_ePi1smiM	Breast	MBCProject_ePi1smiM_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_epUYsdCE-Tumor-SM-DL3A1	MBCProject_epUYsdCE	Breast	MBCProject_epUYsdCE_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ErfKfJt0-Tumor-SM-AZ5GM	MBCProject_ErfKfJt0	Breast	MBCProject_ErfKfJt0_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_EWubi6hd-Tumor-SM-GQ9PN	MBCProject_EWubi6hd	Breast	MBCProject_EWubi6hd_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_eXSVsxUm-Tumor-SM-GQD1X	MBCProject_eXSVsxUm	Breast	MBCProject_eXSVsxUm_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_eXSVsxUm-Tumor-SM-GQC2Z	MBCProject_eXSVsxUm	Breast	MBCProject_eXSVsxUm_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gASyuQSl-Tumor-SM-DL3HK	MBCProject_gASyuQSl	Breast	MBCProject_gASyuQSl_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gASyuQSl-Tumor-SM-GQAQH	MBCProject_gASyuQSl	Breast	MBCProject_gASyuQSl_T0A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gdIlF4hG-Tumor-SM-DL3ML	MBCProject_gdIlF4hG	Breast	MBCProject_gdIlF4hG_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gKsRsqTR-Tumor-SM-AZ5J5	MBCProject_gKsRsqTR	Breast	MBCProject_gKsRsqTR_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_GKu6TliY-Tumor-SM-DL4EM	MBCProject_GKu6TliY	Breast	MBCProject_GKu6TliY_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_goSDCjUM-Tumor-SM-DL4BH	MBCProject_goSDCjUM	Breast	MBCProject_goSDCjUM_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gotjfgf0-Tumor-SM-AXGPS	MBCProject_gotjfgf0	Breast	MBCProject_gotjfgf0_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_GouMi0U1-Tumor-SM-DL3KP	MBCProject_GouMi0U1	Breast	MBCProject_GouMi0U1_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_GvHkH2Hk-Tumor-SM-AZ5HV	MBCProject_GvHkH2Hk	Breast	MBCProject_GvHkH2Hk_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Gxhdtafa-Tumor-SM-GQ9U2	MBCProject_Gxhdtafa	Breast	MBCProject_Gxhdtafa_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_JBh5TjcM-Tumor-SM-DL3EF	MBCProject_JBh5TjcM	Breast	MBCProject_JBh5TjcM_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_jEhBHrS2-Tumor-SM-CGKTZ	MBCProject_jEhBHrS2	Breast	MBCProject_jEhBHrS2_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Jeu1F5cz-Tumor-SM-DL48Y	MBCProject_Jeu1F5cz	Breast	MBCProject_Jeu1F5cz_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_JGCBTpH1-Tumor-SM-CGLR2	MBCProject_JGCBTpH1	Breast	MBCProject_JGCBTpH1_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_JGcLUJiA-Tumor-SM-GQBDH	MBCProject_JGcLUJiA	Breast	MBCProject_JGcLUJiA_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_jmfDfEs8-Tumor-SM-GQ9Z3	MBCProject_jmfDfEs8	Breast	MBCProject_jmfDfEs8_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_JpCASlSG-Tumor-SM-GQC7E	MBCProject_JpCASlSG	Breast	MBCProject_JpCASlSG_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_kduys9h5-Tumor-SM-DL46G	MBCProject_kduys9h5	Breast	MBCProject_kduys9h5_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_kQTqIOSP-Tumor-SM-GQAWR	MBCProject_kQTqIOSP	Breast	MBCProject_kQTqIOSP_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_kRC3tlcA-Tumor-SM-DL3LY	MBCProject_kRC3tlcA	Breast	MBCProject_kRC3tlcA_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_kzuMSZIW-Tumor-SM-DL4JN	MBCProject_kzuMSZIW	Breast	MBCProject_kzuMSZIW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_LDCbC8t9-Tumor-SM-GQCEB	MBCProject_LDCbC8t9	Breast	MBCProject_LDCbC8t9_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_lGCMIGT0-Tumor-SM-GQAMP	MBCProject_lGCMIGT0	Breast	MBCProject_lGCMIGT0_T1B	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_lJflt3UR-Tumor-SM-GQAEJ	MBCProject_lJflt3UR	Breast	MBCProject_lJflt3UR_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_LnHAS5T0-Tumor-SM-GQB93	MBCProject_LnHAS5T0	Breast	MBCProject_LnHAS5T0_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_LPHKFauY-Tumor-SM-GQCCF	MBCProject_LPHKFauY	Breast	MBCProject_LPHKFauY_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_lqSlSztO-Tumor-SM-GQB9P	MBCProject_lqSlSztO	Breast	MBCProject_lqSlSztO_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_lQtMtjFR-Tumor-SM-GQCWJ	MBCProject_lQtMtjFR	Breast	MBCProject_lQtMtjFR_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_LvS2IvIy-Tumor-SM-DL3IT	MBCProject_LvS2IvIy	Breast	MBCProject_LvS2IvIy_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_LVSjf8h7-Tumor-SM-DL3U5	MBCProject_LVSjf8h7	Breast	MBCProject_LVSjf8h7_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_lXCmTEuv-Tumor-SM-DL4WU	MBCProject_lXCmTEuv	Breast	MBCProject_lXCmTEuv_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_m1fOs2FL-Tumor-SM-GQA54	MBCProject_m1fOs2FL	Breast	MBCProject_m1fOs2FL_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_m9SNc1Iq-Tumor-SM-GQAIB	MBCProject_m9SNc1Iq	Breast	MBCProject_m9SNc1Iq_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_MlheH1iY-Tumor-SM-GQD2K	MBCProject_MlheH1iY	Breast	MBCProject_MlheH1iY_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_mMhdcrh5-Tumor-SM-GQ9YG	MBCProject_mMhdcrh5	Breast	MBCProject_mMhdcrh5_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_mrIQIdsx-Tumor-SM-GQATM	MBCProject_mrIQIdsx	Breast	MBCProject_mrIQIdsx_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_MYuoCmI7-Tumor-SM-DL4R7	MBCProject_MYuoCmI7	Breast	MBCProject_MYuoCmI7_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nEcXsyfj-Tumor-SM-GQB5B	MBCProject_nEcXsyfj	Breast	MBCProject_nEcXsyfj_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nkU3hDhB-Tumor-SM-GQCKL	MBCProject_nkU3hDhB	Breast	MBCProject_nkU3hDhB_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nwIeUoSD-Tumor-SM-GQC2D	MBCProject_nwIeUoSD	Breast	MBCProject_nwIeUoSD_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_O8u9SjuW-Tumor-SM-AZ5O6	MBCProject_O8u9SjuW 	Breast	MBCProject_O8u9SjuW_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_oNI6SXtq-Tumor-SM-GQC8N	MBCProject_oNI6SXtq	Breast	MBCProject_oNI6SXtq_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_oqupfDu7-Tumor-SM-GQCOZ	MBCProject_oqupfDu7	Breast	MBCProject_oqupfDu7_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_oZT8clio-Tumor-SM-GQCVW	MBCProject_oZT8clio	Breast	MBCProject_oZT8clio_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_p1CQTdIg-Tumor-SM-CGL36	MBCProject_p1CQTdIg 	Breast	MBCProject_p1CQTdIg_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_P2CMUEiX-Tumor-SM-DL3GB	MBCProject_P2CMUEiX	Breast	MBCProject_P2CMUEiX_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_pktAIxFb-Tumor-SM-DL43X	MBCProject_pktAIxFb	Breast	MBCProject_pktAIxFb_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_pktAIxFb-Tumor-SM-GQABE	MBCProject_pktAIxFb	Breast	MBCProject_pktAIxFb_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PkTDsOSa-Tumor-SM-GQ9X7	MBCProject_PkTDsOSa	Breast	MBCProject_PkTDsOSa_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PkTDsOSa-Tumor-SM-GQBXL	MBCProject_PkTDsOSa	Breast	MBCProject_PkTDsOSa_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_pMcWcrtZ-Tumor-SM-AZ5KE	MBCProject_pMcWcrtZ	Breast	MBCProject_pMcWcrtZ_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PXcjFYIo-Tumor-SM-DL3UR	MBCProject_PXcjFYIo	Breast	MBCProject_PXcjFYIo_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PXcjFYIo-Tumor-SM-DL3FO	MBCProject_PXcjFYIo	Breast	MBCProject_PXcjFYIo_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_pyhbI1H5-Tumor-SM-GQCX6	MBCProject_pyhbI1H5	Breast	MBCProject_pyhbI1H5_T3	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PzUBH7I3-Tumor-SM-CGL52	MBCProject_PzUBH7I3	Breast	MBCProject_PzUBH7I3_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_PzUBH7I3-Tumor-SM-CGLNA	MBCProject_PzUBH7I3	Breast	MBCProject_PzUBH7I3_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_QJFdf8hQ-Tumor-SM-GQCJY	MBCProject_QJFdf8hQ	Breast	MBCProject_QJFdf8hQ_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_qmu6TYto-Tumor-SM-GQA6Z	MBCProject_qmu6TYto	Breast	MBCProject_qmu6TYto_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_QNs8uGhM-Tumor-SM-GQCB6	MBCProject_QNs8uGhM	Breast	MBCProject_QNs8uGhM_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_qQSACYuv-Tumor-SM-GQBFZ	MBCProject_qQSACYuv	Breast	MBCProject_qQSACYuv_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_rJHBiKTl-Tumor-SM-DL3K3	MBCProject_rJHBiKTl	Breast	MBCProject_rJHBiKTl_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_RKf1frsr-Tumor-SM-CGLJI	MBCProject_RKf1frsr	Breast	MBCProject_RKf1frsr_T3	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_RKf1frsr-Tumor-SM-AZ5JR	MBCProject_RKf1frsr	Breast	MBCProject_RKf1frsr_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_rMHPsbIq-Tumor-SM-DL422	MBCProject_rMHPsbIq	Breast	MBCProject_rMHPsbIq_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_rvULI3TV-Tumor-SM-DL41F	MBCProject_rvULI3TV	Breast	MBCProject_rvULI3TV_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_VbfASefz-Tumor-SM-CGLVG	MBCProject_VbfASefz	Breast	MBCProject_VbfASefz_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_VQfmS0fK-Tumor-SM-CGKZN	MBCProject_VQfmS0fK	Breast	MBCProject_VQfmS0fK_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_VQfmS0fK-Tumor-SM-CGM3Z	MBCProject_VQfmS0fK	Breast	MBCProject_VQfmS0fK_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_W2CQswiv-Tumor-SM-GQCPM	MBCProject_W2CQswiv	Breast	MBCProject_W2CQswiv_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_wAiri7fp-Tumor-SM-AZ5DH	MBCProject_wAiri7fp	Breast	MBCProject_wAiri7fp_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_wKuZuQS1-Tumor-SM-CGLW3	MBCProject_wKuZuQS1	Breast	MBCProject_wKuZuQS1_T3	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_wzCxuoio-Tumor-SM-GQCHG	MBCProject_wzCxuoio	Breast	MBCProject_wzCxuoio_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_xBfJfri9-Tumor-SM-CGLAP	MBCProject_xBfJfri9	Breast	MBCProject_xBfJfri9_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_xlhkS5CG-Tumor-SM-GQ9ZP	MBCProject_xlhkS5CG	Breast	MBCProject_xlhkS5CG_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_XmiOUMSm-Tumor-SM-DL3SV	MBCProject_XmiOUMSm	Breast	MBCProject_XmiOUMSm_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Y7fYC1iG-Tumor-SM-CGLFQ	MBCProject_Y7fYC1iG	Breast	MBCProject_Y7fYC1iG_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Y7iLIOU0-Tumor-SM-GQBY8	MBCProject_Y7iLIOU0	Breast	MBCProject_Y7iLIOU0_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Y7iLIOU0-Tumor-SM-GQ9VX	MBCProject_Y7iLIOU0	Breast	MBCProject_Y7iLIOU0_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ygcMFgCR-Tumor-SM-GQ9S6	MBCProject_ygcMFgCR	Breast	MBCProject_ygcMFgCR_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ygcMFgCR-Tumor-SM-GQAIX	MBCProject_ygcMFgCR	Breast	MBCProject_ygcMFgCR_T1B	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ygcMFgCR-Tumor-SM-GQ9MI	MBCProject_ygcMFgCR	Breast	MBCProject_ygcMFgCR_T1C	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_YNTyfDfq-Tumor-SM-GQAK7	MBCProject_YNTyfDfq	Breast	MBCProject_YNTyfDfq_T1B	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_yZSnSluK-Tumor-SM-DL4T3	MBCProject_yZSnSluK	Breast	MBCProject_yZSnSluK_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ZdudUNFZ-Tumor-SM-CGLPS	MBCProject_ZdudUNFZ	Breast	MBCProject_ZdudUNFZ_T1	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ZeTySaU3-Tumor-SM-GQD3T	MBCProject_ZeTySaU3	Breast	MBCProject_ZeTySaU3_T2	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_zyt5TKFB-Tumor-SM-CGM59	MBCProject_zyt5TKFB	Breast	MBCProject_zyt5TKFB_T1A	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_zyt5TKFB-Tumor-SM-CGMBJ	MBCProject_zyt5TKFB	Breast	MBCProject_zyt5TKFB_T1B	BREAST	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_d5CbUNTb-Tumor-SM-CGLSX	MBCProject_d5CbUNTb	CHEST WALL	MBCProject_d5CbUNTb_T2	CHEST WALL	IDC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_e4SaTnIW-Tumor-SM-DL4KA	MBCProject_e4SaTnIW	AXILLA	MBCProject_e4SaTnIW_T1	AXILLA	ILC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_gASyuQSl-Tumor-SM-GQA3U	MBCProject_gASyuQSl	AXILLARY LYMPH NODE	MBCProject_gASyuQSl_T0C	AXILLARY LYMPH NODE	ILC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_e4SaTnIW-Tumor-SM-DL3WN	MBCProject_e4SaTnIW	BONE	MBCProject_e4SaTnIW_T2	BONE	ILC	Metastasis	70317	Breast Carcinoma
+MBC-MBCProject_2ViLiZS8-Tumor-SM-DL3Z6	MBCProject_2ViLiZS8	Breast	MBCProject_2ViLiZS8_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_3MUnT7Ty-Tumor-SM-CGLLE	MBCProject_3MUnT7Ty	Breast	MBCProject_3MUnT7Ty_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_5vTpUpCv-Tumor-SM-GQA4H	MBCProject_5vTpUpCv	Breast	MBCProject_5vTpUpCv_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7JtRIPI2-Tumor-SM-CGLXC	MBCProject_7JtRIPI2 	Breast	MBCProject_7JtRIPI2_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7JtRIPI2-Tumor-SM-CGMAW	MBCProject_7JtRIPI2 	Breast	MBCProject_7JtRIPI2_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7OcOivcV-Tumor-SM-DL44K	MBCProject_7OcOivcV	Breast	MBCProject_7OcOivcV_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_7wCjtKIW-Tumor-SM-GQCN4	MBCProject_7wCjtKIW	Breast	MBCProject_7wCjtKIW_T3	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_bpunhmim-Tumor-SM-DL4MS	MBCProject_bpunhmim	Breast	MBCProject_bpunhmim_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gASyuQSl-Tumor-SM-GQ9KM	MBCProject_gASyuQSl	Breast	MBCProject_gASyuQSl_T0B	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_gjhMuoha-Tumor-SM-AXGGJ	MBCProject_gjhMuoha	Breast	MBCProject_gjhMuoha_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_GpizsQiW-Tumor-SM-GQA8V	MBCProject_GpizsQiW	Breast	MBCProject_GpizsQiW_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_N4srsKsr-Tumor-SM-CGLTK	MBCProject_N4srsKsr	Breast	MBCProject_N4srsKsr_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_NDIbs9i6-Tumor-SM-DL4VL	MBCProject_NDIbs9i6	Breast	MBCProject_NDIbs9i6_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nkU3hDhB-Tumor-SM-GQA38	MBCProject_nkU3hDhB	Breast	MBCProject_nkU3hDhB_T1B	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nkU3hDhB-Tumor-SM-GQC49	MBCProject_nkU3hDhB	Breast	MBCProject_nkU3hDhB_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_NzHBsOtg-Tumor-SM-GQBL1	MBCProject_NzHBsOtg	Breast	MBCProject_NzHBsOtg_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_nZHYc4Ie-Tumor-SM-DL39E	MBCProject_nZHYc4Ie	Breast	MBCProject_nZHYc4Ie_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_QbiZiytx-Tumor-SM-CGMH7	MBCProject_QbiZiytx	Breast	MBCProject_QbiZiytx_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_qmu6TYto-Tumor-SM-DL3BW	MBCProject_qmu6TYto	Breast	MBCProject_qmu6TYto_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_RJf1h2Sp-Tumor-SM-DL4M6	MBCProject_RJf1h2Sp	Breast	MBCProject_RJf1h2Sp_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_W9hmcWcz-Tumor-SM-GQ9VB	MBCProject_W9hmcWcz	Breast	MBCProject_W9hmcWcz_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_wKuwTYhK-Tumor-SM-GQCRI	MBCProject_wKuwTYhK	Breast	MBCProject_wKuwTYhK_T1	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_Y8H6SghO-Tumor-SM-DL4IE	MBCProject_Y8H6SghO	Breast	MBCProject_Y8H6SghO_T2	BREAST	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_XVHkUVTb-Tumor-SM-GQCLU	MBCProject_XVHkUVTb	OMENTUM	MBCProject_XVHkUVTb_T1	OMENTUM	ILC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_2Wf9hPtA-Tumor-SM-GQB5X	MBCProject_2Wf9hPtA	Breast	MBCProject_2Wf9hPtA_T2	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_3jhES9fq-Tumor-SM-AXGIU	MBCProject_3jhES9fq	Breast	MBCProject_3jhES9fq_T2	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_AJF3tVc8-Tumor-SM-GQAJK	MBCProject_AJF3tVc8	Breast	MBCProject_AJF3tVc8_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_briXiduE-Tumor-SM-DL49L	MBCProject_briXiduE	Breast	MBCProject_briXiduE_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_glf3CWFa-Tumor-SM-GQ9N5	MBCProject_glf3CWFa	Breast	MBCProject_glf3CWFa_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_JKTZhEUe-Tumor-SM-DL48C	MBCProject_JKTZhEUe	Breast	MBCProject_JKTZhEUe_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_k4hlFwFg-Tumor-SM-GQD1B	MBCProject_k4hlFwFg	Breast	MBCProject_k4hlFwFg_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_k4hlFwFg-Tumor-SM-GQA9I	MBCProject_k4hlFwFg	Breast	MBCProject_k4hlFwFg_T2	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_kAFQF3t6-Tumor-SM-DL36W	MBCProject_kAFQF3t6	Breast	MBCProject_kAFQF3t6_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_KGs1fxH2-Tumor-SM-CGM1H	MBCProject_KGs1fxH2	Breast	MBCProject_KGs1fxH2_T1A	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_KGs1fxH2-Tumor-SM-CGMCS	MBCProject_KGs1fxH2	Breast	MBCProject_KGs1fxH2_T1B	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_KGs1fxH2-Tumor-SM-CGLUT	MBCProject_KGs1fxH2	Breast	MBCProject_KGs1fxH2_T1K	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_KphMt4F9-Tumor-SM-DL4RT	MBCProject_KphMt4F9	Breast	MBCProject_KphMt4F9_T2	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_N4srsKsr-Tumor-SM-CGMGK	MBCProject_N4srsKsr	Breast	MBCProject_N4srsKsr_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_OwuoTVhg-Tumor-SM-DL3OH	MBCProject_OwuoTVhg	Breast	MBCProject_OwuoTVhg_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_QbiZiytx-Tumor-SM-CGM9N	MBCProject_QbiZiytx	Breast	MBCProject_QbiZiytx_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_rmSBIguN-Tumor-SM-DL3N8	MBCProject_rmSBIguN	Breast	MBCProject_rmSBIguN_T1A	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_VrsMsqTb-Tumor-SM-CGLRO	MBCProject_VrsMsqTb	Breast	MBCProject_VrsMsqTb_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_WYHpfXf1-Tumor-SM-GQAFS	MBCProject_WYHpfXf1	Breast	MBCProject_WYHpfXf1_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_WYHpfXf1-Tumor-SM-GQB77	MBCProject_WYHpfXf1	Breast	MBCProject_WYHpfXf1_T2	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_x4cLHdhw-Tumor-SM-GQ9P1	MBCProject_x4cLHdhw	Breast	MBCProject_x4cLHdhw_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_xBfJfri9-Tumor-SM-CGL4F	MBCProject_xBfJfri9	Breast	MBCProject_xBfJfri9_T3B	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma
+MBC-MBCProject_ZPHRs3Uw-Tumor-SM-DL3BA	MBCProject_ZPHRs3Uw	Breast	MBCProject_ZPHRs3Uw_T1	BREAST	MIXED IDLC	Primary	70317	Breast Carcinoma

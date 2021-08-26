@@ -1,0 +1,501 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-4C-A93U	TCGA-4C-A93U-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0YZ	TCGA-BJ-A0YZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0Z0	TCGA-BJ-A0Z0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0Z2	TCGA-BJ-A0Z2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0Z3	TCGA-BJ-A0Z3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0Z5	TCGA-BJ-A0Z5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0Z9	TCGA-BJ-A0Z9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZA	TCGA-BJ-A0ZA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZB	TCGA-BJ-A0ZB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZC	TCGA-BJ-A0ZC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZE	TCGA-BJ-A0ZE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZG	TCGA-BJ-A0ZG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZH	TCGA-BJ-A0ZH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A0ZJ	TCGA-BJ-A0ZJ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A18Y	TCGA-BJ-A18Y-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A18Z	TCGA-BJ-A18Z-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A190	TCGA-BJ-A190-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A191	TCGA-BJ-A191-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A192	TCGA-BJ-A192-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28R	TCGA-BJ-A28R-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28S	TCGA-BJ-A28S-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28T	TCGA-BJ-A28T-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28V	TCGA-BJ-A28V-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28W	TCGA-BJ-A28W-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28X	TCGA-BJ-A28X-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A28Z	TCGA-BJ-A28Z-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A290	TCGA-BJ-A290-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A291	TCGA-BJ-A291-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A2N7	TCGA-BJ-A2N7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A2N8	TCGA-BJ-A2N8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A2N9	TCGA-BJ-A2N9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A2NA	TCGA-BJ-A2NA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A2P4	TCGA-BJ-A2P4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A3EZ	TCGA-BJ-A3EZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A3F0	TCGA-BJ-A3F0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A3PR	TCGA-BJ-A3PR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A3PT	TCGA-BJ-A3PT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A3PU	TCGA-BJ-A3PU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45C	TCGA-BJ-A45C-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45D	TCGA-BJ-A45D-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45E	TCGA-BJ-A45E-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45F	TCGA-BJ-A45F-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45G	TCGA-BJ-A45G-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45H	TCGA-BJ-A45H-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45I	TCGA-BJ-A45I-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45J	TCGA-BJ-A45J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A45K	TCGA-BJ-A45K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A4O8	TCGA-BJ-A4O8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-BJ-A4O9	TCGA-BJ-A4O9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A13K	TCGA-CE-A13K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A27D	TCGA-CE-A27D-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A3MD	TCGA-CE-A3MD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A3ME	TCGA-CE-A3ME-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A481	TCGA-CE-A481-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A482	TCGA-CE-A482-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A483	TCGA-CE-A483-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A484	TCGA-CE-A484-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-CE-A485	TCGA-CE-A485-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A0XZ	TCGA-DE-A0XZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A0Y2	TCGA-DE-A0Y2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A0Y3	TCGA-DE-A0Y3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A2OL	TCGA-DE-A2OL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A3KN	TCGA-DE-A3KN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4M8	TCGA-DE-A4M8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4M9	TCGA-DE-A4M9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4MA	TCGA-DE-A4MA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4MB	TCGA-DE-A4MB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4MC	TCGA-DE-A4MC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A4MD	TCGA-DE-A4MD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A69J	TCGA-DE-A69J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A69K	TCGA-DE-A69K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DE-A7U5	TCGA-DE-A7U5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13L	TCGA-DJ-A13L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13M	TCGA-DJ-A13M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13O	TCGA-DJ-A13O-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13P	TCGA-DJ-A13P-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13R	TCGA-DJ-A13R-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13S	TCGA-DJ-A13S-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13T	TCGA-DJ-A13T-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13U	TCGA-DJ-A13U-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13V	TCGA-DJ-A13V-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13W	TCGA-DJ-A13W-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A13X	TCGA-DJ-A13X-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QD	TCGA-DJ-A1QD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QE	TCGA-DJ-A1QE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QF	TCGA-DJ-A1QF-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QG	TCGA-DJ-A1QG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QH	TCGA-DJ-A1QH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QI	TCGA-DJ-A1QI-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QL	TCGA-DJ-A1QL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QM	TCGA-DJ-A1QM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QN	TCGA-DJ-A1QN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QO	TCGA-DJ-A1QO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A1QQ	TCGA-DJ-A1QQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PN	TCGA-DJ-A2PN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PO	TCGA-DJ-A2PO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PP	TCGA-DJ-A2PP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PQ	TCGA-DJ-A2PQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PR	TCGA-DJ-A2PR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PS	TCGA-DJ-A2PS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PT	TCGA-DJ-A2PT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PU	TCGA-DJ-A2PU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PV	TCGA-DJ-A2PV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PW	TCGA-DJ-A2PW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PX	TCGA-DJ-A2PX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PY	TCGA-DJ-A2PY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2PZ	TCGA-DJ-A2PZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q0	TCGA-DJ-A2Q0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q1	TCGA-DJ-A2Q1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q2	TCGA-DJ-A2Q2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q3	TCGA-DJ-A2Q3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q4	TCGA-DJ-A2Q4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q5	TCGA-DJ-A2Q5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q6	TCGA-DJ-A2Q6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q7	TCGA-DJ-A2Q7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q8	TCGA-DJ-A2Q8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2Q9	TCGA-DJ-A2Q9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2QA	TCGA-DJ-A2QA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2QB	TCGA-DJ-A2QB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A2QC	TCGA-DJ-A2QC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UK	TCGA-DJ-A3UK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UM	TCGA-DJ-A3UM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UN	TCGA-DJ-A3UN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UO	TCGA-DJ-A3UO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UP	TCGA-DJ-A3UP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UQ	TCGA-DJ-A3UQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UR	TCGA-DJ-A3UR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3US	TCGA-DJ-A3US-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UT	TCGA-DJ-A3UT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UU	TCGA-DJ-A3UU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UW	TCGA-DJ-A3UW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UX	TCGA-DJ-A3UX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UY	TCGA-DJ-A3UY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3UZ	TCGA-DJ-A3UZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V0	TCGA-DJ-A3V0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V2	TCGA-DJ-A3V2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V3	TCGA-DJ-A3V3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V4	TCGA-DJ-A3V4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V5	TCGA-DJ-A3V5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V7	TCGA-DJ-A3V7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V8	TCGA-DJ-A3V8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3V9	TCGA-DJ-A3V9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VA	TCGA-DJ-A3VA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VB	TCGA-DJ-A3VB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VD	TCGA-DJ-A3VD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VE	TCGA-DJ-A3VE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VF	TCGA-DJ-A3VF-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VG	TCGA-DJ-A3VG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VI	TCGA-DJ-A3VI-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VJ	TCGA-DJ-A3VJ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VK	TCGA-DJ-A3VK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VL	TCGA-DJ-A3VL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A3VM	TCGA-DJ-A3VM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UL	TCGA-DJ-A4UL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UP	TCGA-DJ-A4UP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UQ	TCGA-DJ-A4UQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UR	TCGA-DJ-A4UR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UT	TCGA-DJ-A4UT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4UW	TCGA-DJ-A4UW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4V0	TCGA-DJ-A4V0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4V2	TCGA-DJ-A4V2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4V4	TCGA-DJ-A4V4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DJ-A4V5	TCGA-DJ-A4V5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DO-A1JZ	TCGA-DO-A1JZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DO-A1K0	TCGA-DO-A1K0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-DO-A2HM	TCGA-DO-A2HM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3DY	TCGA-E3-A3DY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3DZ	TCGA-E3-A3DZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3E0	TCGA-E3-A3E0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3E1	TCGA-E3-A3E1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3E2	TCGA-E3-A3E2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3E3	TCGA-E3-A3E3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E3-A3E5	TCGA-E3-A3E5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A242	TCGA-E8-A242-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A2EA	TCGA-E8-A2EA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A3X7	TCGA-E8-A3X7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A413	TCGA-E8-A413-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A414	TCGA-E8-A414-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A415	TCGA-E8-A415-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A416	TCGA-E8-A416-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A417	TCGA-E8-A417-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A418	TCGA-E8-A418-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A419	TCGA-E8-A419-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A432	TCGA-E8-A432-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A433	TCGA-E8-A433-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A434	TCGA-E8-A434-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A436	TCGA-E8-A436-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A437	TCGA-E8-A437-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A438	TCGA-E8-A438-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A44K	TCGA-E8-A44K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-E8-A44M	TCGA-E8-A44M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CL	TCGA-EL-A3CL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CM	TCGA-EL-A3CM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CN	TCGA-EL-A3CN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CO	TCGA-EL-A3CO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CP	TCGA-EL-A3CP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CR	TCGA-EL-A3CR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CS	TCGA-EL-A3CS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CT	TCGA-EL-A3CT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CU	TCGA-EL-A3CU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CV	TCGA-EL-A3CV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CW	TCGA-EL-A3CW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CX	TCGA-EL-A3CX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CY	TCGA-EL-A3CY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3CZ	TCGA-EL-A3CZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3D1	TCGA-EL-A3D1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3D4	TCGA-EL-A3D4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3D6	TCGA-EL-A3D6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GO	TCGA-EL-A3GO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GP	TCGA-EL-A3GP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GQ	TCGA-EL-A3GQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GR	TCGA-EL-A3GR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GS	TCGA-EL-A3GS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GU	TCGA-EL-A3GU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GV	TCGA-EL-A3GV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GW	TCGA-EL-A3GW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GX	TCGA-EL-A3GX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GY	TCGA-EL-A3GY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3GZ	TCGA-EL-A3GZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H1	TCGA-EL-A3H1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H2	TCGA-EL-A3H2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H3	TCGA-EL-A3H3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H4	TCGA-EL-A3H4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H5	TCGA-EL-A3H5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H7	TCGA-EL-A3H7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3H8	TCGA-EL-A3H8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3MW	TCGA-EL-A3MW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3MX	TCGA-EL-A3MX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3MY	TCGA-EL-A3MY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3MZ	TCGA-EL-A3MZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3N2	TCGA-EL-A3N2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3N3	TCGA-EL-A3N3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T0	TCGA-EL-A3T0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T1	TCGA-EL-A3T1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T2	TCGA-EL-A3T2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T3	TCGA-EL-A3T3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T6	TCGA-EL-A3T6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T7	TCGA-EL-A3T7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T8	TCGA-EL-A3T8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3T9	TCGA-EL-A3T9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3TA	TCGA-EL-A3TA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3TB	TCGA-EL-A3TB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZG	TCGA-EL-A3ZG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZH	TCGA-EL-A3ZH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZK	TCGA-EL-A3ZK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZL	TCGA-EL-A3ZL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZM	TCGA-EL-A3ZM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZN	TCGA-EL-A3ZN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZO	TCGA-EL-A3ZO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZP	TCGA-EL-A3ZP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZQ	TCGA-EL-A3ZQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZR	TCGA-EL-A3ZR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZS	TCGA-EL-A3ZS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A3ZT	TCGA-EL-A3ZT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4JV	TCGA-EL-A4JV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4JW	TCGA-EL-A4JW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4JX	TCGA-EL-A4JX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4JZ	TCGA-EL-A4JZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K0	TCGA-EL-A4K0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K1	TCGA-EL-A4K1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K2	TCGA-EL-A4K2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K4	TCGA-EL-A4K4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K6	TCGA-EL-A4K6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K7	TCGA-EL-A4K7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4K9	TCGA-EL-A4K9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4KD	TCGA-EL-A4KD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4KG	TCGA-EL-A4KG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4KH	TCGA-EL-A4KH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EL-A4KI	TCGA-EL-A4KI-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1CS	TCGA-EM-A1CS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1CT	TCGA-EM-A1CT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1CU	TCGA-EM-A1CU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1CV	TCGA-EM-A1CV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1CW	TCGA-EM-A1CW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1YA	TCGA-EM-A1YA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1YB	TCGA-EM-A1YB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1YC	TCGA-EM-A1YC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1YD	TCGA-EM-A1YD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A1YE	TCGA-EM-A1YE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22I	TCGA-EM-A22I-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22J	TCGA-EM-A22J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22K	TCGA-EM-A22K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22L	TCGA-EM-A22L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22M	TCGA-EM-A22M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22N	TCGA-EM-A22N-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22O	TCGA-EM-A22O-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22P	TCGA-EM-A22P-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A22Q	TCGA-EM-A22Q-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CJ	TCGA-EM-A2CJ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CK	TCGA-EM-A2CK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CL	TCGA-EM-A2CL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CN	TCGA-EM-A2CN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CO	TCGA-EM-A2CO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CP	TCGA-EM-A2CP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CQ	TCGA-EM-A2CQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CR	TCGA-EM-A2CR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CT	TCGA-EM-A2CT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2CU	TCGA-EM-A2CU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2OV	TCGA-EM-A2OV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2OW	TCGA-EM-A2OW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2OX	TCGA-EM-A2OX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2OY	TCGA-EM-A2OY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2OZ	TCGA-EM-A2OZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2P0	TCGA-EM-A2P0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2P1	TCGA-EM-A2P1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2P2	TCGA-EM-A2P2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A2P3	TCGA-EM-A2P3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AI	TCGA-EM-A3AI-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AJ	TCGA-EM-A3AJ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AK	TCGA-EM-A3AK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AL	TCGA-EM-A3AL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AN	TCGA-EM-A3AN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AO	TCGA-EM-A3AO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AP	TCGA-EM-A3AP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AQ	TCGA-EM-A3AQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3AR	TCGA-EM-A3AR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FJ	TCGA-EM-A3FJ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FK	TCGA-EM-A3FK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FL	TCGA-EM-A3FL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FM	TCGA-EM-A3FM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FN	TCGA-EM-A3FN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FO	TCGA-EM-A3FO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FP	TCGA-EM-A3FP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FQ	TCGA-EM-A3FQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3FR	TCGA-EM-A3FR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3O3	TCGA-EM-A3O3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3O6	TCGA-EM-A3O6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3O7	TCGA-EM-A3O7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3O8	TCGA-EM-A3O8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3O9	TCGA-EM-A3O9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3OA	TCGA-EM-A3OA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3OB	TCGA-EM-A3OB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3ST	TCGA-EM-A3ST-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3SU	TCGA-EM-A3SU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3SX	TCGA-EM-A3SX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3SY	TCGA-EM-A3SY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A3SZ	TCGA-EM-A3SZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FF	TCGA-EM-A4FF-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FH	TCGA-EM-A4FH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FK	TCGA-EM-A4FK-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FM	TCGA-EM-A4FM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FN	TCGA-EM-A4FN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FO	TCGA-EM-A4FO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FQ	TCGA-EM-A4FQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FR	TCGA-EM-A4FR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FU	TCGA-EM-A4FU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4FV	TCGA-EM-A4FV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-EM-A4G1	TCGA-EM-A4G1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25G	TCGA-ET-A25G-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25I	TCGA-ET-A25I-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25J	TCGA-ET-A25J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25K	TCGA-ET-A25K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25L	TCGA-ET-A25L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25M	TCGA-ET-A25M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25N	TCGA-ET-A25N-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25O	TCGA-ET-A25O-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25P	TCGA-ET-A25P-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A25R	TCGA-ET-A25R-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2MX	TCGA-ET-A2MX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2MY	TCGA-ET-A2MY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2MZ	TCGA-ET-A2MZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2N0	TCGA-ET-A2N0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2N1	TCGA-ET-A2N1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2N3	TCGA-ET-A2N3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2N4	TCGA-ET-A2N4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A2N5	TCGA-ET-A2N5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39I	TCGA-ET-A39I-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39J	TCGA-ET-A39J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39K	TCGA-ET-A39K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39L	TCGA-ET-A39L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39M	TCGA-ET-A39M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39N	TCGA-ET-A39N-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39O	TCGA-ET-A39O-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39P	TCGA-ET-A39P-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39R	TCGA-ET-A39R-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39S	TCGA-ET-A39S-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A39T	TCGA-ET-A39T-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BN	TCGA-ET-A3BN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BO	TCGA-ET-A3BO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BP	TCGA-ET-A3BP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BQ	TCGA-ET-A3BQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BS	TCGA-ET-A3BS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BT	TCGA-ET-A3BT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BU	TCGA-ET-A3BU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BV	TCGA-ET-A3BV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BW	TCGA-ET-A3BW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3BX	TCGA-ET-A3BX-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DO	TCGA-ET-A3DO-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DP	TCGA-ET-A3DP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DQ	TCGA-ET-A3DQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DR	TCGA-ET-A3DR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DS	TCGA-ET-A3DS-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DT	TCGA-ET-A3DT-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DU	TCGA-ET-A3DU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DV	TCGA-ET-A3DV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A3DW	TCGA-ET-A3DW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A40P	TCGA-ET-A40P-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A40Q	TCGA-ET-A40Q-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A40R	TCGA-ET-A40R-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A40S	TCGA-ET-A40S-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A40T	TCGA-ET-A40T-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A4KN	TCGA-ET-A4KN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-ET-A4KQ	TCGA-ET-A4KQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A22Z	TCGA-FE-A22Z-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A230	TCGA-FE-A230-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A231	TCGA-FE-A231-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A232	TCGA-FE-A232-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A233	TCGA-FE-A233-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A234	TCGA-FE-A234-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A235	TCGA-FE-A235-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A236	TCGA-FE-A236-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A237	TCGA-FE-A237-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A238	TCGA-FE-A238-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A239	TCGA-FE-A239-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A23A	TCGA-FE-A23A-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A3PA	TCGA-FE-A3PA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A3PB	TCGA-FE-A3PB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A3PC	TCGA-FE-A3PC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FE-A3PD	TCGA-FE-A3PD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3S3	TCGA-FK-A3S3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3SB	TCGA-FK-A3SB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3SD	TCGA-FK-A3SD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3SE	TCGA-FK-A3SE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3SG	TCGA-FK-A3SG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A3SH	TCGA-FK-A3SH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FK-A4UB	TCGA-FK-A4UB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A2QD	TCGA-FY-A2QD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3BL	TCGA-FY-A3BL-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3I4	TCGA-FY-A3I4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3I5	TCGA-FY-A3I5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3NM	TCGA-FY-A3NM-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3NN	TCGA-FY-A3NN-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3NP	TCGA-FY-A3NP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3ON	TCGA-FY-A3ON-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3R6	TCGA-FY-A3R6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3R7	TCGA-FY-A3R7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3R8	TCGA-FY-A3R8-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3R9	TCGA-FY-A3R9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3RA	TCGA-FY-A3RA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3TY	TCGA-FY-A3TY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3W9	TCGA-FY-A3W9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3WA	TCGA-FY-A3WA-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A3YR	TCGA-FY-A3YR-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A40K	TCGA-FY-A40K-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A40L	TCGA-FY-A40L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A40M	TCGA-FY-A40M-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A40N	TCGA-FY-A40N-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A4B0	TCGA-FY-A4B0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A4B3	TCGA-FY-A4B3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A4B4	TCGA-FY-A4B4-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-FY-A76V	TCGA-FY-A76V-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-GE-A2C6	TCGA-GE-A2C6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A26U	TCGA-H2-A26U-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A2K9	TCGA-H2-A2K9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A3RH	TCGA-H2-A3RH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A3RI	TCGA-H2-A3RI-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A421	TCGA-H2-A421-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-H2-A422	TCGA-H2-A422-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A3EB	TCGA-IM-A3EB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A3ED	TCGA-IM-A3ED-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A3U2	TCGA-IM-A3U2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A3U3	TCGA-IM-A3U3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A41Y	TCGA-IM-A41Y-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A41Z	TCGA-IM-A41Z-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A420	TCGA-IM-A420-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-IM-A4EB	TCGA-IM-A4EB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Other	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3NZ	TCGA-J8-A3NZ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3O0	TCGA-J8-A3O0-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3O1	TCGA-J8-A3O1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3O2	TCGA-J8-A3O2-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YD	TCGA-J8-A3YD-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YE	TCGA-J8-A3YE-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YF	TCGA-J8-A3YF-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YG	TCGA-J8-A3YG-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YH	TCGA-J8-A3YH-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A3YH	TCGA-J8-A3YH-06	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Metastatic	70197	Thyroid Carcinoma
+TCGA-J8-A42S	TCGA-J8-A42S-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A4HW	TCGA-J8-A4HW-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-J8-A4HY	TCGA-J8-A4HY-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A41F	TCGA-KS-A41F-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A41I	TCGA-KS-A41I-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A41J	TCGA-KS-A41J-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A41L	TCGA-KS-A41L-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4I1	TCGA-KS-A4I1-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4I3	TCGA-KS-A4I3-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4I5	TCGA-KS-A4I5-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4I7	TCGA-KS-A4I7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4I9	TCGA-KS-A4I9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4IB	TCGA-KS-A4IB-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4IC	TCGA-KS-A4IC-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-KS-A4ID	TCGA-KS-A4ID-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-L6-A4EP	TCGA-L6-A4EP-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-L6-A4EQ	TCGA-L6-A4EQ-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-L6-A4ET	TCGA-L6-A4ET-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-L6-A4EU	TCGA-L6-A4EU-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Tall Cell (>= 50% Tall Cell Features)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-MK-A4N6	TCGA-MK-A4N6-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-MK-A4N7	TCGA-MK-A4N7-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-MK-A4N9	TCGA-MK-A4N9-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-MK-A84Z	TCGA-MK-A84Z-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Follicular (>= 99% Follicular Patterned)	Thyroid	Primary	70197	Thyroid Carcinoma
+TCGA-QD-A8IV	TCGA-QD-A8IV-01	C73.9	Well-Differentiated Thyroid Cancer	Papillary Thyroid Cancer	Thyroid Papillary Carcinoma, Classical/Usual Type	Thyroid	Primary	70197	Thyroid Carcinoma

@@ -1,0 +1,23 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE	Code_Carcinosarcoma	Code_mullerian	CODE	CATEGORY_NAME
+MM01T	MM01T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM02T	MM02T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM03T	MM03T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM04T	MM04T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM05T	MM05T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Ovary	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM06T	MM06T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Ovary	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM07T	MM07T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM08T	MM08T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM09T	MM09T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM10T	MM10T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Ovary	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM11T	MM11T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Ovary	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM12T	MM12T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM13T	MM13T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM14T	MM14T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM15T	MM15T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM16T	MM16T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM17T	MM17T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM18T	MM18T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM19T	MM19T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM20T	MM20T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM21T	MM21T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Uterus	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+MM22T	MM22T	Primary	Endometrial Cancer	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Ovary	8980/3	89503	89503	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor

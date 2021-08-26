@@ -1,0 +1,41 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	TUMOR_TISSUE_SITE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+OSCJM-PT45-364	OSCJM-PT45-364-T	Primary	Head and Neck Cancer	Alveolar	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT50-575	OSCJM-PT50-575-T	Primary	Head and Neck Cancer	Alveolar	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT42-193	OSCJM-PT42-193-T	Primary	Head and Neck Cancer	Buccal	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT49-537	OSCJM-PT49-537-T	Primary	Head and Neck Cancer	Buccal	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT35-37	OSCJM-PT35-37-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT40-169	OSCJM-PT40-169-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT43-201	OSCJM-PT43-201-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT22-229	OSCJM-PT22-229-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT36-331	OSCJM-PT36-331-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT46-394	OSCJM-PT46-394-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT32-489	OSCJM-PT32-489-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT48-530	OSCJM-PT48-530-T	Primary	Head and Neck Cancer	Floor of mouth	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT07-43	OSCJM-PT07-43-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT05-91	OSCJM-PT05-91-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PTC-139	OSCJM-PTC-139-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT01-166	OSCJM-PT01-166-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT41-180	OSCJM-PT41-180-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT38-234	OSCJM-PT38-234-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT21-238	OSCJM-PT21-238-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT13-258	OSCJM-PT13-258-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT33-288	OSCJM-PT33-288-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT28-298	OSCJM-PT28-298-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT10-325	OSCJM-PT10-325-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT25-327	OSCJM-PT25-327-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PTB-347	OSCJM-PTB-347-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT14-353	OSCJM-PT14-353-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PTA-367	OSCJM-PTA-367-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT11-385	OSCJM-PT11-385-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT03-388	OSCJM-PT03-388-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT15-391	OSCJM-PT15-391-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT18-392	OSCJM-PT18-392-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT04-447	OSCJM-PT04-447-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT47-449	OSCJM-PT47-449-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT12-478	OSCJM-PT12-478-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT19-481	OSCJM-PT19-481-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT37-513	OSCJM-PT37-513-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT27-562	OSCJM-PT27-562-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PTD-578	OSCJM-PTD-578-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT30-592	OSCJM-PT30-592-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma
+OSCJM-PT20-600	OSCJM-PT20-600-T	Primary	Head and Neck Cancer	Tongue	Head and Neck Squamous Cell Carcinoma	70207	Head Neck Squamous Cell Carcinoma

@@ -1,0 +1,12 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+DLBCL-PatientA	DLBCL-PatientA	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientC	DLBCL-PatientC	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientD	DLBCL-PatientD	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientE	DLBCL-PatientE	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientF	DLBCL-PatientF	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientG	DLBCL-PatientG	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientH	DLBCL-PatientH	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-PatientI	DLBCL-PatientI	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-PatientK	DLBCL-PatientK	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-PatientL	DLBCL-PatientL	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+FL-PatientA	FL-PatientA	Primary	Mature B-Cell Neoplasms	Follicular Lymphoma	70547	Follicular Lymphoma

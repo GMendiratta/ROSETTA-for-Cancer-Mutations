@@ -1,0 +1,237 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	DIFFERENTIATION	DISEASE_STAGE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+BCB109T	BCB109T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB111T	BCB111T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB151T	BCB151T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB157T	BCB157T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB167T	BCB167T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB231T	BCB231T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB301T	BCB301T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB307T	BCB307T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCB325T	BCB325T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM229T	BCM229T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM257T	BCM257T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM265T	BCM265T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM269T	BCM269T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM275T	BCM275T	Liver	Primary	I_II	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM321T	BCM321T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM325T	BCM325T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM329T	BCM329T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM337T	BCM337T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM339T	BCM339T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM371T	BCM371T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM375T	BCM375T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM397T	BCM397T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM399T	BCM399T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM423T	BCM423T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM439T	BCM439T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM455T	BCM455T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM483T	BCM483T	Liver	Primary	I_II	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM489T	BCM489T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM501T	BCM501T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM529T	BCM529T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM531T	BCM531T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM543T	BCM543T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM545T	BCM545T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM565T	BCM565T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM567T	BCM567T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM617T	BCM617T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM643T	BCM643T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM671T	BCM671T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM683T	BCM683T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM689T	BCM689T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM695T	BCM695T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM703T	BCM703T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM711T	BCM711T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM723T	BCM723T	Liver	Primary		Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM735T	BCM735T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM739T	BCM739T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM759T	BCM759T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM769T	BCM769T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM783T	BCM783T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+BCM791T	BCM791T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC051T	CHC051T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC059T	CHC059T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC060T	CHC060T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC097T	CHC097T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1010T	CHC1010T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1028T	CHC1028T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1035T	CHC1035T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1040T	CHC1040T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1041T	CHC1041T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1044T	CHC1044T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1052T	CHC1052T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1053T	CHC1053T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1055T	CHC1055T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1060T	CHC1060T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1061T	CHC1061T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1062T	CHC1062T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1065T	CHC1065T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1079T	CHC1079T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1081T	CHC1081T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1085T	CHC1085T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1137T	CHC1137T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1148T	CHC1148T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1152T	CHC1152T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1154T	CHC1154T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1162T	CHC1162T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1177T	CHC1177T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1180T	CHC1180T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1182T	CHC1182T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1183T	CHC1183T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1185T	CHC1185T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1186T	CHC1186T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1190T	CHC1190T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1191T	CHC1191T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1192T	CHC1192T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1201T	CHC1201T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1205T	CHC1205T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1207T	CHC1207T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1209T	CHC1209T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1210T	CHC1210T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1211T	CHC1211T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC121T	CHC121T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1530T	CHC1530T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1531T	CHC1531T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1534T	CHC1534T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1539T	CHC1539T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1545T	CHC1545T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1556T	CHC1556T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC155T	CHC155T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1566T	CHC1566T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1568T	CHC1568T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1569T	CHC1569T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1591T	CHC1591T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1592T	CHC1592T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1594T	CHC1594T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1595T	CHC1595T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1596T	CHC1596T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1597T	CHC1597T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1598T	CHC1598T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1600T	CHC1600T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1601T	CHC1601T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1602T	CHC1602T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1603T	CHC1603T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1604T	CHC1604T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1611T	CHC1611T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1616T	CHC1616T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1624T	CHC1624T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1626T	CHC1626T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1629T	CHC1629T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1700T	CHC1700T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1704T	CHC1704T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1708T	CHC1708T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1712T	CHC1712T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1714T	CHC1714T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1715T	CHC1715T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1717T	CHC1717T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1719T	CHC1719T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1720T	CHC1720T	Liver	Primary	III_IV	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1725T	CHC1725T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1731T	CHC1731T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1732T	CHC1732T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1734T	CHC1734T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1736T	CHC1736T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1737T	CHC1737T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1738T	CHC1738T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1739T	CHC1739T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1741T	CHC1741T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1742T	CHC1742T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1743T	CHC1743T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1744T	CHC1744T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1745T	CHC1745T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1746T	CHC1746T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1747T	CHC1747T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1749T	CHC1749T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1750T	CHC1750T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1751T	CHC1751T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1753T	CHC1753T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1754T	CHC1754T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1756T	CHC1756T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1757T	CHC1757T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1763T	CHC1763T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1774T	CHC1774T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1775T	CHC1775T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC1915T	CHC1915T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC197T	CHC197T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2029T	CHC2029T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2034T	CHC2034T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2039Tbis	CHC2039Tbis	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2043T	CHC2043T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2048T	CHC2048T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2052T	CHC2052T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC205T	CHC205T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2098T	CHC2098T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2099T	CHC2099T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2103T	CHC2103T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2110Tbis	CHC2110Tbis	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2111T	CHC2111T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2112T	CHC2112T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2113T	CHC2113T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2115T	CHC2115T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2127T	CHC2127T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2128T	CHC2128T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2134T	CHC2134T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2141T	CHC2141T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC218T	CHC218T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2200T	CHC2200T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2202T	CHC2202T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2206T	CHC2206T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2208T	CHC2208T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2211T	CHC2211T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2213T	CHC2213T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2215T	CHC2215T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2216T	CHC2216T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2321T	CHC2321T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2351T	CHC2351T	Liver	Primary	III_IV	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2358T	CHC2358T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC2362T	CHC2362T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC253T	CHC253T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC258T	CHC258T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC301T	CHC301T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC302T	CHC302T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC303T	CHC303T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC304T	CHC304T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC306T	CHC306T	Liver	Primary	I_II	Small HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC307T	CHC307T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC313T	CHC313T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC314T	CHC314T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC320T	CHC320T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC322T	CHC322T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC326T	CHC326T	Liver	Primary	I_II	Early HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC327T	CHC327T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC361TA	CHC361TA	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC429T	CHC429T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC432T	CHC432T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC433T	CHC433T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC434T	CHC434T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC437T	CHC437T	Liver	Primary	I_II	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC451T	CHC451T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC465T	CHC465T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC469T	CHC469T	Liver	Primary	III_IV	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC510T	CHC510T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC609T	CHC609T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC614T	CHC614T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC703T	CHC703T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC734T	CHC734T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC736T	CHC736T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC789T	CHC789T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC793T	CHC793T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC794T	CHC794T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC796T	CHC796T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC798T	CHC798T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC799T	CHC799T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC801T	CHC801T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC805T	CHC805T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC879T	CHC879T	Liver	Primary	III_IV	Classic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC884T	CHC884T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC889T	CHC889T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC891T	CHC891T	Liver	Primary	III_IV	Poor prognosis HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC892T	CHC892T	Liver	Primary	I_II	Hypermutated HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC896T	CHC896T	Liver	Primary	I_II	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC898T	CHC898T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC902T	CHC902T	Liver	Primary	I_II	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC909T	CHC909T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC912T	CHC912T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC917T	CHC917T	Liver	Primary	I_II	HCC in Adenoma	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC923T	CHC923T	Liver	Primary	III_IV	F2_F3 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma
+CHC961T	CHC961T	Liver	Primary	III_IV	F0_F1 non cirrhotic HCC	Hepatobiliary Cancer	Hepatocellular Carcinoma	70187	Hepatocellular Carcinoma

@@ -1,0 +1,27 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	PRIMARY_SITE	PATHOLOGIC_PRIMARY_TUMOR_STAGE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+ME001	ME001	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME002	ME002	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME007	ME007	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME009	ME009	Primary	Trunk	T4b	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME011	ME011	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME012	ME012	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME015	ME015	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME016	ME016	Primary	Trunk	T1, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME018	ME018	Primary	Unknown	T0*	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME020	ME020	Primary	Unknown	T0*	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME021	ME021	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME024	ME024	Primary	Unknown	T0*	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME029	ME029	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME030	ME030	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME032	ME032	Primary	Extremities	T4b	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME035	ME035	Primary	Extremities	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME037	ME037	Primary	Unknown	T0*	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME041	ME041	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME043	ME043	Primary	Extremities	T1, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME044	ME044	Primary	Trunk	T1, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME045	ME045	Primary	Trunk	T3, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME048	ME048	Primary	Extremities	T3b	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME049	ME049	Primary	Unknown	T0*	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME050	ME050	Primary	Trunk	T2, NOS	Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME100	ME100	Primary	Unknown		Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma
+ME100	ME100L	Primary	Unknown		Skin Melanoma	Melanoma	Melanoma	70107	Malignant melanoma

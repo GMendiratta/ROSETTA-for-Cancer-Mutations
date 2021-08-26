@@ -1,0 +1,79 @@
+PATIENT_ID	SAMPLE_ID	GRADE	SAMPLE_TYPE	SITE	LOCATION	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+PGM56	PGM56	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM38	PGM38	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM19	PGM19	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM5	PGM5		Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM17	PGM17	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM61	PGM61	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM52	PGM52	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM63	PGM63	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM62	PGM62	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM8	PGM8	9.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM36	PGM36	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM6	PGM6		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM72	PGM72		Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM7	PGM7	2.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM30	PGM30		Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM60	PGM60	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM34	PGM34	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM44	PGM44	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM12	PGM12	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM65	PGM65	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM41	PGM41	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM55	PGM55		Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM18	PGM18	9.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM53	PGM53	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM46	PGM46	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM57	PGM57	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM2	PGM2	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM49	PGM49	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM27	PGM27		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM20	PGM20		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM3	PGM3		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM11	PGM11		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM13	PGM13	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM4	PGM4		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM16	PGM16	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM15	PGM15	2.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM35	PGM35	2.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM50	PGM50	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM1	PGM1		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM9	PGM9	2.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM10	PGM10		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM51	PGM51		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM74	PGM74	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM48	PGM48	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM73	PGM73	3.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM75	PGM75		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM78	PGM78		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM43	PGM43	2.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM69	PGM69		Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM71	PGM71	2.0	Primary	Stomach	Body	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM45	PGM45	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM26	PGM26		Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM14	PGM14		Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM23	PGM23	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM25	PGM25	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM42	PGM42	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM21	PGM21		Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM28	PGM28	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM24	PGM24	1.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM54	PGM54	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM32	PGM32	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM39	PGM39	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM58	PGM58	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM47	PGM47	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM22	PGM22		Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM76	PGM76		Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM59	PGM59	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM70	PGM70	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM77	PGM77	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM68	PGM68	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM67	PGM67	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM29	PGM29		Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM31	PGM31	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM33	PGM33	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM37	PGM37	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM40	PGM40	2.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM64	PGM64	3.0	Primary	Stomach	Antrum	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma
+PGM66	PGM66	3.0	Primary	Stomach	Cardia	Esophagogastric Adenocarcinoma	Esophagogastric Adenocarcinoma	70347	Gastric Adenocarcinoma

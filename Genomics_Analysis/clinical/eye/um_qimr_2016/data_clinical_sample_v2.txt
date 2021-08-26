@@ -1,0 +1,29 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	METASTATIC_SITE	SITE	PRIMARY_SITE	CELL_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+C0622943-T	C0622943-T	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+141378RG-T	141378RG-T	Primary		Eye	Cilary Body	Mixed Spindle and Epithelioid (Predominantly Spindle B)	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+ETB-0002-T	ETB-0002-T	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+J2217960PR-T	J2217960PR-T	Primary		Eye	Choroid	Mixed Spindle and Epithelioid (Predominantly Spindle)	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+K0111890AC-T	K0111890AC-T	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_553	um_qimr_553	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_535	um_qimr_535	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_556	um_qimr_556	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_552	um_qimr_552	Primary		Eye	Choroid	Mixed Spindle and Epithelioid/ and invasion in Sclerae	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_534	um_qimr_534	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_533	um_qimr_533	Primary		Eye	Choroid	Mixed Spindle and Epithelioid/ and invasion in Sclerae and Extrascleral invasion	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_557	um_qimr_557	Primary		Eye	Choroid	Spindle Type	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_537	um_qimr_537	Primary		Eye	Choroid	Spindle Type	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_538	um_qimr_538	Primary		Eye	Choroid	Spindle Type B, Pre-Existing Nevus	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_531	um_qimr_531	Primary		Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_258	um_qimr_258	Primary		Eye	Choroid	Spindle Type	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_550	um_qimr_550	Primary		Eye	Choroid	Mixed Spindle and Epithelioid/ and invasion in Sclerae	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_554	um_qimr_554	Primary		Eye	Choroid	Spindle Type	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+um_qimr_539	um_qimr_539	Primary		Eye	Choroid	Spindle Type B	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+MM1488	MM1488	Metastasis	Liver Mets	Eye			Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+MM1551	MM1551			Eye			Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+MM1563	MM1563	Metastasis	Liver Mets	Eye			Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+MM639	MM639	Metastasis	Illiac Crest Mets	Eye	Choroid	Mixed Spindle and Epithelioid	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+00028-001-CL	00028-001-CL	Cell Line		Eye	Left eye choroid	Spindle type  A (40%) and spindle type B (60%)	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+00038-001-CL	00038-001-CL	Cell Line		Eye	Left eye choroid	Spindle type B, small component of epitheliod cells	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+00061-001-CL	00061-001-CL	Cell Line		Eye	Left eye choroid	Spindle type B	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+00085-001-CL	00085-001-CL	Cell Line		Eye	Left eye choroid	Spindle type B (50%) and epitheliod cells (50%)	Melanoma	Uveal Melanoma	70097	Uveal Melanoma
+00099-001-CL	00099-001-CL	Cell Line		Eye	Right eye choroid	Spindle type  A (75%) and spindle type B (25%)	Melanoma	Uveal Melanoma	70097	Uveal Melanoma

@@ -1,0 +1,11 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	merajs annotation	CODE	CATEGORY_NAME
+INS8	INS8	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS12	INS12	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS15	INS15	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS19	INS19	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS20	INS20	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS24	INS24	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS29	INS29	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS31	INS31	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS38	INS38	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+INS40	INS40	Primary	Pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 

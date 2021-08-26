@@ -1,0 +1,44 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	PRIMARY_TUMOR_LOCATION	TUMOR_SAMPLE_HISTOLOGY	CANCER_TYPE	CANCER_TYPE_DETAILED	PATIENT_ID.1	HISTOLOGICAL_SUBTYPE	Meraj annotation	CODE	CATEGORY_NAME
+RMS2035	RMS2035	Primary	Nasopharynx	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2035	Botryoid	Sarcoma botryoides	70037	Rhabdomyosarcoma
+RMS2076	RMS2076	Primary	Hand	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2076	Classic	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2029	RMS2029	Primary	Right Thigh	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2029	Dense/Diffuse Anaplasia	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS212	RMS212	Primary	Pelvis, site indeterminate	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS212	Diffuse Anaplasia	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS223	RMS223	Primary	Abdominal Wall	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS223	Diffuse Anaplasia	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS239	RMS239	Primary	Pelvis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS239	Diffuse Anaplasia	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS206	RMS206	Primary	Testis-Pa ratestis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS206	Focal Anaplasia	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2016	RMS2016	Primary	Perinea!	Mixed Alveolar-Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2016	Mixed	Mixed type rhabdomyosarcoma	70037	Rhabdomyosarcoma
+RMS2037	RMS2037	Primary	Extremity	Mixed Alveolar/Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2037	Mixed 80% Alveolar	Mixed type rhabdomyosarcoma	70037	Rhabdomyosarcoma
+RMS2038	RMS2038	Primary	Abdominal Wall	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2038	Solid	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2046	RMS2046	Primary	Left Chest, Diaphram	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2046	Solid	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2028	RMS2028	Primary	Pelvis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2028	Spindle cell	Spindle cell rhabdomyosarcoma	70037	Rhabdomyosarcoma
+RMS2083	RMS2083	Primary	Testis-Pa ratestis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2083	Spindled/Sclerosing/Diffuse anaplasia	Spindle cell rhabdomyosarcoma	70037	Rhabdomyosarcoma
+RMS2015	RMS2015	Primary	Abdominal Wall	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2015	Typical	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2032	RMS2032	Primary	Paratesticular	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2032	Typical	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2034	RMS2034	Primary	Testis-Paratestis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2034	Typical	Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+NCI-0040	NCI-0040	Primary	Left Thigh	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	NCI-0040		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+NCI-0082	NCI-0082	Primary	Left Gluteus	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	NCI-0082		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2001	RMS2001	Primary	Nasal Cavity	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2001		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS202	RMS202	Primary	Paratesticular	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS202		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2030	RMS2030	Primary	Left Orbital	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2030		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2047	RMS2047	Primary	Infratemporal fossa	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2047		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2051	RMS2051	Primary	Mandible	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2051		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2079	RMS2079	Primary	Vulva	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2079		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2104	RMS2104	Primary	Hand	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2104		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2105	RMS2105	Primary	Perinea!	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2105		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2107	RMS2107	Primary	Paratesticular	Mixed Alveolar/Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2107		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2110	RMS2110	Primary	Omentum	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2110		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2111	RMS2111	Primary	Renal	RMS-NOS	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2111		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2114	RMS2114	Primary	Pelvis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2114		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS2117	RMS2117	Primary	Pelvis	RMS-NOS	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS2117		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS216	RMS216	Primary	Abdominal Wall	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS216		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS217	RMS217	Primary	retroperitoneal pelvis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS217		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS221	RMS221	Primary	Pelvis	RMS-NOS	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS221		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS225	RMS225	Primary	Pelvis/Labia	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS225		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS227	RMS227	Primary	Pelvis	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS227		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS232	RMS232	Primary	Extremity	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS232		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS235	RMS235	Primary	Pelvis/Perineal	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS235		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS237	RMS237	Primary	Pelvis	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS237		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS240	RMS240	Primary	Abdomen/Diaphram	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS240		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS246	RMS246	Primary	Pelvis/Buttock	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS246		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS247	RMS247	Primary	Pelvis	Alveolar	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS247		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma
+RMS249	RMS249	Primary	Paratesticular	Embryonal	Soft Tissue Sarcoma	Rhabdomyosarcoma	RMS249		Rhabdomyosarcoma, NOS	70037	Rhabdomyosarcoma

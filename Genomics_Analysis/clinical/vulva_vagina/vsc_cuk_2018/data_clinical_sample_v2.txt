@@ -1,0 +1,16 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+VSCC1	VSCC1	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC2	VSCC2	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC3	VSCC3	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC4	VSCC4	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC5	VSCC5	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC6	VSCC6	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC7	VSCC7	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC8	VSCC8	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC9	VSCC9	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC10	VSCC10	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC11	VSCC11	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC12	VSCC12	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC13	VSCC13	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC14	VSCC14	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma
+VSCC15	VSCC15	Primary	Vaginal Cancer	Squamous Cell Carcinoma of the Vulva/Vagina	70247	Vulval Squamous Cell Carcinoma

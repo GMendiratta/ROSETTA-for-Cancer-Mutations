@@ -1,0 +1,2 @@
+df_Incdstats.csv contains the simulated gene reweighted incidence vector with the columns, central value, 95% Confidence bounds and Mean-values. This file is stored to avoid time-consuming recalculation or test the specific frozen version in the manuscript.
+df_unwtd_Incdstats.csv contains simulated gene incidence vector from genomics data alone.

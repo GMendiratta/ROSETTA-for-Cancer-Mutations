@@ -1,0 +1,33 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	DIAGNOSIS	WHO_CLASS	CODE	CATEGORY_NAME
+P-Thy018	P-Thy018	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy021	P-Thy021	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy027	P-Thy027	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy031	P-Thy031	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy037	P-Thy037	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy047	P-Thy047	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy051	P-Thy051	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	A	70157	Carcinoma of the Thymus
+P-Thy008	P-Thy008	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	AB	70157	Carcinoma of the Thymus
+T1682	T1682	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B1	70157	Carcinoma of the Thymus
+P-Thy016	P-Thy016	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B2	70157	Carcinoma of the Thymus
+P-Thy019	P-Thy019	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B2	70157	Carcinoma of the Thymus
+P-Thy034	P-Thy034	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B2	70157	Carcinoma of the Thymus
+P-Thy001	P-Thy001	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+P-Thy015	P-Thy015	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+P-Thy026	P-Thy026	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+P-Thy041	P-Thy041	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+P-Thy046	P-Thy046	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+N-Thy008	N-Thy008	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+Padua002	Padua002	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymoma	B3	70157	Carcinoma of the Thymus
+N-Thy009	N-Thy009	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undiferentiated	70157	Carcinoma of the Thymus
+N-Thy011	N-Thy011	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undiferentiated	70157	Carcinoma of the Thymus
+N-Thy015	N-Thy015	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undifferentiated	70157	Carcinoma of the Thymus
+N-Thy017	N-Thy017	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undifferentiated	70157	Carcinoma of the Thymus
+TY82	TY82	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undifferentiated	70157	Carcinoma of the Thymus
+N-Thy004	N-Thy004	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC: Undifferentiated	70157	Carcinoma of the Thymus
+CMPC11-3103	CMPC11-3103	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:NEC	70157	Carcinoma of the Thymus
+P-Thy003	P-Thy003	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:SCC	70157	Carcinoma of the Thymus
+P-Thy025	P-Thy025	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:SCC	70157	Carcinoma of the Thymus
+N-Thy002	N-Thy002	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:SCC	70157	Carcinoma of the Thymus
+Padua001	Padua001	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:SCC	70157	Carcinoma of the Thymus
+CMPC11-3104	CMPC11-3104	Primary	Thymic Tumor	Thymic Epithelial Tumor	Thymic Carcinoma	TC:Undifferentiated	70157	Carcinoma of the Thymus
+P-Thy009	P-Thy009	Primary	Thymic Tumor	Thymic Epithelial Tumor			70157	Carcinoma of the Thymus

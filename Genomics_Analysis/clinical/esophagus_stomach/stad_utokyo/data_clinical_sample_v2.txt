@@ -1,0 +1,31 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	LAUREN_CLASS	T_STAGE	GRADE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+GC299	GC_299T1-GC_299N	Primary	Stomach	Diffuse	T1b	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC302	GC_302T-GC_302N	Primary	Stomach	Diffuse	T2	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC307	GC_307T-GC_307N	Primary	Stomach	Diffuse	T2	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC313	GC_313T-GC_313N	Primary	Stomach	Diffuse	T4a	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC315	GC_315T-GC_315N	Primary	Stomach	Diffuse	T4a	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC332	GC_332T-GC_332N	Primary	Stomach	Diffuse	T4a	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC356	GC_356T-GC_356N	Primary	Stomach	Diffuse	T1b	Poor  (signet)	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC342	GC_342T_a-GC_342N	Primary	Stomach	Diffuse	T3	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC359	GC_359T-GC_359N	Primary	Stomach	Diffuse	T3	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC383	GC_383T-GC_383N	Primary	Stomach	Diffuse	T4a	Poor	Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC314	GC_314T-GC_314N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC337	GC_337T-GC_337N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC350	GC_350T-GC_350N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC296	GC_296T1-GC_296N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC319	GC_319T-GC_319N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC343	GC_343T-GC_343N_a	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC289	GC_289T-GC_289N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC325	GC_325T-GC_325N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC364	GC_364T-GC_364N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC297	GC_297_T-GC_297_N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC304	GC_304T-GC_304N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC340	GC_340T-GC_340N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC370	GC_370T-GC_370N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC353	GC_353T-GC_353N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC306	GC_306T-GC_306N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC310	GC_310T-GC_310N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC312	GC_312T-GC_312N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC351	GC_351T-GC_351N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC357	GC_357T-GC_357N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma
+GC361	GC_361T-GC_361N	Primary	Stomach				Esophagogastric Cancer	Stomach Adenocarcinoma	70347	Gastic Adenocarcinoma

@@ -1,0 +1,567 @@
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	SITE	SAMPLE_TYPE	Other_Code	CODE	CATEGORY_NAME
+TCGA-05-4244	TCGA-05-4244-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4249	TCGA-05-4249-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4250	TCGA-05-4250-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4382	TCGA-05-4382-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4384	TCGA-05-4384-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4389	TCGA-05-4389-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4390	TCGA-05-4390-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4395	TCGA-05-4395-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4396	TCGA-05-4396-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4397	TCGA-05-4397-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4398	TCGA-05-4398-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4402	TCGA-05-4402-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4403	TCGA-05-4403-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4405	TCGA-05-4405-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4410	TCGA-05-4410-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4415	TCGA-05-4415-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4417	TCGA-05-4417-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4418	TCGA-05-4418-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4420	TCGA-05-4420-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4422	TCGA-05-4422-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4424	TCGA-05-4424-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4425	TCGA-05-4425-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4426	TCGA-05-4426-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4427	TCGA-05-4427-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4430	TCGA-05-4430-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4432	TCGA-05-4432-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4433	TCGA-05-4433-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-4434	TCGA-05-4434-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-5423	TCGA-05-5423-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-5425	TCGA-05-5425-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-5428	TCGA-05-5428-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-5429	TCGA-05-5429-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-05-5715	TCGA-05-5715-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-35-3615	TCGA-35-3615-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-35-4122	TCGA-35-4122-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-35-4123	TCGA-35-4123-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-35-5375	TCGA-35-5375-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4625	TCGA-38-4625-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4626	TCGA-38-4626-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4627	TCGA-38-4627-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4628	TCGA-38-4628-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4631	TCGA-38-4631-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-4632	TCGA-38-4632-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-6178	TCGA-38-6178-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-7271	TCGA-38-7271-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-38-A44F	TCGA-38-A44F-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2655	TCGA-44-2655-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2656	TCGA-44-2656-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2657	TCGA-44-2657-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2659	TCGA-44-2659-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2662	TCGA-44-2662-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2665	TCGA-44-2665-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2666	TCGA-44-2666-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-2668	TCGA-44-2668-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-3396	TCGA-44-3396-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-3398	TCGA-44-3398-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-3917	TCGA-44-3917-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-3918	TCGA-44-3918-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-3919	TCGA-44-3919-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-4112	TCGA-44-4112-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-5643	TCGA-44-5643-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-5644	TCGA-44-5644-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-5645	TCGA-44-5645-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6144	TCGA-44-6144-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6145	TCGA-44-6145-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6146	TCGA-44-6146-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Mucinous Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6148	TCGA-44-6148-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Mucinous Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6774	TCGA-44-6774-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6775	TCGA-44-6775-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6776	TCGA-44-6776-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6777	TCGA-44-6777-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6778	TCGA-44-6778-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-6779	TCGA-44-6779-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7659	TCGA-44-7659-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7660	TCGA-44-7660-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7661	TCGA-44-7661-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7662	TCGA-44-7662-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7667	TCGA-44-7667-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7669	TCGA-44-7669-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7670	TCGA-44-7670-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7671	TCGA-44-7671-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-7672	TCGA-44-7672-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-8117	TCGA-44-8117-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-8119	TCGA-44-8119-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-8120	TCGA-44-8120-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A479	TCGA-44-A479-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A47A	TCGA-44-A47A-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A47B	TCGA-44-A47B-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A47F	TCGA-44-A47F-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A47G	TCGA-44-A47G-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A4SS	TCGA-44-A4SS-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-44-A4SU	TCGA-44-A4SU-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4486	TCGA-49-4486-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4487	TCGA-49-4487-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4488	TCGA-49-4488-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4490	TCGA-49-4490-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4494	TCGA-49-4494-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4501	TCGA-49-4501-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4505	TCGA-49-4505-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4506	TCGA-49-4506-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4507	TCGA-49-4507-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4510	TCGA-49-4510-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4512	TCGA-49-4512-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-4514	TCGA-49-4514-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6742	TCGA-49-6742-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6743	TCGA-49-6743-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Clear Cell Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6744	TCGA-49-6744-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6745	TCGA-49-6745-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6761	TCGA-49-6761-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-6767	TCGA-49-6767-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAQV	TCGA-49-AAQV-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAR0	TCGA-49-AAR0-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAR2	TCGA-49-AAR2-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAR3	TCGA-49-AAR3-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAR4	TCGA-49-AAR4-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AAR9	TCGA-49-AAR9-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AARE	TCGA-49-AARE-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AARN	TCGA-49-AARN-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AARO	TCGA-49-AARO-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AARQ	TCGA-49-AARQ-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-49-AARR	TCGA-49-AARR-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-4B-A93V	TCGA-4B-A93V-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5044	TCGA-50-5044-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5045	TCGA-50-5045-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5049	TCGA-50-5049-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5051	TCGA-50-5051-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5055	TCGA-50-5055-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5066	TCGA-50-5066-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5068	TCGA-50-5068-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5072	TCGA-50-5072-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5930	TCGA-50-5930-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5931	TCGA-50-5931-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5932	TCGA-50-5932-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5933	TCGA-50-5933-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5935	TCGA-50-5935-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5936	TCGA-50-5936-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5939	TCGA-50-5939-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5941	TCGA-50-5941-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5942	TCGA-50-5942-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5944	TCGA-50-5944-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-5946	TCGA-50-5946-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6590	TCGA-50-6590-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6591	TCGA-50-6591-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6592	TCGA-50-6592-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6593	TCGA-50-6593-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6594	TCGA-50-6594-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6595	TCGA-50-6595-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6597	TCGA-50-6597-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-6673	TCGA-50-6673-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-7109	TCGA-50-7109-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-8457	TCGA-50-8457-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-8459	TCGA-50-8459-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-50-8460	TCGA-50-8460-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-53-7624	TCGA-53-7624-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-53-7626	TCGA-53-7626-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-53-7813	TCGA-53-7813-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-53-A4EZ	TCGA-53-A4EZ-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-1592	TCGA-55-1592-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-1594	TCGA-55-1594-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-1595	TCGA-55-1595-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Clear Cell Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-1596	TCGA-55-1596-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-5899	TCGA-55-5899-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6543	TCGA-55-6543-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6642	TCGA-55-6642-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6712	TCGA-55-6712-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6968	TCGA-55-6968-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6969	TCGA-55-6969-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6970	TCGA-55-6970-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6971	TCGA-55-6971-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6972	TCGA-55-6972-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6975	TCGA-55-6975-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6978	TCGA-55-6978-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6979	TCGA-55-6979-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6980	TCGA-55-6980-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6981	TCGA-55-6981-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6982	TCGA-55-6982-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6983	TCGA-55-6983-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6984	TCGA-55-6984-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6985	TCGA-55-6985-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6986	TCGA-55-6986-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-6987	TCGA-55-6987-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7227	TCGA-55-7227-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7281	TCGA-55-7281-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7283	TCGA-55-7283-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7284	TCGA-55-7284-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7570	TCGA-55-7570-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7573	TCGA-55-7573-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7574	TCGA-55-7574-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7576	TCGA-55-7576-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7724	TCGA-55-7724-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7725	TCGA-55-7725-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7726	TCGA-55-7726-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7727	TCGA-55-7727-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7728	TCGA-55-7728-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7815	TCGA-55-7815-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7816	TCGA-55-7816-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7903	TCGA-55-7903-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7907	TCGA-55-7907-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7910	TCGA-55-7910-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7911	TCGA-55-7911-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7913	TCGA-55-7913-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7914	TCGA-55-7914-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7994	TCGA-55-7994-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-7995	TCGA-55-7995-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8085	TCGA-55-8085-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8087	TCGA-55-8087-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8089	TCGA-55-8089-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8090	TCGA-55-8090-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8091	TCGA-55-8091-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8092	TCGA-55-8092-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8094	TCGA-55-8094-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8096	TCGA-55-8096-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8097	TCGA-55-8097-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8203	TCGA-55-8203-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8204	TCGA-55-8204-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8205	TCGA-55-8205-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8206	TCGA-55-8206-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8207	TCGA-55-8207-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8208	TCGA-55-8208-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8299	TCGA-55-8299-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8301	TCGA-55-8301-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8302	TCGA-55-8302-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8505	TCGA-55-8505-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8506	TCGA-55-8506-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8507	TCGA-55-8507-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8508	TCGA-55-8508-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8510	TCGA-55-8510-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8511	TCGA-55-8511-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8512	TCGA-55-8512-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8513	TCGA-55-8513-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8514	TCGA-55-8514-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8614	TCGA-55-8614-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8615	TCGA-55-8615-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8616	TCGA-55-8616-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8619	TCGA-55-8619-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8620	TCGA-55-8620-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-8621	TCGA-55-8621-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A48X	TCGA-55-A48X-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A48Y	TCGA-55-A48Y-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A48Z	TCGA-55-A48Z-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A490	TCGA-55-A490-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A491	TCGA-55-A491-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A492	TCGA-55-A492-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A493	TCGA-55-A493-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A494	TCGA-55-A494-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A4DF	TCGA-55-A4DF-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A4DG	TCGA-55-A4DG-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-55-A57B	TCGA-55-A57B-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8394	TCGA-62-8394-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8395	TCGA-62-8395-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8397	TCGA-62-8397-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8398	TCGA-62-8398-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8399	TCGA-62-8399-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-8402	TCGA-62-8402-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46O	TCGA-62-A46O-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46P	TCGA-62-A46P-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46R	TCGA-62-A46R-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46S	TCGA-62-A46S-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46U	TCGA-62-A46U-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46V	TCGA-62-A46V-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A46Y	TCGA-62-A46Y-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A470	TCGA-62-A470-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A471	TCGA-62-A471-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-62-A472	TCGA-62-A472-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1676	TCGA-64-1676-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1677	TCGA-64-1677-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1678	TCGA-64-1678-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1679	TCGA-64-1679-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1680	TCGA-64-1680-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-1681	TCGA-64-1681-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5774	TCGA-64-5774-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5775	TCGA-64-5775-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5778	TCGA-64-5778-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5779	TCGA-64-5779-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5781	TCGA-64-5781-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-64-5815	TCGA-64-5815-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-3770	TCGA-67-3770-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-3771	TCGA-67-3771-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-3772	TCGA-67-3772-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-3773	TCGA-67-3773-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-3774	TCGA-67-3774-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-4679	TCGA-67-4679-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-6215	TCGA-67-6215-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-6216	TCGA-67-6216-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-67-6217	TCGA-67-6217-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7760	TCGA-69-7760-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7761	TCGA-69-7761-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7763	TCGA-69-7763-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7764	TCGA-69-7764-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7765	TCGA-69-7765-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7973	TCGA-69-7973-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7974	TCGA-69-7974-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7978	TCGA-69-7978-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7979	TCGA-69-7979-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-7980	TCGA-69-7980-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-8253	TCGA-69-8253-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-8254	TCGA-69-8254-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-8255	TCGA-69-8255-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Solid Pattern Predominant Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-8453	TCGA-69-8453-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-69-A59K	TCGA-69-A59K-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-71-6725	TCGA-71-6725-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-71-8520	TCGA-71-8520-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4658	TCGA-73-4658-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4659	TCGA-73-4659-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4662	TCGA-73-4662-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4666	TCGA-73-4666-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4668	TCGA-73-4668-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Micropapillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4670	TCGA-73-4670-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4675	TCGA-73-4675-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4676	TCGA-73-4676-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-4677	TCGA-73-4677-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-7498	TCGA-73-7498-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-7499	TCGA-73-7499-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-73-A9RS	TCGA-73-A9RS-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-5122	TCGA-75-5122-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-5125	TCGA-75-5125-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-5126	TCGA-75-5126-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-5146	TCGA-75-5146-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-5147	TCGA-75-5147-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6203	TCGA-75-6203-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6205	TCGA-75-6205-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6206	TCGA-75-6206-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6207	TCGA-75-6207-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6211	TCGA-75-6211-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6212	TCGA-75-6212-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Micropapillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-6214	TCGA-75-6214-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-7025	TCGA-75-7025-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-7027	TCGA-75-7027-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-7030	TCGA-75-7030-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-75-7031	TCGA-75-7031-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7143	TCGA-78-7143-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7145	TCGA-78-7145-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7146	TCGA-78-7146-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7147	TCGA-78-7147-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7148	TCGA-78-7148-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7149	TCGA-78-7149-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7150	TCGA-78-7150-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7152	TCGA-78-7152-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7153	TCGA-78-7153-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7154	TCGA-78-7154-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7155	TCGA-78-7155-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7156	TCGA-78-7156-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7158	TCGA-78-7158-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7159	TCGA-78-7159-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7160	TCGA-78-7160-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7161	TCGA-78-7161-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7162	TCGA-78-7162-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7163	TCGA-78-7163-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7166	TCGA-78-7166-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7167	TCGA-78-7167-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7220	TCGA-78-7220-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7535	TCGA-78-7535-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7536	TCGA-78-7536-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7537	TCGA-78-7537-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7539	TCGA-78-7539-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7540	TCGA-78-7540-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7542	TCGA-78-7542-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-7633	TCGA-78-7633-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-8640	TCGA-78-8640-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-8648	TCGA-78-8648-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-8655	TCGA-78-8655-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-8660	TCGA-78-8660-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-78-8662	TCGA-78-8662-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-80-5607	TCGA-80-5607-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-80-5608	TCGA-80-5608-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-80-5611	TCGA-80-5611-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Solid Pattern Predominant Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-83-5908	TCGA-83-5908-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-6562	TCGA-86-6562-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-6851	TCGA-86-6851-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7701	TCGA-86-7701-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7711	TCGA-86-7711-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7713	TCGA-86-7713-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7714	TCGA-86-7714-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7953	TCGA-86-7953-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7954	TCGA-86-7954-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-7955	TCGA-86-7955-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8054	TCGA-86-8054-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8055	TCGA-86-8055-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8056	TCGA-86-8056-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8073	TCGA-86-8073-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8074	TCGA-86-8074-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8075	TCGA-86-8075-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8076	TCGA-86-8076-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8278	TCGA-86-8278-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8279	TCGA-86-8279-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8280	TCGA-86-8280-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8281	TCGA-86-8281-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8358	TCGA-86-8358-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8359	TCGA-86-8359-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8585	TCGA-86-8585-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Solid Pattern Predominant Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8668	TCGA-86-8668-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8669	TCGA-86-8669-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8671	TCGA-86-8671-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8672	TCGA-86-8672-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8673	TCGA-86-8673-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-8674	TCGA-86-8674-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-A456	TCGA-86-A456-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-A4D0	TCGA-86-A4D0-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-A4JF	TCGA-86-A4JF-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-A4P7	TCGA-86-A4P7-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-86-A4P8	TCGA-86-A4P8-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6828	TCGA-91-6828-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6829	TCGA-91-6829-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6830	TCGA-91-6830-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6831	TCGA-91-6831-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6835	TCGA-91-6835-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6836	TCGA-91-6836-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6840	TCGA-91-6840-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6847	TCGA-91-6847-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6848	TCGA-91-6848-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-6849	TCGA-91-6849-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-7771	TCGA-91-7771-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-8496	TCGA-91-8496-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-8497	TCGA-91-8497-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-8499	TCGA-91-8499-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-A4BC	TCGA-91-A4BC-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-91-A4BD	TCGA-91-A4BD-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-7347	TCGA-93-7347-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-7348	TCGA-93-7348-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-8067	TCGA-93-8067-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-A4JN	TCGA-93-A4JN-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-A4JO	TCGA-93-A4JO-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-A4JP	TCGA-93-A4JP-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-93-A4JQ	TCGA-93-A4JQ-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7039	TCGA-95-7039-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7043	TCGA-95-7043-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7562	TCGA-95-7562-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7567	TCGA-95-7567-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7944	TCGA-95-7944-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7947	TCGA-95-7947-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-7948	TCGA-95-7948-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-8039	TCGA-95-8039-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-8494	TCGA-95-8494-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-A4VK	TCGA-95-A4VK-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-A4VN	TCGA-95-A4VN-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Solid Pattern Predominant Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-95-A4VP	TCGA-95-A4VP-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7546	TCGA-97-7546-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7547	TCGA-97-7547-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7552	TCGA-97-7552-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7553	TCGA-97-7553-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7554	TCGA-97-7554-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7937	TCGA-97-7937-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Micropapillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7938	TCGA-97-7938-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-7941	TCGA-97-7941-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8171	TCGA-97-8171-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8172	TCGA-97-8172-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8174	TCGA-97-8174-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8175	TCGA-97-8175-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Solid Pattern Predominant Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8176	TCGA-97-8176-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8177	TCGA-97-8177-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8179	TCGA-97-8179-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Acinar Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8547	TCGA-97-8547-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-8552	TCGA-97-8552-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4LX	TCGA-97-A4LX-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M0	TCGA-97-A4M0-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M1	TCGA-97-A4M1-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M2	TCGA-97-A4M2-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M3	TCGA-97-A4M3-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M5	TCGA-97-A4M5-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M6	TCGA-97-A4M6-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-97-A4M7	TCGA-97-A4M7-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-7458	TCGA-99-7458-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Non-Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-8025	TCGA-99-8025-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-8028	TCGA-99-8028-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-8032	TCGA-99-8032-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-8033	TCGA-99-8033-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-99-AA5R	TCGA-99-AA5R-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-J2-8192	TCGA-J2-8192-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-J2-8194	TCGA-J2-8194-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-J2-A4AD	TCGA-J2-A4AD-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-J2-A4AE	TCGA-J2-A4AE-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-J2-A4AG	TCGA-J2-A4AG-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L4-A4E5	TCGA-L4-A4E5-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L4-A4E6	TCGA-L4-A4E6-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A443	TCGA-L9-A443-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A444	TCGA-L9-A444-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A50W	TCGA-L9-A50W-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A5IP	TCGA-L9-A5IP-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A743	TCGA-L9-A743-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A7SV	TCGA-L9-A7SV-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-L9-A8F4	TCGA-L9-A8F4-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MN-A4N1	TCGA-MN-A4N1-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MN-A4N4	TCGA-MN-A4N4-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MN-A4N5	TCGA-MN-A4N5-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4SV	TCGA-MP-A4SV-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4SW	TCGA-MP-A4SW-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4SY	TCGA-MP-A4SY-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T2	TCGA-MP-A4T2-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T4	TCGA-MP-A4T4-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T6	TCGA-MP-A4T6-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T7	TCGA-MP-A4T7-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T8	TCGA-MP-A4T8-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4T9	TCGA-MP-A4T9-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TA	TCGA-MP-A4TA-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TC	TCGA-MP-A4TC-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TD	TCGA-MP-A4TD-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TE	TCGA-MP-A4TE-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TF	TCGA-MP-A4TF-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TH	TCGA-MP-A4TH-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TI	TCGA-MP-A4TI-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TJ	TCGA-MP-A4TJ-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Signet Ring Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A4TK	TCGA-MP-A4TK-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-MP-A5C7	TCGA-MP-A5C7-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A4YF	TCGA-NJ-A4YF-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma, Mixed Subtype	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A4YG	TCGA-NJ-A4YG-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A4YI	TCGA-NJ-A4YI-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A4YP	TCGA-NJ-A4YP-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Papillary Adenocarcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A4YQ	TCGA-NJ-A4YQ-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A55A	TCGA-NJ-A55A-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A55O	TCGA-NJ-A55O-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Mucinous (Colloid) Carcinoma	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A55R	TCGA-NJ-A55R-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-NJ-A7XG	TCGA-NJ-A7XG-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-O1-A52J	TCGA-O1-A52J-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma (NOS)	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-S2-AA1A	TCGA-S2-AA1A-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Bronchioloalveolar Carcinoma, Mucinous	Lung	Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z053	TCGA-17-Z053-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z025	TCGA-17-Z025-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z002	TCGA-17-Z002-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z055	TCGA-17-Z055-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z021	TCGA-17-Z021-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z000	TCGA-17-Z000-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z057	TCGA-17-Z057-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z061	TCGA-17-Z061-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z016	TCGA-17-Z016-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z032	TCGA-17-Z032-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z023	TCGA-17-Z023-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z015	TCGA-17-Z015-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z043	TCGA-17-Z043-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z028	TCGA-17-Z028-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z005	TCGA-17-Z005-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z010	TCGA-17-Z010-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z047	TCGA-17-Z047-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z020	TCGA-17-Z020-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z052	TCGA-17-Z052-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z018	TCGA-17-Z018-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z056	TCGA-17-Z056-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z009	TCGA-17-Z009-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z004	TCGA-17-Z004-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z058	TCGA-17-Z058-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z033	TCGA-17-Z033-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z036	TCGA-17-Z036-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z026	TCGA-17-Z026-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z042	TCGA-17-Z042-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z011	TCGA-17-Z011-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z019	TCGA-17-Z019-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z013	TCGA-17-Z013-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z001	TCGA-17-Z001-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z022	TCGA-17-Z022-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z059	TCGA-17-Z059-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z007	TCGA-17-Z007-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z050	TCGA-17-Z050-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z037	TCGA-17-Z037-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z027	TCGA-17-Z027-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z062	TCGA-17-Z062-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z030	TCGA-17-Z030-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z044	TCGA-17-Z044-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z048	TCGA-17-Z048-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z017	TCGA-17-Z017-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z003	TCGA-17-Z003-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z051	TCGA-17-Z051-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z041	TCGA-17-Z041-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z054	TCGA-17-Z054-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z045	TCGA-17-Z045-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z031	TCGA-17-Z031-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z049	TCGA-17-Z049-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z060	TCGA-17-Z060-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma
+TCGA-17-Z014	TCGA-17-Z014-01	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	Lung Adenocarcinoma		Primary	80463	70357	Lung Adenocarcinoma

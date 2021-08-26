@@ -1,0 +1,83 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+P05-620	P05-620	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-144	P07-144	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-5021	P07-5021	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-5318	P07-5318	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-837	P07-837	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-1541	P08-1541	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-217	P08-217	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-5852	P08-5852	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-688	P08-688	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-716	P08-716	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P09-396	P09-396	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P09-628	P09-628	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P09-730	P09-730	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-02-1431	PR-02-1431	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-3125	PR-03-3125	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-728	PR-03-728	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-0410	PR-0410	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-3595	PR-05-3595	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-06-1749	PR-06-1749	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-3258	PR-07-3258	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-360	PR-07-360	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-08-4154	PR-08-4154	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-08-556	PR-08-556	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-09-601	PR-09-601	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-2525	PR-2525	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-2741	PR-2741	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-3042	PR-3042	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-STID0000002682	PR-STID0000002682	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-STID0000003127	PR-STID0000003127	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-4814	PR-07-4814	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P04-1084	P04-1084	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-4941	P07-4941	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-492	P08-492	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-08-2153	PR-08-2153	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-08-2455	PR-08-2455	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-4240	PR-4240	Metastasis	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P07-5037	P07-5037	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P01-28	P01-28	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P03-1426	P03-1426	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P03-2345	P03-2345	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P05-2709	P05-2709	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P05-3852	P05-3852	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-1042	P08-1042	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P08-501	P08-501	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P09-37	P09-37	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-04-1243	PR-04-1243	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-4610	PR-07-4610	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-08-784	PR-08-784	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-09-146	PR-09-146	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-09-3983	PR-09-3983	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-STID0000000415	PR-STID0000000415	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-STID0000002872	PR-STID0000002872	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-7520	PR-7520	Metastasis	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-06-3199	PR-06-3199	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-2621	PR-2621	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P05-1657	P05-1657	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+P09-1042	P09-1042	Primary	Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-2709	PR-05-2709		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-360-Normal	PR-07-360-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-837	PR-07-837		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-09-146-Normal	PR-09-146-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-06-1749-Normal	PR-06-1749-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-04-1084	PR-04-1084		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-04-1243-Normal	PR-04-1243-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-01-28-Normal	PR-01-28-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-1426-Normal	PR-03-1426-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-728-Normal	PR-03-728-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-3852-Normal	PR-05-3852-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-04-1084-Normal	PR-04-1084-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-2709-Normal	PR-05-2709-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-02-1431-Normal	PR-02-1431-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-1657-Normal	PR-05-1657-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-144-Normal	PR-07-144-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-01-28	PR-01-28		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-1426	PR-03-1426		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-2345	PR-03-2345		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-3852	PR-05-3852		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-837-Normal	PR-07-837-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-1657	PR-05-1657		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-03-2345-Normal	PR-03-2345-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-05-3595-Normal	PR-05-3595-Normal		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+PR-07-144	PR-07-144		Prostate	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer

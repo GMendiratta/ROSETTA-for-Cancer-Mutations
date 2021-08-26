@@ -1,0 +1,20 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+PCNSL_1	PCNSL_1	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_2	PCNSL_2	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_3	PCNSL_3	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_4	PCNSL_4	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_5	PCNSL_5	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_7	PCNSL_7	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_8	PCNSL_8	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_10	PCNSL_10	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_12	PCNSL_12	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_19	PCNSL_19	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_20	PCNSL_20	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_28	PCNSL_28	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_29	PCNSL_29	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_30	PCNSL_30	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_31	PCNSL_31	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_32	PCNSL_32	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_33	PCNSL_33	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_34	PCNSL_34	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+PCNSL_6	PCNSL_6	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS

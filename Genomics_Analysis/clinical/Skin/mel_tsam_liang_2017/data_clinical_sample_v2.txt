@@ -1,0 +1,39 @@
+PATIENT_ID	SAMPLE_ID	PRIMARY_SITE	SAMPLE_TYPE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	meraj's annotation	CODE
+P-1	VU1-1	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-2	VU2-2	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-3	VU4-3	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-4	VU5-4	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-5	VU6-5	Thumb	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-6	VU7-6	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-7	VU8-7	Subungual Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-8	VU9-8	Subungual Thumb	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-9	VU10-9	Subungual Thumb	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-10	VU11-10	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-11	VU12-11	Plantar Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-12	VU13-12	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-13	VU14-13	Subungual Toe	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-14	VU15-14	Subungual Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-15	VU16-15	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-16	VU17-16	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-17	101984-1T-17	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-18	103340-1T-18	Subungual	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-19	121441-2T-19	Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-20	129988T-20	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-21	136374-1T-21	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-22	140122-1T-22	Platar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-23	142883-1T-23	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-24	143455-1T-24	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-25	145041-1T-25a	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-25	148336T-25b	Plantar Foot	Na	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-26	145604-1T-26	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-27	150199-1T-27	Plantar Foot	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-28	148034-1T-28	Subungual Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-29	150449-2T-29a	Subungual Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-29	150449-14T-29b	Subungual Toe	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-29	152063-10T-29c	Subungual Toe	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-30	150756-1T-30	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-31	157471-1T-31	Toe	Primary	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-32	142162-1T-32	Subungual Thumb	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-33	143739-33		Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-34	169894a-34a	Plantar Foot	Metastasis	Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443
+P-34	169894b-34b			Skin Melanoma	Melanoma	Acral Melanoma	Acral lentiginous melanoma, malignant (C44._)	87443

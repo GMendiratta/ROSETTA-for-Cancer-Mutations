@@ -1,0 +1,47 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	LOCATION	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+MB-REC-01	MB-REC-01	Primary	Brain	Local	Embryonal Tumor	Large Cell/Anaplastic Medulloblastoma	70077	Medublastoma
+MB-REC-02	MB-REC-02	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-03	MB-REC-03	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-04	MB-REC-04	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-05	MB-REC-05	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-06	MB-REC-06	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-07	MB-REC-07	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-08	MB-REC-08	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-09	MB-REC-09	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-10	MB-REC-10	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-11	MB-REC-11	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-12	MB-REC-12	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-13	MB-REC-13	Primary	Brain	Na	Embryonal Tumor	Large Cell/Anaplastic Medulloblastoma	70077	Medublastoma
+MB-REC-14	MB-REC-14	Primary	Brain	Na	Embryonal Tumor	Large Cell/Anaplastic Medulloblastoma	70077	Medublastoma
+MB-REC-15	MB-REC-15	Primary	Brain	Na	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-16	MB-REC-16	Primary	Brain	Na	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-17	MB-REC-17	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-18	MB-REC-18	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-19	MB-REC-19	Primary	Brain	Local	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-20	MB-REC-20	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-21	MB-REC-21	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-22	MB-REC-22	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-23	MB-REC-23	Primary	Brain	Local	Embryonal Tumor	Large Cell/Anaplastic Medulloblastoma	70077	Medublastoma
+MB-REC-24	MB-REC-24	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-26	MB-REC-26	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-27	MB-REC-27	Primary	Brain	Local	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-28	MB-REC-28	Primary	Brain	Local	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-29	MB-REC-29	Primary	Brain	Local	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-30	MB-REC-30	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-31	MB-REC-31	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-32	MB-REC-32	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-33	MB-REC-33	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-34	MB-REC-34	Primary	Brain	Na	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-35	MB-REC-35	Primary	Brain	Na	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-36	MB-REC-36	Primary	Brain	Local	Embryonal Tumor	Large Cell/Anaplastic Medulloblastoma	70077	Medublastoma
+MB-REC-37	MB-REC-37	Primary	Brain	Primary Tumor Resection 6 Months After Biopsy And Chemotherapy	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-38	MB-REC-38	Primary	Brain	Distal	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-39	MB-REC-39	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-40	MB-REC-40	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-41	MB-REC-41	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-42	MB-REC-42	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-43	MB-REC-43	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-44	MB-REC-44	Primary	Brain	Local	Embryonal Tumor	Desmoplastic/Nodular Medulloblastoma	70077	Medublastoma
+MB-REC-45	MB-REC-45	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-46	MB-REC-46	Primary	Brain	Local	Embryonal Tumor	Medulloblastoma	70077	Medublastoma
+MB-REC-47	MB-REC-47	Primary	Brain	Distal	Embryonal Tumor	Medulloblastoma	70077	Medublastoma

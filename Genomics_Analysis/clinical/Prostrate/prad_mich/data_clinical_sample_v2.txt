@@ -1,0 +1,122 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	NORMAL_SITE	CODE	CATEGORY_NAME
+T8	T8	Primary	Prostate	Prostate	70327	Prostate Cancer
+T12	T12	Primary	Prostate	Prostate	70327	Prostate Cancer
+T32	T32	Primary	Prostate	Prostate	70327	Prostate Cancer
+T90	T90	Primary	Prostate	Prostate	70327	Prostate Cancer
+T91	T91	Primary	Prostate	Prostate	70327	Prostate Cancer
+T92	T92	Primary	Prostate	Prostate	70327	Prostate Cancer
+T93	T93	Primary	Prostate	Prostate	70327	Prostate Cancer
+T94	T94	Primary	Prostate	Prostate	70327	Prostate Cancer
+T95	T95	Primary	Prostate	Prostate	70327	Prostate Cancer
+T96	T96	Primary	Prostate	Prostate	70327	Prostate Cancer
+T97	T97	Primary	Prostate	Prostate	70327	Prostate Cancer
+WA3	WA3	Metastatic	Soft tissue	Liver	70327	Prostate Cancer
+WA7	WA7	Metastatic	Soft tissue	Pancreas	70327	Prostate Cancer
+WA10	WA10	Metastatic	Liver	Spleen	70327	Prostate Cancer
+WA11	WA11	Metastatic	Lung	Lung	70327	Prostate Cancer
+WA12	WA12	Metastatic	Soft tissue	Liver	70327	Prostate Cancer
+WA13	WA13	Metastatic	Soft tissue	Bone marrow	70327	Prostate Cancer
+WA14	WA14	Metastatic	Prostate	Dura	70327	Prostate Cancer
+WA15	WA15	Metastatic	Lymph node	Prostate	70327	Prostate Cancer
+WA16	WA16	Metastatic	Diaphragm	Kidney	70327	Prostate Cancer
+WA17	WA17	Metastatic	Liver	Liver	70327	Prostate Cancer
+WA18	WA18	Metastatic	Liver	Kidney	70327	Prostate Cancer
+WA19	WA19	Metastatic	Soft tissue	Adrenal gland	70327	Prostate Cancer
+WA20	WA20	Metastatic	Liver	Spleen	70327	Prostate Cancer
+WA22	WA22	Metastatic	Prostate	Kidney	70327	Prostate Cancer
+WA23	WA23	Metastatic	Bone marrow	Cerebellum	70327	Prostate Cancer
+WA24	WA24	Metastatic	Liver	Brain	70327	Prostate Cancer
+WA25	WA25	Metastatic	Soft tissue	Kidney	70327	Prostate Cancer
+WA26	WA26	Metastatic	Lung	Liver	70327	Prostate Cancer
+WA27	WA27	Metastatic	Soft tissue	Spleen	70327	Prostate Cancer
+WA28	WA28	Metastatic	Periaortic lymph node	Kidney	70327	Prostate Cancer
+WA29	WA29	Metastatic	Soft tissue	Liver	70327	Prostate Cancer
+WA30	WA30	Metastatic	Soft tissue	Soft tissue	70327	Prostate Cancer
+WA31	WA31	Metastatic	Liver	Spleen	70327	Prostate Cancer
+WA32	WA32	Metastatic	Liver	Kidney	70327	Prostate Cancer
+WA33	WA33	Metastatic	Supraclavicular lymph node	Brain	70327	Prostate Cancer
+WA35	WA35	Metastatic	Mesentery	Liver	70327	Prostate Cancer
+WA37	WA37	Metastatic	Lung hilar lymph node	Kidney	70327	Prostate Cancer
+WA38	WA38	Metastatic	Liver	Spleen	70327	Prostate Cancer
+WA39	WA39	Metastatic	Periaortic lymph node	Liver	70327	Prostate Cancer
+WA40	WA40	Metastatic	Liver	Kidney	70327	Prostate Cancer
+WA41	WA41	Metastatic	Dura	Liver	70327	Prostate Cancer
+WA42	WA42	Metastatic	Adrenal	Kidney	70327	Prostate Cancer
+WA43	WA43-44	Metastatic	Bladder	Pancreas	70327	Prostate Cancer
+WA43	WA43-27	Metastatic	Celiac lymph node	Pancreas	70327	Prostate Cancer
+WA43	WA43-71	Metastatic	Lung	Pancreas	70327	Prostate Cancer
+WA46	WA46	Metastatic	Periaortic lymph node	Spleen	70327	Prostate Cancer
+WA47	WA47	Metastatic	Adrenal gland	Liver	70327	Prostate Cancer
+WA48	WA48	Metastatic	Bone marrow	Liver	70327	Prostate Cancer
+WA49	WA49	Metastatic	Periaortic lymph node	Liver	70327	Prostate Cancer
+WA50	WA50	Metastatic	Subcarinal lymph node	Liver	70327	Prostate Cancer
+WA51	WA51	Metastatic	Bone marrow	Liver	70327	Prostate Cancer
+WA52	WA52	Metastatic	Lung	Spleen	70327	Prostate Cancer
+WA53	WA53	Metastatic	Liver	Liver	70327	Prostate Cancer
+WA54	WA54	Metastatic	Liver	Liver	70327	Prostate Cancer
+WA55	WA55	Metastatic	Liver	Liver	70327	Prostate Cancer
+WA56	WA56	Metastatic	Lymph node	Spleen	70327	Prostate Cancer
+WA57	WA57	Metastatic	Liver	Spleen	70327	Prostate Cancer
+WA58	WA58	Metastatic	Lung	Spleen	70327	Prostate Cancer
+WA59	WA59	Metastatic	Iliac lymph node	Liver	70327	Prostate Cancer
+WA60	WA60	Metastatic	Paratracheal lymph node	Liver	70327	Prostate Cancer
+T66	T66				70327	Prostate Cancer
+T61	T61				70327	Prostate Cancer
+T75	T75				70327	Prostate Cancer
+T46	T46				70327	Prostate Cancer
+T73	T73				70327	Prostate Cancer
+T70	T70				70327	Prostate Cancer
+T17	T17				70327	Prostate Cancer
+T10	T10				70327	Prostate Cancer
+T11	T11				70327	Prostate Cancer
+T39	T39				70327	Prostate Cancer
+T37	T37				70327	Prostate Cancer
+T62	T62				70327	Prostate Cancer
+T19	T19				70327	Prostate Cancer
+T31	T31				70327	Prostate Cancer
+T58	T58				70327	Prostate Cancer
+T59	T59				70327	Prostate Cancer
+T50	T50				70327	Prostate Cancer
+T51	T51				70327	Prostate Cancer
+T52	T52				70327	Prostate Cancer
+T53	T53				70327	Prostate Cancer
+T54	T54				70327	Prostate Cancer
+T55	T55				70327	Prostate Cancer
+T56	T56				70327	Prostate Cancer
+T57	T57				70327	Prostate Cancer
+T63	T63				70327	Prostate Cancer
+WA6	WA6				70327	Prostate Cancer
+WA5	WA5				70327	Prostate Cancer
+WA4	WA4				70327	Prostate Cancer
+WA2	WA2				70327	Prostate Cancer
+T6	T6				70327	Prostate Cancer
+T7	T7				70327	Prostate Cancer
+T5	T5				70327	Prostate Cancer
+T3	T3				70327	Prostate Cancer
+T1	T1				70327	Prostate Cancer
+T29	T29				70327	Prostate Cancer
+T60	T60				70327	Prostate Cancer
+T21	T21				70327	Prostate Cancer
+T20	T20				70327	Prostate Cancer
+T25	T25				70327	Prostate Cancer
+T24	T24				70327	Prostate Cancer
+T27	T27				70327	Prostate Cancer
+T26	T26				70327	Prostate Cancer
+T67	T67				70327	Prostate Cancer
+T49	T49				70327	Prostate Cancer
+T48	T48				70327	Prostate Cancer
+T69	T69				70327	Prostate Cancer
+T68	T68				70327	Prostate Cancer
+T43	T43				70327	Prostate Cancer
+T42	T42				70327	Prostate Cancer
+T41	T41				70327	Prostate Cancer
+T40	T40				70327	Prostate Cancer
+T47	T47				70327	Prostate Cancer
+T9a	T9a				70327	Prostate Cancer
+T45	T45				70327	Prostate Cancer
+T44	T44				70327	Prostate Cancer
+T65	T65				70327	Prostate Cancer
+T64	T64				70327	Prostate Cancer
+T85	T85				70327	Prostate Cancer
+T83	T83				70327	Prostate Cancer
+T82	T82				70327	Prostate Cancer

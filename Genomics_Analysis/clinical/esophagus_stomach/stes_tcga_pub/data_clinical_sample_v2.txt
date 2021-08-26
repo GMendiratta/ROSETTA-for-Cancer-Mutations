@@ -1,0 +1,558 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	LAUREN_CLASS	INTESTINAL_TYPE_SUBCLASS	SIGNET_RING	BARRETTS_ESOPHAGUS	WHO_CLASS	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE	merajs_annotation_based_on_other_classes	CODE	CATEGORY_NAME
+TCGA-2H-A9GF	TCGA-2H-A9GF-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GH	TCGA-2H-A9GH-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GI	TCGA-2H-A9GI-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GK	TCGA-2H-A9GK-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GL	TCGA-2H-A9GL-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GM	TCGA-2H-A9GM-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GN	TCGA-2H-A9GN-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GO	TCGA-2H-A9GO-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-2H-A9GR	TCGA-2H-A9GR-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-IC-A6RE	TCGA-IC-A6RE-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-IG-A4QS	TCGA-IG-A4QS-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6F8	TCGA-JY-A6F8-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6FB	TCGA-JY-A6FB-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A6FH	TCGA-JY-A6FH-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A938	TCGA-JY-A938-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93C	TCGA-JY-A93C-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93D	TCGA-JY-A93D-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-JY-A93E	TCGA-JY-A93E-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43C	TCGA-L5-A43C-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A43I	TCGA-L5-A43I-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OE	TCGA-L5-A4OE-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OF	TCGA-L5-A4OF-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OG	TCGA-L5-A4OG-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OH	TCGA-L5-A4OH-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OI	TCGA-L5-A4OI-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OJ	TCGA-L5-A4OJ-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4ON	TCGA-L5-A4ON-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OO	TCGA-L5-A4OO-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OP	TCGA-L5-A4OP-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OQ	TCGA-L5-A4OQ-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OR	TCGA-L5-A4OR-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OS	TCGA-L5-A4OS-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OT	TCGA-L5-A4OT-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OU	TCGA-L5-A4OU-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OW	TCGA-L5-A4OW-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A4OX	TCGA-L5-A4OX-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A88V	TCGA-L5-A88V-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A88Y	TCGA-L5-A88Y-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A891	TCGA-L5-A891-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NE	TCGA-L5-A8NE-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NF	TCGA-L5-A8NF-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NG	TCGA-L5-A8NG-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NH	TCGA-L5-A8NH-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NI	TCGA-L5-A8NI-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NJ	TCGA-L5-A8NJ-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NL	TCGA-L5-A8NL-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NM	TCGA-L5-A8NM-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NN	TCGA-L5-A8NN-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NR	TCGA-L5-A8NR-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NS	TCGA-L5-A8NS-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NT	TCGA-L5-A8NT-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NU	TCGA-L5-A8NU-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NV	TCGA-L5-A8NV-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L5-A8NW	TCGA-L5-A8NW-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-L7-A6VZ	TCGA-L7-A6VZ-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-M9-A5M8	TCGA-M9-A5M8-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-Q9-A6FW	TCGA-Q9-A6FW-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6DN	TCGA-R6-A6DN-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6DQ	TCGA-R6-A6DQ-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6KZ	TCGA-R6-A6KZ-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6L4	TCGA-R6-A6L4-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6L6	TCGA-R6-A6L6-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6XG	TCGA-R6-A6XG-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6XQ	TCGA-R6-A6XQ-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A6Y2	TCGA-R6-A6Y2-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8W5	TCGA-R6-A8W5-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8W8	TCGA-R6-A8W8-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8WC	TCGA-R6-A8WC-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-R6-A8WG	TCGA-R6-A8WG-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-RE-A7BO	TCGA-RE-A7BO-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-S8-A6BV	TCGA-S8-A6BV-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-V5-A7RB	TCGA-V5-A7RB-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-V5-A7RE	TCGA-V5-A7RE-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-V5-AASW	TCGA-V5-AASW-01	Primary						 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-V5-AASX	TCGA-V5-AASX-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-VR-A8EQ	TCGA-VR-A8EQ-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-VR-AA4D	TCGA-VR-AA4D-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-X8-AAAR	TCGA-X8-AAAR-01	Primary				False		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-ZR-A9CJ	TCGA-ZR-A9CJ-01	Primary				True		 Esophagogastric Carcinoma	Esophageal Adenocarcinoma	Esophagus	 Adenocarcinoma NOS	70337	Esophageal Adenocarcinoma
+TCGA-IG-A3I8	TCGA-IG-A3I8-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3QL	TCGA-IG-A3QL-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3Y9	TCGA-IG-A3Y9-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YA	TCGA-IG-A3YA-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YB	TCGA-IG-A3YB-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A3YC	TCGA-IG-A3YC-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A4P3	TCGA-IG-A4P3-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A50L	TCGA-IG-A50L-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A51D	TCGA-IG-A51D-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A5B8	TCGA-IG-A5B8-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A5S3	TCGA-IG-A5S3-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A625	TCGA-IG-A625-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A6QS	TCGA-IG-A6QS-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A8O2	TCGA-IG-A8O2-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A97H	TCGA-IG-A97H-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IG-A97I	TCGA-IG-A97I-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FD	TCGA-JY-A6FD-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FE	TCGA-JY-A6FE-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A6FG	TCGA-JY-A6FG-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-JY-A93F	TCGA-JY-A93F-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-KH-A6WC	TCGA-KH-A6WC-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A43H	TCGA-L5-A43H-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A43J	TCGA-L5-A43J-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A4OM	TCGA-L5-A4OM-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88S	TCGA-L5-A88S-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88W	TCGA-L5-A88W-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A88Z	TCGA-L5-A88Z-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A8NK	TCGA-L5-A8NK-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L5-A8NQ	TCGA-L5-A8NQ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-L7-A56G	TCGA-L7-A56G-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49K	TCGA-LN-A49K-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49L	TCGA-LN-A49L-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49M	TCGA-LN-A49M-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49N	TCGA-LN-A49N-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49O	TCGA-LN-A49O-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49P	TCGA-LN-A49P-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49R	TCGA-LN-A49R-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49S	TCGA-LN-A49S-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49U	TCGA-LN-A49U-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49W	TCGA-LN-A49W-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49X	TCGA-LN-A49X-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A49Y	TCGA-LN-A49Y-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A1	TCGA-LN-A4A1-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A2	TCGA-LN-A4A2-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A3	TCGA-LN-A4A3-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A4	TCGA-LN-A4A4-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A5	TCGA-LN-A4A5-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A6	TCGA-LN-A4A6-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A8	TCGA-LN-A4A8-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4A9	TCGA-LN-A4A9-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4MQ	TCGA-LN-A4MQ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A4MR	TCGA-LN-A4MR-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U5	TCGA-LN-A5U5-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U6	TCGA-LN-A5U6-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A5U7	TCGA-LN-A5U7-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HV	TCGA-LN-A7HV-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HW	TCGA-LN-A7HW-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HX	TCGA-LN-A7HX-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HY	TCGA-LN-A7HY-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A7HZ	TCGA-LN-A7HZ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8HZ	TCGA-LN-A8HZ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8I0	TCGA-LN-A8I0-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A8I1	TCGA-LN-A8I1-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FO	TCGA-LN-A9FO-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FP	TCGA-LN-A9FP-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FQ	TCGA-LN-A9FQ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-LN-A9FR	TCGA-LN-A9FR-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Q9-A6FU	TCGA-Q9-A6FU-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-S8-A6BW	TCGA-S8-A6BW-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-V5-A7RC	TCGA-V5-A7RC-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-V5-AASV	TCGA-V5-AASV-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EO	TCGA-VR-A8EO-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EP	TCGA-VR-A8EP-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8ER	TCGA-VR-A8ER-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8ET	TCGA-VR-A8ET-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EU	TCGA-VR-A8EU-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EW	TCGA-VR-A8EW-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EX	TCGA-VR-A8EX-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EY	TCGA-VR-A8EY-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-A8EZ	TCGA-VR-A8EZ-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA4G	TCGA-VR-AA4G-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7B	TCGA-VR-AA7B-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7D	TCGA-VR-AA7D-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-VR-AA7I	TCGA-VR-AA7I-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-XP-A8T6	TCGA-XP-A8T6-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-XP-A8T8	TCGA-XP-A8T8-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A8JD	TCGA-Z6-A8JD-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A8JE	TCGA-Z6-A8JE-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-A9VB	TCGA-Z6-A9VB-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-Z6-AAPN	TCGA-Z6-AAPN-01	Primary						 Esophagogastric Carcinoma	Esophageal Squamous Cell Carcinoma	Esophagus	 Squamous cell carcinoma NOS	70217	Esophageal Squamous Cell Carcinoma
+TCGA-IN-8663	TCGA-IN-8663-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-IN-7808	TCGA-IN-7808-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H3	TCGA-HU-A4H3-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H0	TCGA-HU-A4H0-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GY	TCGA-HU-A4GY-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-8210	TCGA-FP-8210-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4Z0	TCGA-D7-A4Z0-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4YV	TCGA-D7-A4YV-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8574	TCGA-D7-8574-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6524	TCGA-D7-6524-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6522	TCGA-D7-6522-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6521	TCGA-D7-6521-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6518	TCGA-D7-6518-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5723	TCGA-CG-5723-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5722	TCGA-CG-5722-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5720	TCGA-CG-5720-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5717	TCGA-CG-5717-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4474	TCGA-CG-4474-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4465	TCGA-CG-4465-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4462	TCGA-CG-4462-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A489	TCGA-CD-A489-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8534	TCGA-CD-8534-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8531	TCGA-CD-8531-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8530	TCGA-CD-8530-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8528	TCGA-CD-8528-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8524	TCGA-CD-8524-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5803	TCGA-CD-5803-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5799	TCGA-CD-5799-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5798	TCGA-CD-5798-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J9	TCGA-BR-A4J9-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J4	TCGA-BR-A4J4-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J2	TCGA-BR-A4J2-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4IZ	TCGA-BR-A4IZ-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4IV	TCGA-BR-A4IV-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4IU	TCGA-BR-A4IU-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A453	TCGA-BR-A453-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A44T	TCGA-BR-A44T-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8686	TCGA-BR-8686-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8677	TCGA-BR-8677-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8592	TCGA-BR-8592-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8588	TCGA-BR-8588-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8384	TCGA-BR-8384-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8380	TCGA-BR-8380-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8371	TCGA-BR-8371-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8365	TCGA-BR-8365-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8364	TCGA-BR-8364-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8297	TCGA-BR-8297-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8291	TCGA-BR-8291-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8080	TCGA-BR-8080-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8058	TCGA-BR-8058-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7957	TCGA-BR-7957-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7196	TCGA-BR-7196-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6803	TCGA-BR-6803-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6705	TCGA-BR-6705-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6564	TCGA-BR-6564-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6563	TCGA-BR-6563-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6457	TCGA-BR-6457-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6453	TCGA-BR-6453-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4362	TCGA-BR-4362-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4279	TCGA-BR-4279-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4255	TCGA-BR-4255-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4187	TCGA-BR-4187-01	Primary	Diffuse		1.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-B7-5816	TCGA-B7-5816-01	Primary	Diffuse		0.0		Poorly_Cohesive	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, diffuse type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-IP-7968	TCGA-IP-7968-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-IN-7806	TCGA-IN-7806-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4HD	TCGA-HU-A4HD-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H8	TCGA-HU-A4H8-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H6	TCGA-HU-A4H6-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H5	TCGA-HU-A4H5-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H4	TCGA-HU-A4H4-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4H2	TCGA-HU-A4H2-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GX	TCGA-HU-A4GX-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GU	TCGA-HU-A4GU-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GT	TCGA-HU-A4GT-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GQ	TCGA-HU-A4GQ-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GP	TCGA-HU-A4GP-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GN	TCGA-HU-A4GN-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GH	TCGA-HU-A4GH-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GF	TCGA-HU-A4GF-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GD	TCGA-HU-A4GD-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4GC	TCGA-HU-A4GC-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4G9	TCGA-HU-A4G9-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4G8	TCGA-HU-A4G8-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4G6	TCGA-HU-A4G6-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4G3	TCGA-HU-A4G3-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-A4G2	TCGA-HU-A4G2-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-8610	TCGA-HU-8610-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-8608	TCGA-HU-8608-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-8604	TCGA-HU-8604-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-8602	TCGA-HU-8602-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HU-8249	TCGA-HU-8249-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HF-7136	TCGA-HF-7136-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HF-7133	TCGA-HF-7133-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-HF-7132	TCGA-HF-7132-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-A4BE	TCGA-FP-A4BE-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-8631	TCGA-FP-8631-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-8211	TCGA-FP-8211-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-8209	TCGA-FP-8209-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-7829	TCGA-FP-7829-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-FP-7735	TCGA-FP-7735-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-F1-A448	TCGA-F1-A448-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-F1-6875	TCGA-F1-6875-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-F1-6874	TCGA-F1-6874-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-F1-6177	TCGA-F1-6177-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-EQ-A4SO	TCGA-EQ-A4SO-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-EQ-8122	TCGA-EQ-8122-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4YY	TCGA-D7-A4YY-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4YX	TCGA-D7-A4YX-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4YU	TCGA-D7-A4YU-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-A4YT	TCGA-D7-A4YT-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8579	TCGA-D7-8579-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8578	TCGA-D7-8578-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8573	TCGA-D7-8573-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8572	TCGA-D7-8572-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-8570	TCGA-D7-8570-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6822	TCGA-D7-6822-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6820	TCGA-D7-6820-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6818	TCGA-D7-6818-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6817	TCGA-D7-6817-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6815	TCGA-D7-6815-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6528	TCGA-D7-6528-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6527	TCGA-D7-6527-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6526	TCGA-D7-6526-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6525	TCGA-D7-6525-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6520	TCGA-D7-6520-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-6519	TCGA-D7-6519-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-5578	TCGA-D7-5578-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-D7-5577	TCGA-D7-5577-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5734	TCGA-CG-5734-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5732	TCGA-CG-5732-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5726	TCGA-CG-5726-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5721	TCGA-CG-5721-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5719	TCGA-CG-5719-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-5718	TCGA-CG-5718-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4477	TCGA-CG-4477-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4476	TCGA-CG-4476-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4475	TCGA-CG-4475-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4469	TCGA-CG-4469-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4466	TCGA-CG-4466-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4449	TCGA-CG-4449-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4444	TCGA-CG-4444-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4443	TCGA-CG-4443-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4442	TCGA-CG-4442-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4441	TCGA-CG-4441-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4438	TCGA-CG-4438-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4437	TCGA-CG-4437-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4436	TCGA-CG-4436-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4306	TCGA-CG-4306-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4305	TCGA-CG-4305-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4304	TCGA-CG-4304-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CG-4301	TCGA-CG-4301-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A4MJ	TCGA-CD-A4MJ-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A4MI	TCGA-CD-A4MI-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A4MH	TCGA-CD-A4MH-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A4MG	TCGA-CD-A4MG-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A48C	TCGA-CD-A48C-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A48A	TCGA-CD-A48A-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-A486	TCGA-CD-A486-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8535	TCGA-CD-8535-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8532	TCGA-CD-8532-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8529	TCGA-CD-8529-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-8526	TCGA-CD-8526-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5804	TCGA-CD-5804-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5801	TCGA-CD-5801-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-CD-5800	TCGA-CD-5800-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4QI	TCGA-BR-A4QI-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4PF	TCGA-BR-A4PF-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4PE	TCGA-BR-A4PE-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4PD	TCGA-BR-A4PD-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J7	TCGA-BR-A4J7-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J6	TCGA-BR-A4J6-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J5	TCGA-BR-A4J5-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J1	TCGA-BR-A4J1-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4IY	TCGA-BR-A4IY-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4CS	TCGA-BR-A4CS-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A4CR	TCGA-BR-A4CR-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-A452	TCGA-BR-A452-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8687	TCGA-BR-8687-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8683	TCGA-BR-8683-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8682	TCGA-BR-8682-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8680	TCGA-BR-8680-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8679	TCGA-BR-8679-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8678	TCGA-BR-8678-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8591	TCGA-BR-8591-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8487	TCGA-BR-8487-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8486	TCGA-BR-8486-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8484	TCGA-BR-8484-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8483	TCGA-BR-8483-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8382	TCGA-BR-8382-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8373	TCGA-BR-8373-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8372	TCGA-BR-8372-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8369	TCGA-BR-8369-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8362	TCGA-BR-8362-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8289	TCGA-BR-8289-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8286	TCGA-BR-8286-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8081	TCGA-BR-8081-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8078	TCGA-BR-8078-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8077	TCGA-BR-8077-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-8059	TCGA-BR-8059-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7959	TCGA-BR-7959-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7958	TCGA-BR-7958-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7901	TCGA-BR-7901-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7851	TCGA-BR-7851-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7723	TCGA-BR-7723-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7717	TCGA-BR-7717-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7716	TCGA-BR-7716-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7715	TCGA-BR-7715-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7707	TCGA-BR-7707-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7703	TCGA-BR-7703-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-7197	TCGA-BR-7197-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6802	TCGA-BR-6802-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6801	TCGA-BR-6801-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6710	TCGA-BR-6710-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6707	TCGA-BR-6707-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6566	TCGA-BR-6566-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6565	TCGA-BR-6565-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6458	TCGA-BR-6458-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6456	TCGA-BR-6456-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6455	TCGA-BR-6455-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6454	TCGA-BR-6454-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-6452	TCGA-BR-6452-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4371	TCGA-BR-4371-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4370	TCGA-BR-4370-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4369	TCGA-BR-4369-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4366	TCGA-BR-4366-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4357	TCGA-BR-4357-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4294	TCGA-BR-4294-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4292	TCGA-BR-4292-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4280	TCGA-BR-4280-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4267	TCGA-BR-4267-01	Primary	Intestinal	Papillary			Papillary	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4257	TCGA-BR-4257-01	Primary	Intestinal	Mucinous			Mucinous	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4256	TCGA-BR-4256-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4253	TCGA-BR-4253-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4201	TCGA-BR-4201-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-BR-4191	TCGA-BR-4191-01	Primary	Intestinal	Tubular			Tubular	Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-B7-5818	TCGA-B7-5818-01	Primary	Intestinal					Stomach Adenocarcinoma		Stomach	Adenocarcinoma, intestinal type (C16._)	70347	Gastic Adenocarcinoma
+TCGA-IN-8462	TCGA-IN-8462-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-FP-A4BF	TCGA-FP-A4BF-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-FP-8099	TCGA-FP-8099-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-FP-7916	TCGA-FP-7916-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-D7-8576	TCGA-D7-8576-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-D7-8575	TCGA-D7-8575-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-CG-5724	TCGA-CG-5724-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-CD-A487	TCGA-CD-A487-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-CD-8536	TCGA-CD-8536-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-A4J8	TCGA-BR-A4J8-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-A44U	TCGA-BR-A44U-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-8590	TCGA-BR-8590-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-8485	TCGA-BR-8485-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-8367	TCGA-BR-8367-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-8366	TCGA-BR-8366-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-8284	TCGA-BR-8284-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-7722	TCGA-BR-7722-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-BR-6706	TCGA-BR-6706-01	Primary	Mixed				Mixed	Stomach Adenocarcinoma		Stomach	 Adenocarcinoma with mixed subtypes	70347	Gastic Adenocarcinoma
+TCGA-MX-A5UJ	TCGA-MX-A5UJ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-MX-A5UG	TCGA-MX-A5UG-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-KB-A93J	TCGA-KB-A93J-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-KB-A93H	TCGA-KB-A93H-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-KB-A93G	TCGA-KB-A93G-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-KB-A6F7	TCGA-KB-A6F7-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-AB1X	TCGA-IN-AB1X-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-AB1V	TCGA-IN-AB1V-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A7NU	TCGA-IN-A7NU-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A7NT	TCGA-IN-A7NT-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A7NR	TCGA-IN-A7NR-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RS	TCGA-IN-A6RS-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RR	TCGA-IN-A6RR-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RO	TCGA-IN-A6RO-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RN	TCGA-IN-A6RN-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RL	TCGA-IN-A6RL-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RJ	TCGA-IN-A6RJ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-IN-A6RI	TCGA-IN-A6RI-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-HF-A5NB	TCGA-HF-A5NB-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-FP-A9TM	TCGA-FP-A9TM-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-FP-A8CX	TCGA-FP-A8CX-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-FP-7998	TCGA-FP-7998-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-F1-A72C	TCGA-F1-A72C-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A74A	TCGA-D7-A74A-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A748	TCGA-D7-A748-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A747	TCGA-D7-A747-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6F2	TCGA-D7-A6F2-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6F0	TCGA-D7-A6F0-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6EZ	TCGA-D7-A6EZ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6EY	TCGA-D7-A6EY-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6EX	TCGA-D7-A6EX-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-D7-A6EV	TCGA-D7-A6EV-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-CG-4440	TCGA-CG-4440-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-8589	TCGA-BR-8589-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-8381	TCGA-BR-8381-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-8368	TCGA-BR-8368-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-8363	TCGA-BR-8363-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-8361	TCGA-BR-8361-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-6852	TCGA-BR-6852-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-4368	TCGA-BR-4368-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-4363	TCGA-BR-4363-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-BR-4361	TCGA-BR-4361-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-B7-A5TN	TCGA-B7-A5TN-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-B7-A5TK	TCGA-B7-A5TK-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-B7-A5TJ	TCGA-B7-A5TJ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-B7-A5TI	TCGA-B7-A5TI-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-3M-AB47	TCGA-3M-AB47-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-3M-AB46	TCGA-3M-AB46-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-MX-A663	TCGA-MX-A663-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-MX-A666	TCGA-MX-A666-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A7O7	TCGA-R5-A7O7-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A7ZE	TCGA-R5-A7ZE-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A7ZF	TCGA-R5-A7ZF-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A7ZI	TCGA-R5-A7ZI-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A7ZR	TCGA-R5-A7ZR-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-R5-A805	TCGA-R5-A805-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A7BS	TCGA-RD-A7BS-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A7BW	TCGA-RD-A7BW-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A7C1	TCGA-RD-A7C1-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8MV	TCGA-RD-A8MV-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8MW	TCGA-RD-A8MW-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N0	TCGA-RD-A8N0-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N1	TCGA-RD-A8N1-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N2	TCGA-RD-A8N2-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N4	TCGA-RD-A8N4-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N5	TCGA-RD-A8N5-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N6	TCGA-RD-A8N6-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8N9	TCGA-RD-A8N9-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-RD-A8NB	TCGA-RD-A8NB-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-SW-A7EA	TCGA-SW-A7EA-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-SW-A7EB	TCGA-SW-A7EB-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8DT	TCGA-VQ-A8DT-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8DU	TCGA-VQ-A8DU-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8DV	TCGA-VQ-A8DV-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8DZ	TCGA-VQ-A8DZ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8E0	TCGA-VQ-A8E0-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8E2	TCGA-VQ-A8E2-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8E3	TCGA-VQ-A8E3-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8E7	TCGA-VQ-A8E7-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8P2	TCGA-VQ-A8P2-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8P3	TCGA-VQ-A8P3-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8P5	TCGA-VQ-A8P5-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8P8	TCGA-VQ-A8P8-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PB	TCGA-VQ-A8PB-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PC	TCGA-VQ-A8PC-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PD	TCGA-VQ-A8PD-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PE	TCGA-VQ-A8PE-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PF	TCGA-VQ-A8PF-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PH	TCGA-VQ-A8PH-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PJ	TCGA-VQ-A8PJ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PK	TCGA-VQ-A8PK-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PM	TCGA-VQ-A8PM-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PO	TCGA-VQ-A8PO-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PP	TCGA-VQ-A8PP-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PQ	TCGA-VQ-A8PQ-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PU	TCGA-VQ-A8PU-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A8PX	TCGA-VQ-A8PX-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91A	TCGA-VQ-A91A-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91D	TCGA-VQ-A91D-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91K	TCGA-VQ-A91K-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91N	TCGA-VQ-A91N-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91Q	TCGA-VQ-A91Q-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91S	TCGA-VQ-A91S-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91U	TCGA-VQ-A91U-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91V	TCGA-VQ-A91V-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91W	TCGA-VQ-A91W-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91X	TCGA-VQ-A91X-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91Y	TCGA-VQ-A91Y-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A91Z	TCGA-VQ-A91Z-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A922	TCGA-VQ-A922-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A923	TCGA-VQ-A923-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A924	TCGA-VQ-A924-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A925	TCGA-VQ-A925-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A927	TCGA-VQ-A927-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A928	TCGA-VQ-A928-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A92D	TCGA-VQ-A92D-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A94O	TCGA-VQ-A94O-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A94P	TCGA-VQ-A94P-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A94R	TCGA-VQ-A94R-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A94T	TCGA-VQ-A94T-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-A94U	TCGA-VQ-A94U-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA64	TCGA-VQ-AA64-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA68	TCGA-VQ-AA68-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA69	TCGA-VQ-AA69-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6A	TCGA-VQ-AA6A-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6B	TCGA-VQ-AA6B-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6D	TCGA-VQ-AA6D-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6F	TCGA-VQ-AA6F-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6G	TCGA-VQ-AA6G-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6I	TCGA-VQ-AA6I-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6J	TCGA-VQ-AA6J-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-VQ-AA6K	TCGA-VQ-AA6K-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-ZA-A8F6	TCGA-ZA-A8F6-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma
+TCGA-ZQ-A9CR	TCGA-ZQ-A9CR-01	Primary						Stomach Adenocarcinoma		Stomach	 Adenocarcinoma NOS	70347	Gastic Adenocarcinoma

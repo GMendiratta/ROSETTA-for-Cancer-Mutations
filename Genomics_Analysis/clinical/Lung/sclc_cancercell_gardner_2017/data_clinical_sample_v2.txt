@@ -1,0 +1,21 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+p_CR_pdx_095	MSK-LX95	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_CR_pdx_040	MSK-LX40	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_SCRX-Lu149	SCRX-Lu149	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_SCRX-Lu149	SCRX-Lu149-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_CR_pdx_095	MSK-LX95-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_CR_pdx_040	MSK-LX40-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX110	JHU-LX110	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX110	JHU-LX110-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX108	JHU-LX108	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX108	JHU-LX108-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX102	JHU-LX102	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX102	JHU-LX102-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX101	JHU-LX101	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX101	JHU-LX101-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX48	JHU-LX48	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX48	JHU-LX48-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX33	JHU-LX33	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX33	JHU-LX33-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX22	JHU-LX22	Lung	Baseline	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma
+p_JHU-LX22	JHU-LX22-R	Lung	Relapse	Small Cell Lung Cancer	Small Cell Lung Cancer	70137	Lung Small Cell Carcinoma

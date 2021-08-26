@@ -1,0 +1,61 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_STAGE	PRIMARY_SITE	TUMOR_TISSUE_SITE	CODE	CATEGORY_NAME
+ACYC-MSKCC_000410	ACYC-MSKCC_000410	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000609	ACYC-MSKCC_000609	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_007097	ACYC-MSKCC_007097	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_001739	ACYC-MSKCC_001739	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_09_4178	ACYC-MSKCC_09_4178	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_006536	ACYC-MSKCC_006536	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002128	ACYC-MSKCC_002128	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000380	ACYC-MSKCC_000380	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Base of tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_4332	ACYC-MSKCC_4332	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Buccal mucosa	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_36773720	ACYC-MSKCC_36773720	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Buccal mucosa	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_065103	ACYC-MSKCC_065103	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Buccal mucosa	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000479	ACYC-MSKCC_000479	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Head and Neck	Chin	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_9534	ACYC-MSKCC_9534	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Floor of mouth	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_4133	ACYC-MSKCC_4133	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Floor of mouth	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_990149	ACYC-MSKCC_990149	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Floor of mouth	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_980452	ACYC-MSKCC_980452	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Floor of mouth	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002282	ACYC-MSKCC_002282	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_2000136	ACYC-MSKCC_2000136	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_007441	ACYC-MSKCC_007441	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_2000756	ACYC-MSKCC_2000756	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_671204	ACYC-MSKCC_671204	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_6277	ACYC-MSKCC_6277	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Hard palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_148632	ACYC-MSKCC_148632	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Orbital cavity	Lacrimal gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_352	ACYC-MSKCC_352	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002012	ACYC-MSKCC_002012	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_142990	ACYC-MSKCC_142990	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000236	ACYC-MSKCC_000236	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_001781	ACYC-MSKCC_001781	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002237	ACYC-MSKCC_002237	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Maxilla	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_11_3318	ACYC-MSKCC_11_3318	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Oral cavity	Palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_2453	ACYC-MSKCC_2453	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_10_5342	ACYC-MSKCC_10_5342	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_05_6986	ACYC-MSKCC_05_6986	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_122891	ACYC-MSKCC_122891	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_09_4615	ACYC-MSKCC_09_4615	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_065115	ACYC-MSKCC_065115	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_07_16582	ACYC-MSKCC_07_16582	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_11_6165	ACYC-MSKCC_11_6165	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_001947	ACYC-MSKCC_001947	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_001346	ACYC-MSKCC_001346	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Parotid gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_06_2532	ACYC-MSKCC_06_2532	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Retromolar trigone	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_11_17815	ACYC-MSKCC_11_17815	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Sinonasal cavity	Sinonasal cavity	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002020	ACYC-MSKCC_002020	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Soft palate	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_111097	ACYC-MSKCC_111097	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Sublingual gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_007136	ACYC-MSKCC_007136	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Sublingual gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_2000120	ACYC-MSKCC_2000120	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Sublingual gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_131169	ACYC-MSKCC_131169	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_6112	ACYC-MSKCC_6112	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_10_5283	ACYC-MSKCC_10_5283	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002039	ACYC-MSKCC_002039	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_118135	ACYC-MSKCC_118135	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_3492	ACYC-MSKCC_3492	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000540	ACYC-MSKCC_000540	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_002238	ACYC-MSKCC_002238	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_09_12352	ACYC-MSKCC_09_12352	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_128229	ACYC-MSKCC_128229	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Salivary gland	Submandibular gland	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_80872	ACYC-MSKCC_80872	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Thyroid	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000705	ACYC-MSKCC_000705	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Oral cavity	Tongue	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_11_3089	ACYC-MSKCC_11_3089	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Early	Head and Neck	Trachea	70267	Salivary Adenoid Cystic Carcinoma
+ACYC-MSKCC_000505	ACYC-MSKCC_000505	Primary	Salivary Carcinoma	Adenoid Cystic Carcinoma	Advanced	Head and Neck	Trachea	70267	Salivary Adenoid Cystic Carcinoma

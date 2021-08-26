@@ -1,0 +1,107 @@
+PATIENT_ID	SAMPLE_ID	STAGE_AT_DIAGNOSIS	GRADE	SITE	SAMPLE_TYPE	METASTATIC_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+ccRCC_2	ccRCC_2	pT1aN0M1	3	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_3	ccRCC_3	pT3bN1M0	2	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_22	ccRCC_22	pT3bN0M0	3	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_41	ccRCC_41	pT3bN0M0	4	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_47	ccRCC_47	pT1aN0M0	1	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_55	ccRCC_55	pT3bN0M0	2	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_94	ccRCC_94	pT1bN0M0	2	Bone	metastasis	Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_38	ccRCC_38	pT1aN0M0	2	Contralateral Kidney	metastasis	Contralateral Kidney	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_5	ccRCC_5	pT1aN0M0	2	Local Recurrence	metastasis	Local Recurrence	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_76	ccRCC_76	pT3aN0M1	2	Lumg	metastasis	Lumg	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_1	ccRCC_1	pT1bN0M0	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_13	ccRCC_13	pT3aN2M0	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_14	ccRCC_14	pT3cN0M0	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_32	ccRCC_32	pT2N0M0	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_34	ccRCC_34	pT3bN0M1	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_66	ccRCC_66	pT3bN0M1	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_67	ccRCC_67	pT1aN0M0	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_69	ccRCC_69	pT1aN0M0	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_70	ccRCC_70	pT4N0M1	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_80	ccRCC_80	pT2N0M0	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_85	ccRCC_85	pT1bN0M0	3	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_101	ccRCC_101	pT3cN0M0	2	Lung	metastasis	Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_4	ccRCC_4	pT1bN0M0	3	Lung, Aderenal, Brain	metastasis	Lung, Aderenal, Brain	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_30	ccRCC_30	pT2N0M0	3	Lung, Bone	metastasis	Lung, Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_95	ccRCC_95	pT1bN0M0	2	Lung, Bone, Brain	metastasis	Lung, Bone, Brain	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_9	ccRCC_9	pT2N1M1	4	Lung, Bone, Pleura	metastasis	Lung, Bone, Pleura	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_65	ccRCC_65	pT3bN0M1	3	Lung, Bone, Pleura	metastasis	Lung, Bone, Pleura	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_10	ccRCC_10	pT3aN2M1	4	Lung, Lymph Node, Bone	metastasis	Lung, Lymph Node, Bone	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_75	ccRCC_75	pT3aN1M1	2	Lung, Pancreas	metastasis	Lung, Pancreas	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_81	ccRCC_81	pT3aN2M0	3	Lymph Node	metastasis	Lymph Node	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_97	ccRCC_97	pT1aN2M1	2	Lymph Node, Contralateral Kidney	metastasis	Lymph Node, Contralateral Kidney	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_6	ccRCC_6	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_7	ccRCC_7	pT2N0M0	4	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_8	ccRCC_8	pT1bN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_11	ccRCC_11	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_12	ccRCC_12	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_15	ccRCC_15	pT2N0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_16	ccRCC_16	pT2N0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_17	ccRCC_17	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_18	ccRCC_18	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_19	ccRCC_19	pT2N0M0	Undetermined	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_21	ccRCC_21	pT1bN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_23	ccRCC_23	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_24	ccRCC_24	pT3bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_25	ccRCC_25	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_26	ccRCC_26	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_27	ccRCC_27	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_28	ccRCC_28	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_29	ccRCC_29	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_31	ccRCC_31	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_33	ccRCC_33	pT1bN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_35	ccRCC_35	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_36	ccRCC_36	pT2N0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_37	ccRCC_37	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_39	ccRCC_39	pT2N0M0	Undetermined	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_40	ccRCC_40	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_42	ccRCC_42	pT3aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_43	ccRCC_43	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_44	ccRCC_44	pT1bN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_45	ccRCC_45	pT1aN0M0	4	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_46	ccRCC_46	pT1bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_48	ccRCC_48	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_49	ccRCC_49	pT3bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_50	ccRCC_50	pT3bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_51	ccRCC_51	pT3aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_53	ccRCC_53	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_54	ccRCC_54	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_56	ccRCC_56	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_57	ccRCC_57	pT3aN1M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_58	ccRCC_58	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_59	ccRCC_59	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_60	ccRCC_60	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_61	ccRCC_61	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_62	ccRCC_62	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_63	ccRCC_63	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_64	ccRCC_64	pT3aN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_68	ccRCC_68	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_71	ccRCC_71	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_72	ccRCC_72	pT1bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_73	ccRCC_73	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_74	ccRCC_74	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_77	ccRCC_77	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_78	ccRCC_78	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_79	ccRCC_79	pT1bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_82	ccRCC_82	pT1aN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_83	ccRCC_83	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_84	ccRCC_84	pT1bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_86	ccRCC_86	pT1bN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_87	ccRCC_87	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_88	ccRCC_88	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_89	ccRCC_89	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_90	ccRCC_90	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_91	ccRCC_91	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_92	ccRCC_92	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_93	ccRCC_93	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_96	ccRCC_96	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_98	ccRCC_98	pT1aN0M0	3	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_99	ccRCC_99	pT2N0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_102	ccRCC_102	pT1bN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_103	ccRCC_103	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_104	ccRCC_104	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_105	ccRCC_105	pT1aN0M0	2	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_106	ccRCC_106	pT1aN0M0	1	Kidney	Primary		Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_20	ccRCC_20	pT3aN0M1	2	Ovary, Lung	metastasis	Ovary, Lung	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_52	ccRCC_52	pT3bN0M1	3	Pancreas	metastasis	Pancreas	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma
+ccRCC_100	ccRCC_100	pT1aN0M0	2	Pancreas	metastasis	Pancreas	Renal Cell Carcinoma	Renal Clear Cell Carcinoma with Sarcomatoid Features	70277	Renal Cell Carcinoma

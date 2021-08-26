@@ -1,0 +1,1014 @@
+SAMPLE_ID	PATIENT_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE	CODE	CATEGORY_NAME
+AAPC-STID0000011640-Tumor-SM-2XU1H	AAPC-STID0000011640-Tumor-SM-2XU1H	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021561-Tumor-SM-3RVWB	AAPC-STID0000021561-Tumor-SM-3RVWB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000011949-Tumor-SM-2XU1I	AAPC-STID0000011949-Tumor-SM-2XU1I	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021610-Tumor-SM-2XU13	AAPC-STID0000021610-Tumor-SM-2XU13	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021537-Tumor-SM-3RVW7	AAPC-STID0000021537-Tumor-SM-3RVW7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000012110-Tumor-SM-2XU1J	AAPC-STID0000012110-Tumor-SM-2XU1J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000002520-Tumor-SM-2XTZB	AAPC-STID0000002520-Tumor-SM-2XTZB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000015908-Tumor-SM-2XU1U	AAPC-STID0000015908-Tumor-SM-2XU1U	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000013409-Tumor-SM-2XU1R	AAPC-STID0000013409-Tumor-SM-2XU1R	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000002869-Tumor-SM-2XU51	AAPC-STID0000002869-Tumor-SM-2XU51	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000003057-Tumor-SM-2XTZT	AAPC-STID0000003057-Tumor-SM-2XTZT	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000010902-Tumor-SM-2XU1E	AAPC-STID0000010902-Tumor-SM-2XU1E	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000008920-Tumor-SM-2XU17	AAPC-STID0000008920-Tumor-SM-2XU17	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000017088-Tumor-SM-2XU1V	AAPC-STID0000017088-Tumor-SM-2XU1V	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000009880-Tumor-SM-2XU19	AAPC-STID0000009880-Tumor-SM-2XU19	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-073-Tumor-SM-3NC74	AAPC-IP_LG-073-Tumor-SM-3NC74	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-033-Tumor-SM-3NC6B	AAPC-IP_LG-033-Tumor-SM-3NC6B	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000012329-Tumor-SM-2XU1L	AAPC-STID0000012329-Tumor-SM-2XU1L	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021598-Tumor-SM-2XTZN	AAPC-STID0000021598-Tumor-SM-2XTZN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-019-Tumor-SM-3NC61	AAPC-IP_LG-019-Tumor-SM-3NC61	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000020508-Tumor-SM-2XU22	AAPC-STID0000020508-Tumor-SM-2XU22	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021588-Tumor-SM-2XU25	AAPC-STID0000021588-Tumor-SM-2XU25	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-061-Tumor-SM-3NC6X	AAPC-IP_LG-061-Tumor-SM-3NC6X	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021562-Tumor-SM-2XTYT	AAPC-STID0000021562-Tumor-SM-2XTYT	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021530-Tumor-SM-3RVW4	AAPC-STID0000021530-Tumor-SM-3RVW4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021594-Tumor-SM-3RVWJ	AAPC-STID0000021594-Tumor-SM-3RVWJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-083-Tumor-SM-3NC7C	AAPC-IP_LG-083-Tumor-SM-3NC7C	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000011580-Tumor-SM-2XU1G	AAPC-STID0000011580-Tumor-SM-2XU1G	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000013788-Tumor-SM-2XU1T	AAPC-STID0000013788-Tumor-SM-2XU1T	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021605-Tumor-SM-3RVWN	AAPC-STID0000021605-Tumor-SM-3RVWN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-031-Tumor-SM-3NC69	AAPC-IP_LG-031-Tumor-SM-3NC69	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021556-Tumor-SM-3RVW9	AAPC-STID0000021556-Tumor-SM-3RVW9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021571-Tumor-SM-3RVWD	AAPC-STID0000021571-Tumor-SM-3RVWD	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021586-Tumor-SM-2XU24	AAPC-STID0000021586-Tumor-SM-2XU24	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021614-Tumor-SM-2XU1O	AAPC-STID0000021614-Tumor-SM-2XU1O	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-021-Tumor-SM-3NC63	AAPC-IP_LG-021-Tumor-SM-3NC63	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000008820-Tumor-SM-2XU16	AAPC-STID0000008820-Tumor-SM-2XU16	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000010200-Tumor-SM-2XU1A	AAPC-STID0000010200-Tumor-SM-2XU1A	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021551-Tumor-SM-2XTYN	AAPC-STID0000021551-Tumor-SM-2XTYN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021587-Tumor-SM-2XTZD	AAPC-STID0000021587-Tumor-SM-2XTZD	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021604-Tumor-SM-2XTZU	AAPC-STID0000021604-Tumor-SM-2XTZU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000019028-Tumor-SM-2XU1X	AAPC-STID0000019028-Tumor-SM-2XU1X	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021574-Tumor-SM-3RVWF	AAPC-STID0000021574-Tumor-SM-3RVWF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021593-Tumor-SM-2XTZH	AAPC-STID0000021593-Tumor-SM-2XTZH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-037-Tumor-SM-3NC6D	AAPC-IP_LG-037-Tumor-SM-3NC6D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-051-Tumor-SM-3NC6N	AAPC-IP_LG-051-Tumor-SM-3NC6N	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000011381-Tumor-SM-2XU1F	AAPC-STID0000011381-Tumor-SM-2XU1F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021601-Tumor-SM-2XTZQ	AAPC-STID0000021601-Tumor-SM-2XTZQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021563-Tumor-SM-2XTYU	AAPC-STID0000021563-Tumor-SM-2XTYU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021613-Tumor-SM-2XU1K	AAPC-STID0000021613-Tumor-SM-2XU1K	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000017668-Tumor-SM-2XU1W	AAPC-STID0000017668-Tumor-SM-2XU1W	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021534-Tumor-SM-2XTYJ	AAPC-STID0000021534-Tumor-SM-2XTYJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-053-Tumor-SM-3NC6P	AAPC-IP_LG-053-Tumor-SM-3NC6P	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-091-Tumor-SM-3NC7I	AAPC-IP_LG-091-Tumor-SM-3NC7I	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021557-Tumor-SM-3RVWA	AAPC-STID0000021557-Tumor-SM-3RVWA	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021596-Tumor-SM-2XTZL	AAPC-STID0000021596-Tumor-SM-2XTZL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000010880-Tumor-SM-2XU1C	AAPC-STID0000010880-Tumor-SM-2XU1C	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021602-Tumor-SM-2XTZR	AAPC-STID0000021602-Tumor-SM-2XTZR	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021590-Tumor-SM-2XTZF	AAPC-STID0000021590-Tumor-SM-2XTZF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000006860-Tumor-SM-2XU12	AAPC-STID0000006860-Tumor-SM-2XU12	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000020209-Tumor-SM-2XU21	AAPC-STID0000020209-Tumor-SM-2XU21	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021577-Tumor-SM-3RVWH	AAPC-STID0000021577-Tumor-SM-3RVWH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021595-Tumor-SM-2XTZK	AAPC-STID0000021595-Tumor-SM-2XTZK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-043-Tumor-SM-3NC6F	AAPC-IP_LG-043-Tumor-SM-3NC6F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-059-Tumor-SM-3NC6V	AAPC-IP_LG-059-Tumor-SM-3NC6V	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-085-Tumor-SM-3NC7E	AAPC-IP_LG-085-Tumor-SM-3NC7E	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021550-Tumor-SM-2XTYM	AAPC-STID0000021550-Tumor-SM-2XTYM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021555-Tumor-SM-3RVW8	AAPC-STID0000021555-Tumor-SM-3RVW8	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021599-Tumor-SM-2XTZO	AAPC-STID0000021599-Tumor-SM-2XTZO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021611-Tumor-SM-2XU18	AAPC-STID0000021611-Tumor-SM-2XU18	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-067-Tumor-SM-3NC6Z	AAPC-IP_LG-067-Tumor-SM-3NC6Z	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-009-Tumor-SM-3NC5W	AAPC-IP_LG-009-Tumor-SM-3NC5W	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021597-Tumor-SM-3RVWK	AAPC-STID0000021597-Tumor-SM-3RVWK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000001044-Tumor-SM-2XU23	AAPC-STID0000001044-Tumor-SM-2XU23	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000013388-Tumor-SM-2XU1Q	AAPC-STID0000013388-Tumor-SM-2XU1Q	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021573-Tumor-SM-2XTYZ	AAPC-STID0000021573-Tumor-SM-2XTYZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000003820-Tumor-SM-2XTZW	AAPC-STID0000003820-Tumor-SM-2XTZW	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000010901-Tumor-SM-2XU1D	AAPC-STID0000010901-Tumor-SM-2XU1D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-049-Tumor-SM-3NC6L	AAPC-IP_LG-049-Tumor-SM-3NC6L	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-057-Tumor-SM-3NC6T	AAPC-IP_LG-057-Tumor-SM-3NC6T	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-047-Tumor-SM-3NC6J	AAPC-IP_LG-047-Tumor-SM-3NC6J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-077-Tumor-SM-3NC78	AAPC-IP_LG-077-Tumor-SM-3NC78	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000012568-Tumor-SM-2XU1M	AAPC-STID0000012568-Tumor-SM-2XU1M	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000007180-Tumor-SM-2XU14	AAPC-STID0000007180-Tumor-SM-2XU14	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021583-Tumor-SM-3RVWI	AAPC-STID0000021583-Tumor-SM-3RVWI	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-069-Tumor-SM-3NC72	AAPC-IP_LG-069-Tumor-SM-3NC72	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000012848-Tumor-SM-2XU1N	AAPC-STID0000012848-Tumor-SM-2XU1N	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021564-Tumor-SM-3RVWC	AAPC-STID0000021564-Tumor-SM-3RVWC	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-045-Tumor-SM-3NC6H	AAPC-IP_LG-045-Tumor-SM-3NC6H	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-075-Tumor-SM-3NC76	AAPC-IP_LG-075-Tumor-SM-3NC76	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-IP_LG-079-Tumor-SM-3NC7A	AAPC-IP_LG-079-Tumor-SM-3NC7A	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000002909-Tumor-SM-2XTZ4	AAPC-STID0000002909-Tumor-SM-2XTZ4	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000007540-Tumor-SM-2XU15	AAPC-STID0000007540-Tumor-SM-2XU15	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021532-Tumor-SM-3RVW5	AAPC-STID0000021532-Tumor-SM-3RVW5	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021536-Tumor-SM-3RVW6	AAPC-STID0000021536-Tumor-SM-3RVW6	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021584-Tumor-SM-2XTZ6	AAPC-STID0000021584-Tumor-SM-2XTZ6	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021600-Tumor-SM-3RVWL	AAPC-STID0000021600-Tumor-SM-3RVWL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021606-Tumor-SM-2XTZX	AAPC-STID0000021606-Tumor-SM-2XTZX	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+AAPC-STID0000021608-Tumor-SM-3RVWO	AAPC-STID0000021608-Tumor-SM-3RVWO	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P06-4428	P06-4428	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3036	PR-3036	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-2744	PR-09-2744	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-01-2382	PR-01-2382	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P07-5036	P07-5036	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-03-870	PR-03-870	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2858	PR-2858	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-1421	P04-1421	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-2072	PR-02-2072	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-47	P04-47	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3127	PR-3127	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2761	PR-2761	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-2345	P03-2345	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-1790	P04-1790	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-2641	P04-2641	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-03-1026	PR-03-1026	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-06-1999	PR-06-1999	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3026	PR-3026	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P07-718	P07-718	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P07-360	P07-360	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2740	PR-2740	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-1736	PR-02-1736	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-595	P03-595	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-2666	P04-2666	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-2767	PR-09-2767	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-3829	P05-3829	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-3347	PR-04-3347	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-1043	PR-1043	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2661	PR-2661	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P00-000450	P00-000450	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-871	P03-871	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-620	P05-620	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P06-3676	P06-3676	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-01-1934	PR-01-1934	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-00-160	PR-00-160	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-00-1823	PR-00-1823	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-06-1749	PR-06-1749	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5700	PR-09-5700	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3051	PR-3051	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-06-1651	PR-06-1651	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P09-120	P09-120	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-1082	PR-02-1082	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-639	PR-04-639	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P01-28	P01-28	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-3391	P03-3391	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P09-2497	P09-2497	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-3436	P05-3436	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-3852	P05-3852	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P09-1580	P09-1580	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2872	PR-2872	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P02-2035	P02-2035	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-1243	P04-1243	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-05-3440	PR-05-3440	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P06-1696	P06-1696	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-05-3595	PR-05-3595	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-2517	PR-09-2517	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5630	PR-09-5630	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3048	PR-3048	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-1084	P04-1084	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P07-144	P07-144	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P08-590	P08-590	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-169	PR-02-169	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-194	PR-04-194	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-3421	PR-09-3421	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2916	PR-2916	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-1899	PR-02-1899	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-3113	PR-04-3113	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-594	P04-594	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-2212	P05-2212	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P06-1125	P06-1125	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-3222	PR-04-3222	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2915	PR-2915	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5446	PR-09-5446	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P02-1562	P02-1562	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-01-2492	PR-01-2492	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3023	PR-3023	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-2620	P03-2620	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-2599	P04-2599	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P05-3859	P05-3859	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-04-903	PR-04-903	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5702	PR-09-5702	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2762	PR-2762	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-1334	P03-1334	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-1426	P03-1426	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P07-837	P07-837	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-01-2554	PR-01-2554	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-2480	PR-02-2480	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-0427	PR-0427	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-05-839	PR-05-839	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-0099	PR-0099	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-03-022	PR-03-022	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-3034	PR-3034	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P04-2740	P04-2740	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P09-649	P09-649	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-2682	PR-2682	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P06-3939	P06-3939	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-0415	PR-0415	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5245	PR-09-5245	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P09-1372	P09-1372	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-3687	PR-09-3687	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-1024	PR-1024	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-02-254	PR-02-254	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P03-1906	P03-1906	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+P08-2516	P08-2516	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-5094	PR-09-5094	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PR-09-3566	PR-09-3566	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-165O_ADRENAL	05-165O_ADRENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+01-087MM_BONE	01-087MM_BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-214BB2_BONE	05-214BB2_BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-221MM1_BONE	05-221MM1_BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+01-120A1_LIVER	01-120A1_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+03-082H1_LIVER	03-082H1_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+03-163S4_LIVER	03-163S4_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-148E3_LIVER	05-148E3_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+08-037F1_LIVER	08-037F1_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+97-159H2_LIVER	97-159H2_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+99-090A2_LIVER	99-090A2_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+03-192B_LUNG	03-192B_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-011G4_LUNG	05-011G4_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-116F_LUNG	05-116F_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+05-217L3_LUNG	05-217L3_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+07-062F2_LUNG	07-062F2_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+11-028L1_LUNG	11-028L1_LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+00-029N9_LN	00-029N9_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+01-095N1_LN	01-095N1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+02-083E1_LN	02-083E1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+04-149E2_LN	04-149E2_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+06-134H1_LN	06-134H1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+07-042H2_LN	07-042H2_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+08-006H1_LN	08-006H1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+08-093J1_LN	08-093J1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+10-013F1_LN	10-013F1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+12-011I7_LN	12-011I7_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+98-362B1_LN	98-362B1_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+98-372L_LN	98-372L_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+99-064O_LN	99-064O_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+99-091J_LN	99-091J_LN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+12-021H4_LIVER	12-021H4_LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+98-328K_PERITONEUM	98-328K_PERITONEUM	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+09-006F1_RENAL	09-006F1_RENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+03-130L_RETROPERITONEAL	03-130L_RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+03-139E3_RETROPERITONEAL	03-139E3_RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+11040	11040	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+20870	20870	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+2746	2746	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+10361	10361	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+10362	10362	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+10363	10363	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+10680	10680	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+12688	12688	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+12729	12729	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+20630	20630	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+20990	20990	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21010	21010	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21011	21011	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21016	21016	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21017	21017	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21020	21020	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+21510	21510	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+22171	22171	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+26731	26731	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-STID7520-Tumor-SM-2RXM6	PRAD-STID7520-Tumor-SM-2RXM6	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+7951	7951	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+12728	12728	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+24852	24852	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+24854	24854	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-A0001-Tumor-SM-3VG6Y	PRAD-A0001-Tumor-SM-3VG6Y	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-STID0000004240-Tumor-SM-S932	PRAD-STID0000004240-Tumor-SM-S932	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-STID18248-Tumor-SM-1RCU7	PRAD-STID18248-Tumor-SM-1RCU7	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+24290	24290	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1124	MO_1124	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-1115157-SM-5EEBO	PROS10448-1115157-SM-5EEBO	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1074	MO_1074	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1094	MO_1094	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1096	MO_1096	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1130	MO_1130	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1132	MO_1132	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1139	MO_1139	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1179	MO_1179	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1219	MO_1219	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1277	MO_1277	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1421	MO_1421	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1473	MO_1473	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115245-SM-6WZF3	PRAD-01115245-SM-6WZF3	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115249-SM-6VZ7K	PRAD-01115249-SM-6VZ7K	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115257-SM-6WZF8	PRAD-01115257-SM-6WZF8	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115263-SM-6WZF9	PRAD-01115263-SM-6WZF9	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115264-SM-6WZFA	PRAD-01115264-SM-6WZFA	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115265-SM-6WZFB	PRAD-01115265-SM-6WZFB	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115284-SM-6WZF6	PRAD-01115284-SM-6WZF6	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115343-SM-6VZ7N	PRAD-01115343-SM-6VZ7N	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-01115349-SM-6VZ7M	PRAD-01115349-SM-6VZ7M	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-1115183-SM-5SGU3	PROS01448-1115183-SM-5SGU3	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-1115200-SM-5SGU4	PROS01448-1115200-SM-5SGU4	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-1115244-SM-5SGU6	PROS01448-1115244-SM-5SGU6	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-1115126-SM-5EEBI	PROS10448-1115126-SM-5EEBI	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-1115150-SM-5EEBK	PROS10448-1115150-SM-5EEBK	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9002	SC_9002	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9004	SC_9004	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9018	SC_9018	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9019	SC_9019	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9023	SC_9023	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9025	SC_9025	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9026	SC_9026	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9027	SC_9027	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9034	SC_9034	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9040	SC_9040	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9043	SC_9043	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9047	SC_9047	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9048	SC_9048	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9049	SC_9049	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9056	SC_9056	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9061	SC_9061	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9065	SC_9065	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9071	SC_9071	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9072	SC_9072	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9075	SC_9075	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9079	SC_9079	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9082	SC_9082	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9083	SC_9083	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9085	SC_9085	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9086	SC_9086	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9087	SC_9087	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9088	SC_9088	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9090	SC_9090	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9091	SC_9091	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9092	SC_9092	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9094	SC_9094	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9096	SC_9096	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9100	SC_9100	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9103	SC_9103	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9114	SC_9114	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9121	SC_9121	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9127	SC_9127	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9128	SC_9128	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9134	SC_9134	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9136	SC_9136	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9137	SC_9137	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9144	SC_9144	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9150	SC_9150	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9151	SC_9151	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9158	SC_9158	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9171	SC_9171	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9172	SC_9172	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9173	SC_9173	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SI_9157	SI_9157	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2020	TP_2020	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2034	TP_2034	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2079	TP_2079	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1232	MO_1232	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1008	MO_1008	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9139	SC_9139	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1020	MO_1020	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1118	MO_1118	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1161	MO_1161	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1184	MO_1184	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1202	MO_1202	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1241	MO_1241	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1244	MO_1244	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1337	MO_1337	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1410	MO_1410	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1460	MO_1460	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9001	SC_9001	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9008	SC_9008	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9012	SC_9012	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9017	SC_9017	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9031	SC_9031	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9046	SC_9046	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9060	SC_9060	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9107	SC_9107	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9140	SC_9140	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9145	SC_9145	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9153	SC_9153	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9162	SC_9162	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9006	SC_9006	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1013	MO_1013	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1014	MO_1014	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1015	MO_1015	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1040	MO_1040	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1084	MO_1084	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1105	MO_1105	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1114	MO_1114	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1128	MO_1128	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1176	MO_1176	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1192	MO_1192	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1249	MO_1249	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1262	MO_1262	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1316	MO_1316	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1339	MO_1339	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1447	MO_1447	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-1115161-SM-5SGU1	PROS01448-1115161-SM-5SGU1	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-1115202-SM-5SGU5	PROS01448-1115202-SM-5SGU5	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-1115154-SM-5EEBM	PROS10448-1115154-SM-5EEBM	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-1115156-SM-5EEBN	PROS10448-1115156-SM-5EEBN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9007	SC_9007	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9010	SC_9010	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9011	SC_9011	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9016	SC_9016	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9021	SC_9021	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9024	SC_9024	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9032	SC_9032	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9035	SC_9035	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9036	SC_9036	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9038	SC_9038	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9039	SC_9039	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9054	SC_9054	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9055	SC_9055	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9058	SC_9058	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9059	SC_9059	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9063	SC_9063	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9068	SC_9068	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9073	SC_9073	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9076	SC_9076	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9080	SC_9080	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9081	SC_9081	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9084	SC_9084	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9097	SC_9097	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9099	SC_9099	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9104	SC_9104	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9109	SC_9109	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9118	SC_9118	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9123	SC_9123	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9124	SC_9124	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9126	SC_9126	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9129	SC_9129	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9132	SC_9132	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9138	SC_9138	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9141	SC_9141	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9142	SC_9142	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9148	SC_9148	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9163	SC_9163	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9165	SC_9165	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2001	TP_2001	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2010	TP_2010	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2032	TP_2032	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2054	TP_2054	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2060	TP_2060	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2064	TP_2064	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2069	TP_2069	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2077	TP_2077	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2078	TP_2078	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9029	SC_9029	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9030	SC_9030	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM10	PM10	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM119	PM119	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM121	PM121	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM124	PM124	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM139	PM139	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM14	PM14	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM15	PM15	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM154	PM154	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM155	PM155	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM156	PM156	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM158	PM158	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM159	PM159	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM161	PM161	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM163	PM163	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM170	PM170	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM172	PM172	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM189	PM189	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM2	PM2	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM6-Halo-TM	PM6-Halo-TM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM78	PM78	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM9	PM9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PM90	PM90	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-06115124-SM-7LGU1	PRAD-06115124-SM-7LGU1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115381.0-SM-7LGU3	PRAD-6115381.0-SM-7LGU3	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115383.0-SM-7LGU6	PRAD-6115383.0-SM-7LGU6	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115385.0-SM-7LGU7	PRAD-6115385.0-SM-7LGU7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115386.0-SM-7LGU8	PRAD-6115386.0-SM-7LGU8	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115387.0-SM-7LGU9	PRAD-6115387.0-SM-7LGU9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115388.0-SM-7LGUA	PRAD-6115388.0-SM-7LGUA	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115389.0-SM-7LGUB	PRAD-6115389.0-SM-7LGUB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115390.0-SM-7LGUC	PRAD-6115390.0-SM-7LGUC	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115391.0-SM-7LGUD	PRAD-6115391.0-SM-7LGUD	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115392.0-SM-7LGUE	PRAD-6115392.0-SM-7LGUE	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115393.0-SM-7LGUF	PRAD-6115393.0-SM-7LGUF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115394.0-SM-7LGUG	PRAD-6115394.0-SM-7LGUG	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115395.0-SM-7LGUH	PRAD-6115395.0-SM-7LGUH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115396.0-SM-7LGUI	PRAD-6115396.0-SM-7LGUI	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115397.0-SM-7LGUJ	PRAD-6115397.0-SM-7LGUJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115398.0-SM-7LGUK	PRAD-6115398.0-SM-7LGUK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115399.0-SM-7LGUL	PRAD-6115399.0-SM-7LGUL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115400.0-SM-7LGUM	PRAD-6115400.0-SM-7LGUM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115401.0-SM-7LGUO	PRAD-6115401.0-SM-7LGUO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115402.0-SM-7LGUP	PRAD-6115402.0-SM-7LGUP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-6115403.0-SM-7LGUQ	PRAD-6115403.0-SM-7LGUQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115219-SM-67ERS	PROS01448-6115219-SM-67ERS	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115224-SM-67ERT	PROS01448-6115224-SM-67ERT	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115227-SM-67ERU	PROS01448-6115227-SM-67ERU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115233-SM-67ERW	PROS01448-6115233-SM-67ERW	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115234-SM-67ERX	PROS01448-6115234-SM-67ERX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115235-SM-67ERY	PROS01448-6115235-SM-67ERY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115237-SM-67ERZ	PROS01448-6115237-SM-67ERZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115242-SM-67ES1	PROS01448-6115242-SM-67ES1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115247-SM-67ES2	PROS01448-6115247-SM-67ES2	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115250-SM-67ES4	PROS01448-6115250-SM-67ES4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-6115251-SM-67ES6	PROS01448-6115251-SM-67ES6	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P05-SM-581SL	PROS01448-DFCI.10-448.P05-SM-581SL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P15-SM-5CQ5D	PROS01448-DFCI.10-448.P15-SM-5CQ5D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P20-SM-5CQ5F	PROS01448-DFCI.10-448.P20-SM-5CQ5F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P22-SM-5CQ5H	PROS01448-DFCI.10-448.P22-SM-5CQ5H	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P27-SM-5CQ5J	PROS01448-DFCI.10-448.P27-SM-5CQ5J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P29-SM-5CQ4S	PROS01448-DFCI.10-448.P29-SM-5CQ4S	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P30-SM-5CQ4V	PROS01448-DFCI.10-448.P30-SM-5CQ4V	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P31-SM-5CQ5A	PROS01448-DFCI.10-448.P31-SM-5CQ5A	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P34-SM-5CQ4Y	PROS01448-DFCI.10-448.P34-SM-5CQ4Y	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P38-SM-5CQ52	PROS01448-DFCI.10-448.P38-SM-5CQ52	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P40-SM-5CQ53	PROS01448-DFCI.10-448.P40-SM-5CQ53	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS01448-DFCI.10-448.P42-SM-5CQ55	PROS01448-DFCI.10-448.P42-SM-5CQ55	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115081-SM-4JC6A	PROS10448-SUTC.01115081-SM-4JC6A	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115082-SM-4JC6B	PROS10448-SUTC.01115082-SM-4JC6B	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115084-SM-4JC6H	PROS10448-SUTC.01115084-SM-4JC6H	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115085-SM-4JC6J	PROS10448-SUTC.01115085-SM-4JC6J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115086-SM-4JC6K	PROS10448-SUTC.01115086-SM-4JC6K	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115088-SM-4JC6Q	PROS10448-SUTC.01115088-SM-4JC6Q	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115089-SM-4JC6T	PROS10448-SUTC.01115089-SM-4JC6T	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115090-SM-4JC6W	PROS10448-SUTC.01115090-SM-4JC6W	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115091-SM-4JC6Y	PROS10448-SUTC.01115091-SM-4JC6Y	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448-SUTC.01115092-SM-4JC74	PROS10448-SUTC.01115092-SM-4JC74	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS10448P28-SU2C.01115016-SM-42W9D	PROS10448P28-SU2C.01115016-SM-42W9D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115236-SM-6CNPW	PROS11496-6115236-SM-6CNPW	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115285-SM-6CNPX	PROS11496-6115285-SM-6CNPX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115286-SM-6CNPY	PROS11496-6115286-SM-6CNPY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115288-SM-6CNQ1	PROS11496-6115288-SM-6CNQ1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115295-SM-6CNQ7	PROS11496-6115295-SM-6CNQ7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115317-SM-6CNQ2	PROS11496-6115317-SM-6CNQ2	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115319-SM-6CNQ3	PROS11496-6115319-SM-6CNQ3	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115320-SM-6CNQ4	PROS11496-6115320-SM-6CNQ4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115321-SM-6CNQ5	PROS11496-6115321-SM-6CNQ5	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115322-SM-6CNQ6	PROS11496-6115322-SM-6CNQ6	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS11496-6115323-SM-6CNQ8	PROS11496-6115323-SM-6CNQ8	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115114-SM-4W2N9	PROS12319B-SU2C-06115114-SM-4W2N9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115115-SM-4W2NA	PROS12319B-SU2C-06115115-SM-4W2NA	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115116-SM-4W2NB	PROS12319B-SU2C-06115116-SM-4W2NB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115117-SM-4W2NC	PROS12319B-SU2C-06115117-SM-4W2NC	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115118-SM-4W2ND	PROS12319B-SU2C-06115118-SM-4W2ND	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115119-SM-4W2NE	PROS12319B-SU2C-06115119-SM-4W2NE	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115120-SM-4W2NF	PROS12319B-SU2C-06115120-SM-4W2NF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115121-SM-4W2NG	PROS12319B-SU2C-06115121-SM-4W2NG	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115122-SM-4W2NH	PROS12319B-SU2C-06115122-SM-4W2NH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PROS12319B-SU2C-06115123-SM-4W2NI	PROS12319B-SU2C-06115123-SM-4W2NI	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9130	SC_9130	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TP_2061	TP_2061	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9022	SC_9022	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1215	MO_1215	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1162	MO_1162	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9156	SC_9156	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1021	MO_1021	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1054	MO_1054	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1071	MO_1071	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+PRAD-DFCI.11-104.15-SM-3S2HH	PRAD-DFCI.11-104.15-SM-3S2HH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9028	SC_9028	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9093	SC_9093	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+SC_9105	SC_9105	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1012	MO_1012	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+MO_1095	MO_1095	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MK	TCGA-V1-A8MK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8260	TCGA-HC-8260	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7125	TCGA-EJ-7125	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7523	TCGA-G9-7523	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5512	TCGA-EJ-5512	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-8469	TCGA-EJ-8469	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7744	TCGA-HC-7744	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E7	TCGA-KK-A6E7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WJ	TCGA-YL-A9WJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A48F	TCGA-HC-A48F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-8200	TCGA-J4-8200	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8213	TCGA-HC-8213	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A9DQ	TCGA-XJ-A9DQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5510	TCGA-EJ-5510	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8261	TCGA-HC-8261	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5769	TCGA-CH-5769	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OF	TCGA-V1-A9OF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VN-A88O	TCGA-VN-A88O	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5516	TCGA-EJ-5516	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7793	TCGA-EJ-7793	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7522	TCGA-G9-7522	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-8198	TCGA-J4-8198	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7230	TCGA-HC-7230	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7750	TCGA-HC-7750	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8259	TCGA-HC-8259	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5494	TCGA-EJ-5494	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5502	TCGA-EJ-5502	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6DY	TCGA-KK-A6DY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5503	TCGA-EJ-5503	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8VL	TCGA-2A-A8VL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7318	TCGA-EJ-7318	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-AB27	TCGA-EJ-AB27	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6351	TCGA-G9-6351	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5522	TCGA-EJ-5522	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A8FO	TCGA-EJ-A8FO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6HY	TCGA-HC-A6HY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A83G	TCGA-XJ-A83G	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7079	TCGA-HC-7079	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A9DX	TCGA-XJ-A9DX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8VV	TCGA-2A-A8VV	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-7708	TCGA-FC-7708	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6370	TCGA-G9-6370	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7521	TCGA-G9-7521	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7747	TCGA-HC-7747	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7817	TCGA-HC-7817	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AO	TCGA-HC-A6AO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7792	TCGA-EJ-7792	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46D	TCGA-EJ-A46D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A6M7	TCGA-J4-A6M7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-M7-A720	TCGA-M7-A720	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-QU-A6IO	TCGA-QU-A6IO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7797	TCGA-EJ-7797	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6498	TCGA-G9-6498	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8256	TCGA-HC-8256	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7788	TCGA-EJ-7788	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-A5OB	TCGA-FC-A5OB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-A9S0	TCGA-G9-A9S0	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7213	TCGA-HC-7213	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7819	TCGA-HC-7819	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VN-A88R	TCGA-VN-A88R	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7785	TCGA-EJ-7785	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6378	TCGA-G9-6378	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67L	TCGA-J4-A67L	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7F5	TCGA-KC-A7F5	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E2	TCGA-KK-A6E2	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8W1	TCGA-2A-A8W1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5507	TCGA-EJ-5507	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7821	TCGA-HC-7821	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9Z7	TCGA-V1-A9Z7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A4BN	TCGA-KC-A4BN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-M7-A71Y	TCGA-M7-A71Y	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5765	TCGA-CH-5765	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5766	TCGA-CH-5766	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5501	TCGA-EJ-5501	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5511	TCGA-EJ-5511	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5517	TCGA-EJ-5517	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6332	TCGA-G9-6332	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6354	TCGA-G9-6354	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6369	TCGA-G9-6369	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7737	TCGA-HC-7737	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6HX	TCGA-HC-A6HX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HI-7169	TCGA-HI-7169	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67M	TCGA-J4-A67M	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A4BO	TCGA-KC-A4BO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IM	TCGA-KK-A8IM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65B	TCGA-EJ-A65B	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-A9S7	TCGA-G9-A9S7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8266	TCGA-HC-8266	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A59X	TCGA-KK-A59X	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I7	TCGA-KK-A8I7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9ND	TCGA-ZG-A9ND	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-AAYU	TCGA-2A-AAYU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8258	TCGA-HC-8258	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A8QX	TCGA-ZG-A8QX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5498	TCGA-EJ-5498	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A7NF	TCGA-EJ-A7NF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A7NH	TCGA-EJ-A7NH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7AZ	TCGA-KK-A7AZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5741	TCGA-CH-5741	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5526	TCGA-EJ-5526	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7212	TCGA-HC-7212	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A4ZV	TCGA-HC-A4ZV	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HI-7171	TCGA-HI-7171	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A59Y	TCGA-KK-A59Y	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9O9	TCGA-V1-A9O9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OX	TCGA-V1-A9OX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAJ3	TCGA-XK-AAJ3	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8VO	TCGA-2A-A8VO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-AAYF	TCGA-2A-AAYF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-AAYO	TCGA-2A-AAYO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5746	TCGA-CH-5746	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7321	TCGA-EJ-7321	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46I	TCGA-EJ-A46I	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65G	TCGA-EJ-A65G	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6336	TCGA-G9-6336	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5792	TCGA-CH-5792	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5505	TCGA-EJ-5505	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5524	TCGA-EJ-5524	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5532	TCGA-EJ-5532	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6362	TCGA-G9-6362	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8262	TCGA-HC-8262	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5740	TCGA-CH-5740	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46E	TCGA-EJ-A46E	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46F	TCGA-EJ-A46F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A6G3	TCGA-J4-A6G3	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A52C	TCGA-J9-A52C	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E1	TCGA-KK-A6E1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IF	TCGA-KK-A8IF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OY	TCGA-V1-A9OY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WY	TCGA-YL-A9WY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LN	TCGA-ZG-A9LN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-8470	TCGA-EJ-8470	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A7NK	TCGA-EJ-A7NK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A8FN	TCGA-EJ-A8FN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6353	TCGA-G9-6353	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6371	TCGA-G9-6371	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7519	TCGA-G9-7519	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HI-7170	TCGA-HI-7170	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6339	TCGA-G9-6339	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7738	TCGA-HC-7738	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8216	TCGA-HC-8216	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8HJ	TCGA-YL-A8HJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7742	TCGA-HC-7742	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A9TH	TCGA-HC-A9TH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8HL	TCGA-YL-A8HL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SP	TCGA-YL-A8SP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L5	TCGA-ZG-A9L5	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5496	TCGA-EJ-5496	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6347	TCGA-G9-6347	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7736	TCGA-HC-7736	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-AAU2	TCGA-J4-AAU2	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-QU-A6IM	TCGA-QU-A6IM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7123	TCGA-EJ-7123	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65F	TCGA-EJ-A65F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7740	TCGA-HC-7740	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67O	TCGA-J4-A67O	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A8FP	TCGA-EJ-A8FP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E0	TCGA-KK-A6E0	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-MG-AAMC	TCGA-MG-AAMC	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9Z8	TCGA-V1-A9Z8	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8HK	TCGA-YL-A8HK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WL	TCGA-YL-A9WL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-H9-A6BX	TCGA-H9-A6BX	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5762	TCGA-CH-5762	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5515	TCGA-EJ-5515	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5542	TCGA-EJ-5542	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6356	TCGA-G9-6356	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6367	TCGA-G9-6367	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7209	TCGA-HC-7209	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7748	TCGA-HC-7748	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8264	TCGA-HC-8264	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AQ	TCGA-HC-A6AQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7AY	TCGA-KK-A7AY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MM	TCGA-V1-A8MM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VP-A872	TCGA-VP-A872	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SJ	TCGA-YL-A8SJ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9O7	TCGA-V1-A9O7	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L9	TCGA-ZG-A9L9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LY	TCGA-ZG-A9LY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-AB20	TCGA-EJ-AB20	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OT	TCGA-V1-A9OT	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5789	TCGA-CH-5789	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5499	TCGA-EJ-5499	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5530	TCGA-EJ-5530	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7327	TCGA-EJ-7327	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A7NN	TCGA-EJ-A7NN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6338	TCGA-G9-6338	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6342	TCGA-G9-6342	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6361	TCGA-G9-6361	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6366	TCGA-G9-6366	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6377	TCGA-G9-6377	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6496	TCGA-G9-6496	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7752	TCGA-HC-7752	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AP	TCGA-HC-A6AP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67N	TCGA-J4-A67N	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-QU-A6IN	TCGA-QU-A6IN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-X4-A8KS	TCGA-X4-A8KS	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SQ	TCGA-YL-A8SQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5761	TCGA-CH-5761	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OA	TCGA-V1-A9OA	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAJR	TCGA-XK-AAJR	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L4	TCGA-ZG-A9L4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7786	TCGA-EJ-7786	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5531	TCGA-EJ-5531	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7314	TCGA-EJ-7314	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65J	TCGA-EJ-A65J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6343	TCGA-G9-6343	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7081	TCGA-HC-7081	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7AQ	TCGA-KK-A7AQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-M7-A71Z	TCGA-M7-A71Z	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-TP-A8TV	TCGA-TP-A8TV	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VN-A88N	TCGA-VN-A88N	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SB	TCGA-YL-A8SB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SF	TCGA-YL-A8SF	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-7961	TCGA-FC-7961	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-A9S4	TCGA-G9-A9S4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7211	TCGA-HC-7211	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HI-7168	TCGA-HI-7168	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A52B	TCGA-J9-A52B	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A9DI	TCGA-XJ-A9DI	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAJA	TCGA-XK-AAJA	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAK1	TCGA-XK-AAK1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5509	TCGA-EJ-5509	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E5	TCGA-KK-A6E5	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5772	TCGA-CH-5772	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7784	TCGA-EJ-7784	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-8468	TCGA-EJ-8468	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-H9-A6BY	TCGA-H9-A6BY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7075	TCGA-HC-7075	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67S	TCGA-J4-A67S	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67T	TCGA-J4-A67T	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A83I	TCGA-J4-A83I	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A9DK	TCGA-XJ-A9DK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8S9	TCGA-YL-A8S9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5771	TCGA-CH-5771	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5521	TCGA-EJ-5521	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-8472	TCGA-EJ-8472	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OH	TCGA-V1-A9OH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9Z9	TCGA-V1-A9Z9	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAIV	TCGA-XK-AAIV	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WI	TCGA-YL-A9WI	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WK	TCGA-YL-A9WK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5748	TCGA-CH-5748	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5790	TCGA-CH-5790	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7331	TCGA-EJ-7331	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A7NM	TCGA-EJ-A7NM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6363	TCGA-G9-6363	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7525	TCGA-G9-7525	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7077	TCGA-HC-7077	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AL	TCGA-HC-A6AL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-QU-A6IL	TCGA-QU-A6IL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-TP-A8TT	TCGA-TP-A8TT	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SO	TCGA-YL-A8SO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SR	TCGA-YL-A8SR	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-4L-AA1F	TCGA-4L-AA1F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5744	TCGA-CH-5744	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5519	TCGA-EJ-5519	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A8FU	TCGA-EJ-A8FU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A9TE	TCGA-HC-A9TE	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A59V	TCGA-KK-A59V	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-M7-A724	TCGA-M7-A724	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9O5	TCGA-V1-A9O5	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9ZG	TCGA-V1-A9ZG	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L6	TCGA-ZG-A9L6	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LS	TCGA-ZG-A9LS	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-Y6-A8TL	TCGA-Y6-A8TL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5739	TCGA-CH-5739	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5794	TCGA-CH-5794	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5504	TCGA-EJ-5504	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5508	TCGA-EJ-5508	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7781	TCGA-EJ-7781	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65M	TCGA-EJ-A65M	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7745	TCGA-HC-7745	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67R	TCGA-J4-A67R	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7B1	TCGA-KK-A7B1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IL	TCGA-KK-A8IL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A8QZ	TCGA-ZG-A8QZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5754	TCGA-CH-5754	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7115	TCGA-EJ-7115	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A52E	TCGA-J9-A52E	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IB	TCGA-KK-A8IB	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-M7-A722	TCGA-M7-A722	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OL	TCGA-V1-A9OL	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-X4-A8KQ	TCGA-X4-A8KQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9M4	TCGA-ZG-A9M4	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5767	TCGA-CH-5767	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7818	TCGA-HC-7818	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-QU-A6IP	TCGA-QU-A6IP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5743	TCGA-CH-5743	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5763	TCGA-CH-5763	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5764	TCGA-CH-5764	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5514	TCGA-EJ-5514	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6333	TCGA-G9-6333	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6385	TCGA-G9-6385	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6494	TCGA-G9-6494	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6499	TCGA-G9-6499	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-7510	TCGA-G9-7510	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7231	TCGA-HC-7231	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7232	TCGA-HC-7232	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8265	TCGA-HC-8265	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A4BV	TCGA-KC-A4BV	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A59Z	TCGA-KK-A59Z	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5752	TCGA-CH-5752	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5518	TCGA-EJ-5518	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7789	TCGA-EJ-7789	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46B	TCGA-EJ-A46B	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65D	TCGA-EJ-A65D	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7080	TCGA-HC-7080	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-AATZ	TCGA-J4-AATZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAJP	TCGA-XK-AAJP	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8HM	TCGA-YL-A8HM	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SC	TCGA-YL-A8SC	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L1	TCGA-ZG-A9L1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LZ	TCGA-ZG-A9LZ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A65E	TCGA-EJ-A65E	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9OQ	TCGA-V1-A9OQ	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XJ-A83F	TCGA-XJ-A83F	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5506	TCGA-EJ-5506	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7791	TCGA-EJ-7791	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7794	TCGA-EJ-7794	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6329	TCGA-G9-6329	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A631	TCGA-HC-A631	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AN	TCGA-HC-A6AN	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VP-A875	TCGA-VP-A875	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8HO	TCGA-YL-A8HO	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SK	TCGA-YL-A8SK	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WH	TCGA-YL-A9WH	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5525	TCGA-EJ-5525	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7B0	TCGA-KK-A7B0	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A8QY	TCGA-ZG-A8QY	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LU	TCGA-ZG-A9LU	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-A8O0	TCGA-FC-A8O0	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-H9-7775	TCGA-H9-7775	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XA-A8JR	TCGA-XA-A8JR	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5745	TCGA-CH-5745	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7315	TCGA-EJ-7315	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6348	TCGA-G9-6348	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6373	TCGA-G9-6373	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6379	TCGA-G9-6379	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67K	TCGA-J4-A67K	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A6G1	TCGA-J4-A6G1	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A83J	TCGA-J4-A83J	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5751	TCGA-CH-5751	Primary	Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5495	TCGA-EJ-5495		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A632	TCGA-HC-A632		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E8	TCGA-KK-A6E8		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7B2	TCGA-KK-A7B2		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9ZI	TCGA-V1-A9ZI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A9ZR	TCGA-V1-A9ZR		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8S8	TCGA-YL-A8S8		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A9WX	TCGA-YL-A9WX		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SI	TCGA-YL-A8SI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-5527	TCGA-EJ-5527		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-8474	TCGA-EJ-8474		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E4	TCGA-KK-A6E4		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A6E6	TCGA-KK-A6E6		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SA	TCGA-YL-A8SA		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SH	TCGA-YL-A8SH		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8W3	TCGA-2A-A8W3		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5788	TCGA-CH-5788		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7078	TCGA-HC-7078		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9MC	TCGA-ZG-A9MC		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7328	TCGA-EJ-7328		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A6RA	TCGA-EJ-A6RA		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7749	TCGA-HC-7749		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-8257	TCGA-HC-8257		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A6AS	TCGA-HC-A6AS		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-WW-A8ZI	TCGA-WW-A8ZI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8VX	TCGA-2A-A8VX		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5753	TCGA-CH-5753		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7783	TCGA-EJ-7783		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VP-AA1N	TCGA-VP-AA1N		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L2	TCGA-ZG-A9L2		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7218	TCGA-EJ-7218		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-AATV	TCGA-J4-AATV		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7317	TCGA-EJ-7317		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A46G	TCGA-EJ-A46G		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6365	TCGA-G9-6365		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-7782	TCGA-EJ-7782		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-A4JI	TCGA-FC-A4JI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A52D	TCGA-J9-A52D		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-VN-A943	TCGA-VN-A943		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9L0	TCGA-ZG-A9L0		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5738	TCGA-CH-5738		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5768	TCGA-CH-5768		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7820	TCGA-HC-7820		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5750	TCGA-CH-5750		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5791	TCGA-CH-5791		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-G9-6364	TCGA-G9-6364		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A8QW	TCGA-ZG-A8QW		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A5A1	TCGA-KK-A5A1		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-Y6-A9XI	TCGA-Y6-A9XI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LB	TCGA-ZG-A9LB		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9LM	TCGA-ZG-A9LM		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-CH-5737	TCGA-CH-5737		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7233	TCGA-HC-7233		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9KY	TCGA-ZG-A9KY		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9N3	TCGA-ZG-A9N3		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-ZG-A9NI	TCGA-ZG-A9NI		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-A66V	TCGA-FC-A66V		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-7210	TCGA-HC-7210		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YL-A8SL	TCGA-YL-A8SL		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAIR	TCGA-XK-AAIR		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAJT	TCGA-XK-AAJT		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J4-A67Q	TCGA-J4-A67Q		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-FC-A6HD	TCGA-FC-A6HD		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XK-AAIW	TCGA-XK-AAIW		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A76X	TCGA-HC-A76X		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A8CN	TCGA-J9-A8CN		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A4BL	TCGA-KC-A4BL		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7F3	TCGA-KC-A7F3		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7FD	TCGA-KC-A7FD		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7FE	TCGA-KC-A7FE		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I5	TCGA-KK-A8I5		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IJ	TCGA-KK-A8IJ		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MJ	TCGA-V1-A8MJ		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8WN	TCGA-V1-A8WN		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-2A-A8VT	TCGA-2A-A8VT		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-EJ-A6RC	TCGA-EJ-A6RC		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A76W	TCGA-HC-A76W		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A8D1	TCGA-HC-A8D1		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A8CK	TCGA-J9-A8CK		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A8CL	TCGA-J9-A8CL		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-J9-A8CM	TCGA-J9-A8CM		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A4BR	TCGA-KC-A4BR		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7F6	TCGA-KC-A7F6		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KC-A7FA	TCGA-KC-A7FA		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7AP	TCGA-KK-A7AP		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7AU	TCGA-KK-A7AU		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A7B3	TCGA-KK-A7B3		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I4	TCGA-KK-A8I4		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I6	TCGA-KK-A8I6		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I8	TCGA-KK-A8I8		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8I9	TCGA-KK-A8I9		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IC	TCGA-KK-A8IC		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IH	TCGA-KK-A8IH		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8II	TCGA-KK-A8II		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-SU-A7E7	TCGA-SU-A7E7		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MG	TCGA-V1-A8MG		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8ML	TCGA-V1-A8ML		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MU	TCGA-V1-A8MU		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8WL	TCGA-V1-A8WL		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8WS	TCGA-V1-A8WS		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8X3	TCGA-V1-A8X3		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XQ-A8TB	TCGA-XQ-A8TB		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A8CY	TCGA-HC-A8CY		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-HC-A8D0	TCGA-HC-A8D0		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IA	TCGA-KK-A8IA		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8ID	TCGA-KK-A8ID		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IG	TCGA-KK-A8IG		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-KK-A8IK	TCGA-KK-A8IK		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-TK-A8OK	TCGA-TK-A8OK		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8MF	TCGA-V1-A8MF		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8WV	TCGA-V1-A8WV		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-V1-A8WW	TCGA-V1-A8WW		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-XQ-A8TA	TCGA-XQ-A8TA		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer
+TCGA-YJ-A8SW	TCGA-YJ-A8SW		Prostate Cancer	Prostate Adenocarcinoma	Prostate	70327	Prostate Cancer

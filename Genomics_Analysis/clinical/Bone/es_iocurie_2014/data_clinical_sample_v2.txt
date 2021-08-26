@@ -1,0 +1,116 @@
+PATIENT_ID	SAMPLE_ID	PRIMARY_SITE	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE
+IC009	IC009	Pelvis_No_Precise_Localization	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC015	IC015	Dorsal Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC024	IC024	Lumbar Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC034	IC034	Sacrum	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC044	IC044	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC046	IC046	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC049	IC049	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC053	IC053	Neck	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC054	IC054	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC057	IC057	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC058	IC058	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC066	IC066	Pelvic Soft Tissue	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC067	IC067	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC076	IC076	Skull	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC080	IC080	Cervical Intraspil	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC082	IC082	Skull	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC086	IC086	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC092	IC092	Thigh	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC093	IC093	Lumbar Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC096	IC096	Pelvic Soft Tissue	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC105	IC105	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC106	IC106	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC111	IC111	Scapula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC112	IC112	Kidney	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC114	IC114	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC116	IC116	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC121	IC121	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC128	IC128	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC130	IC130	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC147	IC147	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC149	IC149	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC151	IC151	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC158	IC158	Humerus	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC165	IC165	Scapula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC168	IC168	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC174	IC174	Dorsal Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC193	IC193	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC196	IC196	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC197	IC197	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC198	IC198	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC224	IC224	Scapula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC242	IC242	Sacrum	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC248	IC248	Humerus	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC254	IC254	Shoulder	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC262	IC262	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC263	IC263	Buttocks	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC264	IC264	Fibula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC267	IC267	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC268	IC268	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC270	IC270	Buttocks	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC272	IC272	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC273	IC273	Clavicle	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC274	IC274	Fibula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC275	IC275	Fibula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC277	IC277	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC278	IC278	Head Or Neck No Precise Location	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC279	IC279	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC280	IC280			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC282	IC282	Arm	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC283	IC283	Dorsal Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC284	IC284	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC286	IC286	Intra-Abdomil	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC288	IC288	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC294	IC294	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC295	IC295	Skull	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC296	IC296	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC297	IC297	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC299	IC299	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC300	IC300	Scapula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC301	IC301	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC302	IC302	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC303	IC303	Fibula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC305	IC305	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC306	IC306	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC309	IC309	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC311	IC311	Hipbone	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC318	IC318	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC323	IC323	Intra-Abdomil	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC324	IC324	Scapula	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC325	IC325	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC343	IC343	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC349	IC349	Ischium Pubis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC831	IC831	Intra-Abdomil	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC929	IC929	Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC973	IC973	Ul	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001301	SJEWS001301	Radius	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001302	SJEWS001302	Leg	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001303	SJEWS001303	Chestwall	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001304	SJEWS001304	Distal Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001305	SJEWS001305	Metacarpal	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001306	SJEWS001306	Proximal Tibia	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001307	SJEWS001307	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001308	SJEWS001308	Orbit	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001309	SJEWS001309	Rib	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001311	SJEWS001311	Lumbar Vertebra	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001312	SJEWS001312	Thigh	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001313	SJEWS001313	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001314	SJEWS001314	Thorax	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001316	SJEWS001316	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001317	SJEWS001317	Pelvis	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001318	SJEWS001318	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001319	SJEWS001319	Metatarsal	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+SJEWS001320	SJEWS001320	Femur	Bone	Primary	Bone Cancer	Ewing Sarcoma	92603
+IC213	IC213			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC071	IC071			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC077	IC077			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC136	IC136			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC204	IC204			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC215	IC215			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC310	IC310			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC340	IC340			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC1057	IC1057			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC315	IC315			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC316	IC316			unknown	Bone Cancer	Ewing Sarcoma	92603
+IC319	IC319			unknown	Bone Cancer	Ewing Sarcoma	92603

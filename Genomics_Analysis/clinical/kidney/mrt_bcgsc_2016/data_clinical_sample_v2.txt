@@ -1,0 +1,41 @@
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE	CANCER_TYPE_DETAILED	SAMPLE_TYPE	TUMOR_SITE	CODE	CATEGORY_NAME
+PABKLN	TARGET-52-PABKLN	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PADYZI	TARGET-52-PADYZI	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAJLWM	TARGET-52-PAJLWM	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAJMRB	TARGET-52-PAJMRB	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAJNER	TARGET-52-PAJNER	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAJNFP	TARGET-52-PAJNFP	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAJNFZ	TARGET-52-PAJNFZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAKHTL	TARGET-52-PAKHTL	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARECB	TARGET-52-PARECB	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARGRN	TARGET-52-PARGRN	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARIRN	TARGET-52-PARIRN	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARPFY	TARGET-52-PARPFY	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARRCL	TARGET-52-PARRCL	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARUGK	TARGET-52-PARUGK	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PARZBI	TARGET-52-PARZBI	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASABD	TARGET-52-PASABD	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASADZ	TARGET-52-PASADZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASCDH	TARGET-52-PASCDH	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Soft tissue	89633	Malignant rhabdoid tumor
+PASDLA	TARGET-52-PASDLA	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASRHU	TARGET-52-PASRHU	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASVDP	TARGET-52-PASVDP	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Soft tissue	89633	Malignant rhabdoid tumor
+PASWZZ	TARGET-52-PASWZZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASXNA	TARGET-52-PASXNA	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASYNF	TARGET-52-PASYNF	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PASZYE	TARGET-52-PASZYE	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATAFT	TARGET-52-PATAFT	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Liver	89633	Malignant rhabdoid tumor
+PATBLF	TARGET-52-PATBLF	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Soft tissue	89633	Malignant rhabdoid tumor
+PATDVL	TARGET-52-PATDVL	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATENH	TARGET-52-PATENH	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATFXW	TARGET-52-PATFXW	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATFZZ	TARGET-52-PATFZZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATXEE	TARGET-52-PATXEE	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PATXKA	TARGET-52-PATXKA	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Liver	89633	Malignant rhabdoid tumor
+PAUCGJ	TARGET-52-PAUCGJ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAUDPV	TARGET-52-PAUDPV	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAUEKW	TARGET-52-PAUEKW	Rhabdoid Cancer	Rhabdoid Cancer	Metastasis	Soft tissue	89633	Malignant rhabdoid tumor
+PAUFVP	TARGET-52-PAUFVP	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAUGYZ	TARGET-52-PAUGYZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAUHAZ	TARGET-52-PAUHAZ	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor
+PAUNPA	TARGET-52-PAUNPA	Rhabdoid Cancer	Rhabdoid Cancer	Primary	Kidney	89633	Malignant rhabdoid tumor

@@ -1,0 +1,5 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE
+BFN_DUKE_NUS_1019	BFN_DUKE_NUS_1019	Primary	Breast	Breast Sarcoma	Malignant Phyllodes Tumor of the Breast	90203
+BFN_DUKE_NUS_1020	BFN_DUKE_NUS_1020	Primary	Breast	Breast Sarcoma	Malignant Phyllodes Tumor of the Breast	90203
+BFN_DUKE_NUS_1021	BFN_DUKE_NUS_1021	Primary	Breast	Breast Sarcoma	Malignant Phyllodes Tumor of the Breast	90203
+BFN_DUKE_NUS_1022	BFN_DUKE_NUS_1022	Primary	Breast	Breast Sarcoma	Malignant Phyllodes Tumor of the Breast	90203

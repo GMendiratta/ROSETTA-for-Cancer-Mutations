@@ -1,0 +1,11 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	TUMOR_STAGE	GRADE	SITE	METASTATIC_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	merajs annotation	CODE	CATEGORY_NAME
+PEN10	PanNET10PT	metastasis	IV	3	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN21	PanNET21PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN23	PanNET23PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN24	PanNET24PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN25	PanNET25PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN3	PanNET3PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN31	PanNET31PT	metastasis	IV	2	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN36	PanNET36PT	Primary	IIIb	1	pancreas	pancreas	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN7	PanNET7PT	metastasis	IV	1	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 
+PEN93	PanNET93PT	metastasis	IV	1	liver	liver	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor	"Neuroendocrine carcinoma, NOS"	70117	Pancreatic Neuroendocrine Tumor 

@@ -1,0 +1,44 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_SUBTYPE	CODE	CATEGORY_NAME
+SS_L1	SS_L1	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L2	SS_L2	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L3	SS_L3	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L4	SS_L4	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L5	SS_L5	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L6	SS_L6	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L7	SS_L7	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L8	SS_L8	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L9	SS_L9	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L10	SS_L10	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L11	SS_L11	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L12	SS_L12	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L13	SS_L13	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L14	SS_L14	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L15	SS_L15	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L16	SS_L16	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L17	SS_L17	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L18	SS_L18	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L19	SS_L19	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L20	SS_L20	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L21	SS_L21	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L22	SS_L22	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_L23	SS_L23	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_NU6	SS_NU6	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_NU8	SS_NU8	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+SS_NU15	SS_NU15	Primary	Mature T and NK Neoplasms	Sezary Syndrome		97013	Sezary Syndrome
+CTCL_NU1	CTCL_NU1	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma		97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU2	CTCL_NU2	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Folliculotropic Mycosis Fungoides	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU3	CTCL_NU3	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	CTCL, NOS with Large cell morphology (CD30)	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU4	CTCL_NU4	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Folliculotropic Mycosis Fungoides	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU6	CTCL_NU6	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	CTCL, NOS	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU7	CTCL_NU7	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Folliculotropic Mycosis Fungoides	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU9	CTCL_NU9	Primary	Mature T and NK Neoplasms	Mycosis Fungoides		97003	Mycosis Fungoides
+CTCL_NU11	CTCL_NU11	Primary	Mature T and NK Neoplasms	Mycosis Fungoides		97003	Mycosis Fungoides
+CTCL_NU12	CTCL_NU12	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Intravascular gamma delta T cell lymphoma	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU13	CTCL_NU13	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	CTCL, NOS with Large cell transformation (CD30)	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU14	CTCL_NU14	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma		97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU16	CTCL_NU16	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	CD30+ LPD (ALCL type)	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU17	CTCL_NU17	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	CD30+ LPD (Lymphomatoid papulosis vs. ALCL, borderline)	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU18	CTCL_NU18	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Folliculotropic Mycosis Fungoides	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU19	CTCL_NU19	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma	Folliculotropic Mycosis Fungoides	97093	Primary Cutaneous CD8 Positive Aggressive Epidermotropic Cytotoxic T-Cell Lymphoma
+CTCL_NU20	CTCL_NU20	Primary	Mature T and NK Neoplasms	Mycosis Fungoides		97003	Mycosis Fungoides
+CTCL_NU21	CTCL_NU21	Primary	Mature T and NK Neoplasms	Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders	CD30+ LPD (Type D Lymphomatoid papulosis)	97183	Primary Cutaneous CD30 Positive T-Cell Lymphoproliferative Disorders

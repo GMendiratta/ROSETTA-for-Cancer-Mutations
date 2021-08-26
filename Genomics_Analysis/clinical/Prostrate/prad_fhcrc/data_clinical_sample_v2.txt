@@ -1,0 +1,177 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+05-144	05-144U1_ADRENAL	ADRENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144V1_ADRENAL	ADRENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-165	05-165O_ADRENAL	ADRENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+11-028	11-028G3_ADRENAL	ADRENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-328	98-328H_APPENDIX	APPENDIX	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140K3_BLADDER	BLADDER	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-112	04-112N1_BLADDER	BLADDER	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-092	05-092D1_BLADDER	BLADDER	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-011	12-011J1_BLADDER	BLADDER	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201H_BLADDER	BLADDER	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-372	98-372K2_BLADDER_NECK	BLADDER_NECK	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-069	99-069I_BLADDER_NECK	BLADDER_NECK	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140FF_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-087	01-087MM_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-087	01-087QQ1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-181	01-181AA_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-142	02-142II_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-082	03-082OO_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-116	05-116LL_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144EE1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144HH1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-214	05-214BB2_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-217	05-217OO3_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-221	05-221MM1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-047	06-047QQ1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-131	06-131BB1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-042	07-042EE1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-044	07-044KK_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-050	07-050EE1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-050	07-050XX1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-006	08-006TT1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-020	08-020HH1_BONE	BONE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-020	08-020Y6_KIDNEY	KIDNEY	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-010	00-010K_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140G_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-095	01-095C6_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-120	01-120A1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-027	03-027P2_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-082	03-082H1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-130	03-130M4_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-163	03-163S4_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192A1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-092	05-092E7_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144E1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-148	05-148E3_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-187	05-187E1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081E_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-037	08-037F1_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-005	12-005I2_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-021	12-021H4_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-159	97-159H2_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-328	98-328O_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-090	99-090A2_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091C_LIVER	LIVER	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-010	00-010L_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-010	00-010M_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-029	00-029J2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-029	00-029N9_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-029	00-029O6_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-090	00-090B2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-090	00-090T3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140J9_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140N_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-002	01-002G1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-095	01-095N1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+01-120	01-120C1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-065	02-065M3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-083	02-083E1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-081	03-081L_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-082	03-082K2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192C2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192D2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050G2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050L1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050R1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050V1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050W1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-101	04-101J1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-101	04-101L3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-101	04-101N1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-112	04-112G3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-112	04-112H3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-112	04-112I1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-112	04-112M1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-149	04-149E2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-011	05-011D2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-092	05-092H1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-092	05-092I1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-123	05-123E2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144H1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144I1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144M1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144Z1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-165	05-165M1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-187	05-187J3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-214	05-214E1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-214	05-214G1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-217	05-217F1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-217	05-217N1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-047	06-047H1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081F2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081H5_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081J1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081K2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-127	06-127H3_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-134	06-134H1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-042	07-042H2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-006	08-006H1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-020	08-020N2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-093	08-093J1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+10-013	10-013F1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+10-013	10-013J2_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-011	12-011I7_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201J_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201K_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201M_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-328	98-328J_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-362	98-362B1_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-372	98-372L_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-064	99-064N_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-064	99-064O_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091I_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091J_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091K_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091L_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091N_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-091	99-091P_LN	LYMPH NODE	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-029	00-029P7_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-090	00-090G2_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-140	00-140H1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-083	02-083D1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-027	03-027M1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192B_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192F3_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-011	05-011G4_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-092	05-092G2_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-116	05-116F_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144K1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144L1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-165	05-165K5_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-217	05-217L3_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081I1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+07-062	07-062F2_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+10-039	10-039E3_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+11-028	11-028L1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-005	12-005K1_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201D_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-362	98-362K2_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-069	99-069F_LUNG	LUNG	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-029	00-029T2_PELVIC_MASS	PELVIC_MASS	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-101	04-101H1_PERITONEAL	PERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+98-328	98-328K_PERITONEUM	PERITONEUM	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+99-069	99-069G1_PERITONEUM	PERITONEUM	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+00-010	00-010N_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-065	02-065P3_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192N2_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050N1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-050	04-050O2_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-101	04-101F2_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+04-149	04-149J1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-123	05-123D1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144R1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-187	05-187I1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+06-081	06-081D3_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+08-020	08-020D1_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+12-011	12-011D26_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+97-201	97-201I_PROSTATE	PROSTATE	Primary	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+09-006	09-006F1_RENAL	RENAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-130	03-130L_RETROPERITONEAL	RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-139	03-139E3_RETROPERITONEAL	RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-139	03-139M9_RETROPERITONEAL	RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+10-013	10-013G1_RETROPERITONEAL	RETROPERITONEAL	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-065	02-065W2_SCROTUM	SCROTUM	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+02-065	02-065N1_SKIN	SKIN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+03-192	03-192E3_SPLEEN	SPLEEN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer
+05-144	05-144W1_SPLEEN	SPLEEN	Metastasis	Prostate Cancer	Prostate Adenocarcinoma	70327	Prostate Cancer

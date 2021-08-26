@@ -1,0 +1,17 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+UCCC_NIH_24	UCCC_NIH_24	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_26	UCCC_NIH_26	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_28	UCCC_NIH_28	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_31	UCCC_NIH_31	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_32	UCCC_NIH_32	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_46	UCCC_NIH_46	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_58	UCCC_NIH_58	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_59	UCCC_NIH_59	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_60	UCCC_NIH_60	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_61	UCCC_NIH_61	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_62	UCCC_NIH_62	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_64	UCCC_NIH_64	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_77	UCCC_NIH_77	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_82	UCCC_NIH_82	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_152	UCCC_NIH_152	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial
+UCCC_NIH_153	UCCC_NIH_153	Primary	Endometrial Cancer	Uterine Clear Cell Carcinoma	70297	Endometrial

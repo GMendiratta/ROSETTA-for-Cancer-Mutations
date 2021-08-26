@@ -1,0 +1,73 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+WCM077	WCM077_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM088	WCM088_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_3	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_4	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_5	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM118	WCM118_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM137	WCM137_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM168	WCM168_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM193	WCM193_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM196	WCM196_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM196	WCM196_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM231	WCM231_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM231	WCM231_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM233	WCM233_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM233	WCM233_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM233	WCM233_3	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM244	WCM244_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM244	WCM244_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM259	WCM259_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM260	WCM260_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM260	WCM260_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM264	WCM264_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM325	WCM325_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM325	WCM325_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM329	WCM329_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM344	WCM344_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM345	WCM345_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM355	WCM355_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM407	WCM407_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM407	WCM407_2	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM416	WCM416_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM550	WCM550_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM561	WCM561_1	Bladder	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM137	WCM137_2	Inguinal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM262	WCM262_1	Inguinal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_9	Left Inguinal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_12	Left supra-clavicular LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_7	Liver metasatsis	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_8	Liver metasatsis	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM249	WCM249_2	Liver metasatsis	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM249	WCM249_3	Liver metasatsis	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM077	WCM077_2	LN from cystetcomy LND	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_6	LN from cystetcomy LND	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM168	WCM168_2	LN from cystetcomy LND	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM233	WCM233_4	LN from cystetcomy LND	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM057	WCM057_2	Lung nodule	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM077	WCM077_3	Lung nodule	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM118	WCM118_2	Lung nodule	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM386	WCM386_1	Lung nodule	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM525	WCM525_1	Lung nodule	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM259	WCM259_2	Omental Metastasis	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM175	WCM175_2	Para-aortic LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM259	WCM259_4	Para-esophageal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM259	WCM259_3	Pelvic LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM088	WCM088_3	Peritoneal mass	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM193	WCM193_2	Presacral mass	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM168	WCM168_3	Prostate bed	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM057	WCM057_1	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM060	WCM060_1	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM060	WCM060_2	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM141	WCM141_1	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM175	WCM175_1	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM249	WCM249_1	Renal pelvis primary	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM088	WCM088_2	Retroperitoneal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM264	WCM264_2	Retroperitoneal LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_10	Right para-aortic LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM329	WCM329_2	Right pelvic mass	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM117	WCM117_11	Right supra-clavicular LN	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM263	WCM263_1	Spinal mass	Metastatic	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer
+WCM344	WCM344_2	Ureter and kideny	Primary	Bladder/Urinary Tract Cancer, NOS	Bladder/Urinary Tract	70167	Urothelial Cancer

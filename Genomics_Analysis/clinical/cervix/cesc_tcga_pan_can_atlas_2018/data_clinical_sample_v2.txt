@@ -1,0 +1,294 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	GRADE	SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-JW-A5VK	TCGA-JW-A5VK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-4J-AA1J	TCGA-4J-AA1J-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-BI-A0VR	TCGA-BI-A0VR-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-BI-A0VS	TCGA-BI-A0VS-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-BI-A20A	TCGA-BI-A20A-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BF	TCGA-C5-A1BF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BI	TCGA-C5-A1BI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BJ	TCGA-C5-A1BJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BK	TCGA-C5-A1BK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BL	TCGA-C5-A1BL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BM	TCGA-C5-A1BM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BN	TCGA-C5-A1BN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1M5	TCGA-C5-A1M5-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1M6	TCGA-C5-A1M6-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1M7	TCGA-C5-A1M7-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1M8	TCGA-C5-A1M8-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MF	TCGA-C5-A1MF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MH	TCGA-C5-A1MH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MI	TCGA-C5-A1MI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MK	TCGA-C5-A1MK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1ML	TCGA-C5-A1ML-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MN	TCGA-C5-A1MN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MP	TCGA-C5-A1MP-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1MQ	TCGA-C5-A1MQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A2LV	TCGA-C5-A2LV-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A2LX	TCGA-C5-A2LX-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A2LY	TCGA-C5-A2LY-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A2LZ	TCGA-C5-A2LZ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A3HD	TCGA-C5-A3HD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A3HE	TCGA-C5-A3HE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CG	TCGA-C5-A7CG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CH	TCGA-C5-A7CH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CK	TCGA-C5-A7CK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CL	TCGA-C5-A7CL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CO	TCGA-C5-A7CO-01	C53.0	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7UE	TCGA-C5-A7UE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7UH	TCGA-C5-A7UH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7XC	TCGA-C5-A7XC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8XH	TCGA-C5-A8XH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8XI	TCGA-C5-A8XI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8XJ	TCGA-C5-A8XJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8XK	TCGA-C5-A8XK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8YQ	TCGA-C5-A8YQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8YT	TCGA-C5-A8YT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A907	TCGA-C5-A907-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DG-A2KM	TCGA-DG-A2KM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DR-A0ZL	TCGA-DR-A0ZL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DR-A0ZM	TCGA-DR-A0ZM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A0VK	TCGA-DS-A0VK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A0VL	TCGA-DS-A0VL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A0VM	TCGA-DS-A0VM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A0VN	TCGA-DS-A0VN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A1OA	TCGA-DS-A1OA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A3LQ	TCGA-DS-A3LQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A5RQ	TCGA-DS-A5RQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3HQ	TCGA-EA-A3HQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3HR	TCGA-EA-A3HR-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3HS	TCGA-EA-A3HS-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3HT	TCGA-EA-A3HT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3HU	TCGA-EA-A3HU-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3QD	TCGA-EA-A3QD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3Y4	TCGA-EA-A3Y4-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A410	TCGA-EA-A410-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A411	TCGA-EA-A411-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A439	TCGA-EA-A439-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A44S	TCGA-EA-A44S-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A5FO	TCGA-EA-A5FO-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A5O9	TCGA-EA-A5O9-01	C53.1	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A5ZD	TCGA-EA-A5ZD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A5ZE	TCGA-EA-A5ZE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A5ZF	TCGA-EA-A5ZF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A6QX	TCGA-EA-A6QX-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A78R	TCGA-EA-A78R-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A97N	TCGA-EA-A97N-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2GZ	TCGA-EK-A2GZ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2PG	TCGA-EK-A2PG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RB	TCGA-EK-A2RB-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RC	TCGA-EK-A2RC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RJ	TCGA-EK-A2RJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RM	TCGA-EK-A2RM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A3GN	TCGA-EK-A3GN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EX-A1H5	TCGA-EX-A1H5-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EX-A3L1	TCGA-EX-A3L1-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EX-A8YF	TCGA-EX-A8YF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A23L	TCGA-FU-A23L-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3TQ	TCGA-FU-A3TQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3TX	TCGA-FU-A3TX-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3WB	TCGA-FU-A3WB-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3YQ	TCGA-FU-A3YQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A5XV	TCGA-FU-A5XV-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-GH-A9DA	TCGA-GH-A9DA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-HG-A2PA	TCGA-HG-A2PA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-HM-A3JJ	TCGA-HM-A3JJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-HM-A3JK	TCGA-HM-A3JK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-HM-A4S6	TCGA-HM-A4S6-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-HM-A6W2	TCGA-HM-A6W2-01	C56.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Adenosquamous	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-IR-A3L7	TCGA-IR-A3L7-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-IR-A3LC	TCGA-IR-A3LC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-IR-A3LH	TCGA-IR-A3LH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G4	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-IR-A3LK	TCGA-IR-A3LK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-IR-A3LL	TCGA-IR-A3LL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A5VG	TCGA-JW-A5VG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A5VH	TCGA-JW-A5VH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A5VJ	TCGA-JW-A5VJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A5VL	TCGA-JW-A5VL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A852	TCGA-JW-A852-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JX-A3Q0	TCGA-JX-A3Q0-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-LP-A4AU	TCGA-LP-A4AU-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-LP-A4AX	TCGA-LP-A4AX-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA3W	TCGA-MA-AA3W-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA3X	TCGA-MA-AA3X-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA3Z	TCGA-MA-AA3Z-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA41	TCGA-MA-AA41-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA42	TCGA-MA-AA42-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA43	TCGA-MA-AA43-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MU-A5YI	TCGA-MU-A5YI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MY-A5BD	TCGA-MY-A5BD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MY-A5BE	TCGA-MY-A5BE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MY-A913	TCGA-MY-A913-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A5R2	TCGA-Q1-A5R2-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A5R3	TCGA-Q1-A5R3-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-RA-A741	TCGA-RA-A741-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-UC-A7PF	TCGA-UC-A7PF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-UC-A7PG	TCGA-UC-A7PG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EB	TCGA-VS-A8EB-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EC	TCGA-VS-A8EC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EG	TCGA-VS-A8EG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EH	TCGA-VS-A8EH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EI	TCGA-VS-A8EI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EJ	TCGA-VS-A8EJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8EL	TCGA-VS-A8EL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8Q8	TCGA-VS-A8Q8-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8Q9	TCGA-VS-A8Q9-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8QA	TCGA-VS-A8QA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8QC	TCGA-VS-A8QC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8QF	TCGA-VS-A8QF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A8QM	TCGA-VS-A8QM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A94W	TCGA-VS-A94W-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A94X	TCGA-VS-A94X-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A94Y	TCGA-VS-A94Y-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A94Z	TCGA-VS-A94Z-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A950	TCGA-VS-A950-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A953	TCGA-VS-A953-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A954	TCGA-VS-A954-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A957	TCGA-VS-A957-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A959	TCGA-VS-A959-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9U5	TCGA-VS-A9U5-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9U7	TCGA-VS-A9U7-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UA	TCGA-VS-A9UA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UB	TCGA-VS-A9UB-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UC	TCGA-VS-A9UC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UD	TCGA-VS-A9UD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UH	TCGA-VS-A9UH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UI	TCGA-VS-A9UI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UJ	TCGA-VS-A9UJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UL	TCGA-VS-A9UL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UM	TCGA-VS-A9UM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UU	TCGA-VS-A9UU-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UV	TCGA-VS-A9UV-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9UY	TCGA-VS-A9UY-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9V2	TCGA-VS-A9V2-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9V3	TCGA-VS-A9V3-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-AA62	TCGA-VS-AA62-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-WL-A834	TCGA-WL-A834-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZX-AA5X	TCGA-ZX-AA5X-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A0TN	TCGA-C5-A0TN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BQ	TCGA-C5-A1BQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A2LT	TCGA-C5-A2LT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A3HL	TCGA-C5-A3HL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7CJ	TCGA-C5-A7CJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7X5	TCGA-C5-A7X5-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8ZZ	TCGA-C5-A8ZZ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DG-A2KL	TCGA-DG-A2KL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A43B	TCGA-EA-A43B-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2H0	TCGA-EK-A2H0-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2PM	TCGA-EK-A2PM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RE	TCGA-EK-A2RE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RN	TCGA-EK-A2RN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A3GJ	TCGA-EK-A3GJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A2QG	TCGA-FU-A2QG-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3NI	TCGA-FU-A3NI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JX-A3PZ	TCGA-JX-A3PZ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JX-A5QV	TCGA-JX-A5QV-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-LP-A4AV	TCGA-LP-A4AV-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-LP-A4AW	TCGA-LP-A4AW-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MA-AA3Y	TCGA-MA-AA3Y-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MY-A5BF	TCGA-MY-A5BF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A73Q	TCGA-Q1-A73Q-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-UC-A7PD	TCGA-UC-A7PD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-A8QR	TCGA-ZJ-A8QR-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXF	TCGA-ZJ-AAXF-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXJ	TCGA-ZJ-AAXJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AB0I	TCGA-ZJ-AB0I-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1BE	TCGA-C5-A1BE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7UC	TCGA-C5-A7UC-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7UI	TCGA-C5-A7UI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A7X3	TCGA-C5-A7X3-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A8YR	TCGA-C5-A8YR-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DG-A2KJ	TCGA-DG-A2KJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-DS-A7WI	TCGA-DS-A7WI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A1QS	TCGA-EA-A1QS-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A1QT	TCGA-EA-A1QT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A3QE	TCGA-EA-A3QE-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EA-A50E	TCGA-EA-A50E-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2H1	TCGA-EK-A2H1-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2IP	TCGA-EK-A2IP-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2PI	TCGA-EK-A2PI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2PK	TCGA-EK-A2PK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2PL	TCGA-EK-A2PL-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2R7	TCGA-EK-A2R7-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2R8	TCGA-EK-A2R8-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2R9	TCGA-EK-A2R9-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RA	TCGA-EK-A2RA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RD	TCGA-EK-A2RD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RK	TCGA-EK-A2RK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EK-A2RO	TCGA-EK-A2RO-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G1	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EX-A69L	TCGA-EX-A69L-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-EX-A69M	TCGA-EX-A69M-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3HY	TCGA-FU-A3HY-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A3HZ	TCGA-FU-A3HZ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-A5VI	TCGA-JW-A5VI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-JW-AAVH	TCGA-JW-AAVH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-LP-A5U3	TCGA-LP-A5U3-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MU-A51Y	TCGA-MU-A51Y-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-MU-A8JM	TCGA-MU-A8JM-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-PN-A8MA	TCGA-PN-A8MA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A6DT	TCGA-Q1-A6DT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A6DW	TCGA-Q1-A6DW-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-Q1-A73O	TCGA-Q1-A73O-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-R2-A69V	TCGA-R2-A69V-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A958	TCGA-VS-A958-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-VS-A9U6	TCGA-VS-A9U6-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-XS-A8TJ	TCGA-XS-A8TJ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-A8QO	TCGA-ZJ-A8QO-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-A8QQ	TCGA-ZJ-A8QQ-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	GX	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAX4	TCGA-ZJ-AAX4-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAX8	TCGA-ZJ-AAX8-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXA	TCGA-ZJ-AAXA-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXD	TCGA-ZJ-AAXD-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXI	TCGA-ZJ-AAXI-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXN	TCGA-ZJ-AAXN-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXT	TCGA-ZJ-AAXT-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AAXU	TCGA-ZJ-AAXU-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G2	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-ZJ-AB0H	TCGA-ZJ-AB0H-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma		Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-FU-A23K	TCGA-FU-A23K-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70227	Cervical Squamous Cell
+TCGA-C5-A1M9	TCGA-C5-A1M9-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A1ME	TCGA-C5-A1ME-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G1	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A1MJ	TCGA-C5-A1MJ-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A2M2	TCGA-C5-A2M2-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-DG-A2KH	TCGA-DG-A2KH-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Adenosquamous	GX	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-DG-A2KK	TCGA-DG-A2KK-01	C53.9	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	Cervical Squamous Cell Carcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-EX-A1H6	TCGA-EX-A1H6-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G1	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-FU-A3EO	TCGA-FU-A3EO-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A2LS	TCGA-C5-A2LS-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G1	Cervical	Primary	70297	Endometrial Carcinoma
+TCGA-EA-A556	TCGA-EA-A556-01	C53.9	Cervical Adenocarcinoma	Endometrioid Carcinoma	Endometrioid Endometrial Adenocarcinoma	G3	Cervical	Primary	70297	Endometrial Carcinoma
+TCGA-UC-A7PI	TCGA-UC-A7PI-01	C53.0	Cervical Adenocarcinoma	Endometrioid Carcinoma	Endometrioid Endometrial Adenocarcinoma	G1	Cervical	Primary	70297	Endometrial Carcinoma
+TCGA-C5-A2M1	TCGA-C5-A2M1-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A7CM	TCGA-C5-A7CM-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-EA-A4BA	TCGA-EA-A4BA-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-EK-A2RL	TCGA-EK-A2RL-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-EK-A3GK	TCGA-EK-A3GK-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-EK-A3GM	TCGA-EK-A3GM-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-FU-A40J	TCGA-FU-A40J-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-FU-A57G	TCGA-FU-A57G-01	C53.0	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-FU-A770	TCGA-FU-A770-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-IR-A3LA	TCGA-IR-A3LA-01	C53.9	Cervical Adenocarcinoma	Endometrioid Carcinoma	Endometrioid Endometrial Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-IR-A3LB	TCGA-IR-A3LB-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-IR-A3LF	TCGA-IR-A3LF-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-IR-A3LI	TCGA-IR-A3LI-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-JW-A69B	TCGA-JW-A69B-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	GX	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-JX-A3Q8	TCGA-JX-A3Q8-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-LP-A5U2	TCGA-LP-A5U2-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-LP-A7HU	TCGA-LP-A7HU-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-Q1-A73P	TCGA-Q1-A73P-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	G1	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-Q1-A73R	TCGA-Q1-A73R-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma	GX	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-ZJ-AAXB	TCGA-ZJ-AAXB-01	C53.9	Cervical Adenocarcinoma	Endocervical Adenocarcinoma	Endocervical Adenocarcinoma, Usual Type	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-DS-A7WH	TCGA-DS-A7WH-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A3HF	TCGA-C5-A3HF-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-C5-A7X8	TCGA-C5-A7X8-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-Q1-A5R1	TCGA-Q1-A5R1-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-Q1-A6DV	TCGA-Q1-A6DV-01	C53.0	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A8QH	TCGA-VS-A8QH-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A952	TCGA-VS-A952-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UO	TCGA-VS-A9UO-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UP	TCGA-VS-A9UP-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UQ	TCGA-VS-A9UQ-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UR	TCGA-VS-A9UR-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	GX	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UT	TCGA-VS-A9UT-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9UZ	TCGA-VS-A9UZ-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9V0	TCGA-VS-A9V0-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G3	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9V1	TCGA-VS-A9V1-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9V4	TCGA-VS-A9V4-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma
+TCGA-VS-A9V5	TCGA-VS-A9V5-01	C53.9	Cervical Adenocarcinoma	Mucinous Carcinoma	Mucinous Adenocarcinoma, Endocervical Type	G2	Cervical	Primary	70307	Cervical Carcinoma

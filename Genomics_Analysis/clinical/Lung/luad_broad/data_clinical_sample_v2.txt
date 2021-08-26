@@ -1,0 +1,168 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SITE	TUMOR_CELLULARITY_PATHOLOGY_REVIEW	CANCER_TYPE	CANCER_TYPE_DETAILED	Code_alternative	CODE	CATEGORY_NAME
+LUAD-NYU739	LUAD-NYU739	Primary	Lung	Lung adenocarcinoma, MIA	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D02326	LUAD-D02326	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01341	LUAD-S01341	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01302	LUAD-S01302	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU279	LUAD-NYU279	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E00703	LUAD_E00703	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1195	LUAD-NYU1195	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-4090680	LUAD-CHTN-4090680	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-MAD06-00490	LUAD-CHTN-MAD06-00490	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1101	LUAD-NYU1101	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01711	LUAD-RT-S01711	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU160	LUAD-NYU160	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU669	LUAD-NYU669	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-LC15C	LUAD-LC15C	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B00523	LUAD-B00523	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1219	LUAD-NYU1219	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B02594	LUAD-B02594	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-MAD06-00668	LUAD-CHTN-MAD06-00668	Primary	Lung	Lung adenocarcinoma, micropapillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LU-A08-43	LU-A08-43	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-AEIUF	LUAD-AEIUF	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01346	LUAD-S01346	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-5V8LT	LUAD-5V8LT	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01320	LUAD-S01320	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-5O6B5	LUAD-5O6B5	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-GU4I3	LUAD-GU4I3	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01856	LUAD-RT-S01856	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01832	LUAD-RT-S01832	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01852	LUAD-RT-S01852	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01866	LUAD-RT-S01866	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E01166	LUAD_E01166	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01831	LUAD-RT-S01831	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-VUMN6	LUAD-VUMN6	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01477	LUAD-RT-S01477	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01818	LUAD-RT-S01818	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E00443	LUAD-E00443	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01813	LUAD-RT-S01813	Primary	Lung	Lung adenocarcinoma, NOS	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-QY22Z	LUAD-QY22Z	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-2GUGK	LUAD-2GUGK	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01331	LUAD-S01331	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E01278	LUAD-E01278	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01345	LUAD-S01345	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU346	LUAD-NYU346	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU287	LUAD-NYU287	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1026	LUAD-NYU1026	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1096	LUAD-NYU1096	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-UF7HM	LUAD-UF7HM	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-QJN9L	LUAD-QJN9L	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B02477	LUAD-B02477	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-QCHM7	LUAD-QCHM7	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU315	LUAD-NYU315	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1021	LUAD-NYU1021	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01709	LUAD-RT-S01709	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-3090415	LUAD-CHTN-3090415	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B01145	LUAD-B01145	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E01147	LUAD_E01147	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D02085	LUAD-D02085	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B01970	LUAD-B01970	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00018	LUAD-F00018	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00089	LUAD-F00089	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B00859	LUAD-B00859	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-74TBW	LUAD-74TBW	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01774	LUAD-RT-S01774	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU847	LUAD-NYU847	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-3090346	LUAD-CHTN-3090346	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01699	LUAD-RT-S01699	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E00918	LUAD-E00918	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00282	LUAD-F00282	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00365	LUAD-F00365	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B00915	LUAD-B00915	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1051S	LUAD-NYU1051S	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E00897	LUAD-E00897	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01409	LUAD-S01409	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00162	LUAD-F00162	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU408	LUAD-NYU408	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00368	LUAD-F00368	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU284	LUAD-NYU284	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D01603	LUAD-D01603	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B00416	LUAD-B00416	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B01811	LUAD-B01811	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E00522	LUAD_E00522	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01357	LUAD-S01357	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-YINHD	LUAD-YINHD	Primary	Lung	Lung adenocarcinoma, solid predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E01317	LUAD-E01317	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU994	LUAD-NYU994	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU574S	LUAD-NYU574S	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU1177	LUAD-NYU1177	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU802	LUAD-NYU802	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU608	LUAD-NYU608	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-D00147	LUAD-D00147	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU1210	LUAD-NYU1210	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU584S	LUAD-NYU584S	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU508	LUAD-NYU508	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-NYU282	LUAD-NYU282	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-S01482	LUAD-S01482	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-B01169	LUAD-B01169	Primary	Lung	Lung adenocarcinoma, lepidic ( Bronchiolo alveolar adenocarcinoma NOS)  predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	82503	70357	Lung Adenocarcinoma
+LUAD-F00121	LUAD-F00121	Primary	Lung	Lung adenocarcinoma, mixed histology	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E01014	LUAD-E01014	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01404	LUAD-S01404	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01381	LUAD-S01381	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1128	LUAD-NYU1128	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1124	LUAD-NYU1124	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1093	LUAD-NYU1093	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01771	LUAD-RT-S01771	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01770	LUAD-RT-S01770	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1142	LUAD-NYU1142	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU947	LUAD-NYU947	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01808	LUAD-RT-S01808	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E01086	LUAD_E01086	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU330	LUAD-NYU330	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU627	LUAD-NYU627	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-TLLGS	LUAD-TLLGS	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-3090416	LUAD-CHTN-3090416	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01700	LUAD-RT-S01700	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU201	LUAD-NYU201	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU184	LUAD-NYU184	Primary	Lung	Lung adenocarcinoma, papillary predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D01278	LUAD-D01278	Primary	Lung	Lung adenocarcinoma, colloid adenocarcinoma	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-FH5PJ	LUAD-FH5PJ	Primary	Lung	Lung adenocarcinoma, invasive mucinous	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU1027	LUAD-NYU1027	Primary	Lung	Lung adenocarcinoma, invasive mucinous	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU213	LUAD-NYU213	Primary	Lung	Lung adenocarcinoma, invasive mucinous	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E01319	LUAD_E01319	Primary	Lung	Lung adenocarcinoma, invasive mucinous	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01354	LUAD-S01354	Primary	Lung	Lung adenocarcinoma, invasive mucinous	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-U6SJ7	LUAD-U6SJ7	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S00488	LUAD-S00488	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E00934	LUAD-E00934	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU605	LUAD-NYU605	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU129	LUAD-NYU129	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU735	LUAD-NYU735	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU846	LUAD-NYU846	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU689	LUAD-NYU689	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU796	LUAD-NYU796	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU848	LUAD-NYU848	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU252	LUAD-NYU252	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU803	LUAD-NYU803	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-E00163	LUAD-E00163	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B01102	LUAD-B01102	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU704	LUAD-NYU704	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E00945	LUAD_E00945	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01373	LUAD-S01373	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01362	LUAD-S01362	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E01419	LUAD_E01419	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S00499	LUAD-S00499	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00134	LUAD-F00134	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00170	LUAD-F00170	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-MAD04-00674	LUAD-CHTN-MAD04-00674	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01304	LUAD-S01304	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU696	LUAD-NYU696	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01487	LUAD-RT-S01487	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-MAD08-00104	LUAD-CHTN-MAD08-00104	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU575	LUAD-NYU575	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU195	LUAD-NYU195	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01703	LUAD-RT-S01703	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S00486	LUAD-S00486	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00057	LUAD-F00057	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D01751	LUAD-D01751	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-F00257	LUAD-F00257	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-YKER9	LUAD-YKER9	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B02515	LUAD-B02515	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S00484	LUAD-S00484	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-NYU259	LUAD-NYU259	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-D02185	LUAD-D02185	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-S01413	LUAD-S01413	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-B02216	LUAD-B02216	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-LIP77	LUAD-LIP77	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-RT-S01777	LUAD-RT-S01777	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E00565	LUAD_E00565	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD_E00623	LUAD_E00623	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma
+LUAD-CHTN-Z4716A	LUAD-CHTN-Z4716A	Primary	Lung	Lung adenocarcinoma, acinar predomint	Non-Small Cell Lung Cancer	Lung Adenocarcinoma	80463	70357	Lung Adenocarcinoma

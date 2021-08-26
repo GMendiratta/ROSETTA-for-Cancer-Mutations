@@ -1,0 +1,13 @@
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+AdCC5T	AdCC5T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC4T	AdCC4T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC2T	AdCC2T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC9T	AdCC9T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC8T	AdCC8T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC6T	AdCC6T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC32T	AdCC32T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC1T	AdCC1T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC12T	AdCC12T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC3T	AdCC3T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC11T	AdCC11T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma
+AdCC10T	AdCC10T	Invasive Breast Carcinoma	Adenoid Cystic Breast Cancer	Breast	Primary	70317	Breast Carcinoma

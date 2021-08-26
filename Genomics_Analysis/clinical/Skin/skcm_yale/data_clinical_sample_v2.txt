@@ -1,0 +1,104 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_CLASS	SAMPLE_TYPE	SITE	SEER_SITE	CODE	CATEGORY_NAME
+YUWISE	YUWISE	Tumor	Metastasis	anus	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUBOO	YUBOO	Tumor	Metastasis	choroid	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUGADID	YUGADID	Tumor	Metastasis	choroid	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUVAN	YUVAN	Tumor	Metastasis	choroid	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUVEDO	YUVEDO	Tumor	Primary	choroid	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUBRO	YUBRO	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUFOR	YUFOR	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUGASP	YUGASP	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUNELU	YUNELU	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUVIL	YUVIL	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUZINO	YUZINO	Tumor	Metastasis	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUESTA	YUESTA	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUFOLD	YUFOLD	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUGONZO	YUGONZO	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUHAY	YUHAY	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUJUMP	YUJUMP	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUMOOK	YUMOOK	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUPRO	YUPRO	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YURUS	YURUS	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUTEL	YUTEL	Tumor	Primary	extremity	Melanoma of the Skin	70107	Malignant melanoma
+YUSAG	YUSAG	Tumor	Metastasis	finger	Melanoma of the Skin	70107	Malignant melanoma
+YUHOOD	YUHOOD	Tumor	Metastasis	gingiva	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUBAN	YUBAN	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUBATIK	YUBATIK	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUBER	YUBER	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUBRA	YUBRA	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUEGO	YUEGO	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUFLA	YUFLA	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUGAL	YUGAL	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUGELU	YUGELU	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUKIL	YUKIL	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YULAN	YULAN	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YULVER	YULVER	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUMER	YUMER	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YURIDA	YURIDA	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUSAT	YUSAT	Tumor	Metastasis	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUAKER	YUAKER	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUBARON	YUBARON	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUBEM	YUBEM	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUCOMO	YUCOMO	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUDAB	YUDAB	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUPADI	YUPADI	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUPAL	YUPAL	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUPROST	YUPROST	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUPYKO	YUPYKO	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YURIMO	YURIMO	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUTOGS	YUTOGS	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUWAND	YUWAND	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUXALT	YUXALT	Tumor	Primary	head/neck	Melanoma of the Skin	70107	Malignant melanoma
+YUHIMO	YUHIMO	Tumor	Metastasis	heel	Melanoma of the Skin	70107	Malignant melanoma
+YUBOT	YUBOT	Tumor	Primary	heel	Melanoma of the Skin	70107	Malignant melanoma
+YUSOT	YUSOT	Tumor	Metastasis	nasal cavity	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUNOCA	YUNOCA	Tumor	Primary	nasal cavity	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUIRI	YUIRI	Tumor	Metastasis	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUPANG	YUPANG	Tumor	Metastasis	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUCRATE	YUCRATE	Tumor	Primary	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUMUDE	YUMUDE	Tumor	Primary	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUNEON	YUNEON	Tumor	Primary	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUNUVO	YUNUVO	Tumor	Primary	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUTRIP	YUTRIP	Tumor	Primary	sole	Melanoma of the Skin	70107	Malignant melanoma
+YUFISO	YUFISO	Tumor	Primary	subungual	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUSCH	YUSCH	Tumor	Metastasis	thumb	Melanoma of the Skin	70107	Malignant melanoma
+YUTRE	YUTRE	Tumor	Metastasis	thumb	Melanoma of the Skin	70107	Malignant melanoma
+YUWIC	YUWIC	Tumor	Primary	thumb	Melanoma of the Skin	70107	Malignant melanoma
+YUISKIA	YUISKIA	Tumor	Metastasis	toe	Melanoma of the Skin	70107	Malignant melanoma
+YURUB	YURUB	Tumor	Metastasis	toe	Melanoma of the Skin	70107	Malignant melanoma
+YUDARE	YUDARE	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUDEXA	YUDEXA	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUFAR	YUFAR	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUGISMO	YUGISMO	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUHUY	YUHUY	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUKRIN	YUKRIN	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUMAN	YUMAN	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUPAT	YUPAT	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUPER	YUPER	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUTALO	YUTALO	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUTOLL	YUTOLL	Tumor	Metastasis	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUCHIME	YUCHIME	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUCROFT	YUCROFT	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUGLAUD	YUGLAUD	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUKOS	YUKOS	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUMOYA	YUMOYA	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUNACK	YUNACK	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUSCO	YUSCO	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUTEPA	YUTEPA	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUVAIL	YUVAIL	Tumor	Primary	trunk	Melanoma of the Skin	70107	Malignant melanoma
+YUCIR	YUCIR	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUDIALE	YUDIALE	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUFARCI	YUFARCI	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUFUZZ	YUFUZZ	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUKAY	YUKAY	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUKLAB	YUKLAB	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUKNOLL	YUKNOLL	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YULLON	YULLON	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUPAF	YUPAF	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUPORCH	YUPORCH	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUROO	YUROO	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YURTHE	YURTHE	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUSEL	YUSEL	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUTAZI	YUTAZI	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUZEST	YUZEST	Tumor	Metastasis	unknown	unknown	70107	Malignant melanoma
+YUNICA	YUNICA	Tumor	Metastasis	vulva	Other Non-Epithelial Skin	70107	Malignant melanoma
+YUKERE	YUKERE	Tumor	Primary	vulva	Other Non-Epithelial Skin	70107	Malignant melanoma

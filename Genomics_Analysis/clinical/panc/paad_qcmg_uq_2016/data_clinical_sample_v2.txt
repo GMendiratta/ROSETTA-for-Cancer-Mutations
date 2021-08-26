@@ -1,0 +1,361 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	TUMOR_GRADE	CANCER_TYPE	CANCER_TYPE_DETAILED	HISTOLOGICAL_SUBTYPE	CODE	CATEGORY_NAME
+ICGC_0003	ICGC_0003	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0006	ICGC_0006	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0007	ICGC_0007	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0010	ICGC_0010	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0011	ICGC_0011	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0012	ICGC_0012	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0013	ICGC_0013	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0015	ICGC_0015	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0017	ICGC_0017	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0018	ICGC_0018	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0019	ICGC_0019	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0020	ICGC_0020	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0021	ICGC_0021	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0022	ICGC_0022	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0023	ICGC_0023	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0024	ICGC_0024	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0025	ICGC_0025	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0026	ICGC_0026	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0027	ICGC_0027	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0028	ICGC_0028	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0029	ICGC_0029	Pancreas	Metastatic tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0030	ICGC_0030	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0031	ICGC_0031	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0033	ICGC_0033	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0036	ICGC_0036	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0038	ICGC_0038	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0039	ICGC_0039	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0041	ICGC_0041	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0043	ICGC_0043	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0044	ICGC_0044	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0045	ICGC_0045	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0046	ICGC_0046	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0048	ICGC_0048	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0049	ICGC_0049	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0050	ICGC_0050	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0052	ICGC_0052	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0053	ICGC_0053	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0056	ICGC_0056	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0057	ICGC_0057	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0058	ICGC_0058	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0059	ICGC_0059	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0064	ICGC_0064	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0065	ICGC_0065	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0066	ICGC_0066	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0067	ICGC_0067	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0069	ICGC_0069	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0075	ICGC_0075	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0079	ICGC_0079	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0082	ICGC_0082	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0086	ICGC_0086	Pancreas	Metastatic tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0087	ICGC_0087	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0090	ICGC_0090	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0092	ICGC_0092	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0093	ICGC_0093	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0095	ICGC_0095	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0096	ICGC_0096	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0097	ICGC_0097	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0099	ICGC_0099	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0101	ICGC_0101	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0102	ICGC_0102	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0103	ICGC_0103	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0104	ICGC_0104	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0106	ICGC_0106	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0107	ICGC_0107	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0108	ICGC_0108	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0109	ICGC_0109	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0110	ICGC_0110	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0111	ICGC_0111	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0114	ICGC_0114	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0115	ICGC_0115	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0116	ICGC_0116	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0117	ICGC_0117	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0121	ICGC_0121	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0124	ICGC_0124	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0131	ICGC_0131	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0132	ICGC_0132	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0133	ICGC_0133	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0135	ICGC_0135	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0136	ICGC_0136	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0138	ICGC_0138	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0139	ICGC_0139	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0141	ICGC_0141	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0144	ICGC_0144	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0146	ICGC_0146	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0147	ICGC_0147	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0148	ICGC_0148	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0152	ICGC_0152	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0153	ICGC_0153	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0154	ICGC_0154	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0157	ICGC_0157	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0162	ICGC_0162	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0164	ICGC_0164	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0165	ICGC_0165	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0169	ICGC_0169	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0170	ICGC_0170	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0173	ICGC_0173	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0174	ICGC_0174	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0175	ICGC_0175	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0178	ICGC_0178	Pancreas	Primary tumour	4 - Undifferentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0180	ICGC_0180	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0182	ICGC_0182	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0185	ICGC_0185	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0187	ICGC_0187	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0188	ICGC_0188	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0190	ICGC_0190	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0191	ICGC_0191	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0192	ICGC_0192	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0194	ICGC_0194	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0195	ICGC_0195	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0197	ICGC_0197	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0199	ICGC_0199	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0201	ICGC_0201	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0202	ICGC_0202	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0203	ICGC_0203	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0205	ICGC_0205	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0206	ICGC_0206	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0207	ICGC_0207	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0208	ICGC_0208	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0209	ICGC_0209	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0210	ICGC_0210	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0212	ICGC_0212	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0214	ICGC_0214	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0215	ICGC_0215	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0216	ICGC_0216	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0217	ICGC_0217	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0223	ICGC_0223	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0225	ICGC_0225	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0226	ICGC_0226	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0227	ICGC_0227	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0228	ICGC_0228	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0229	ICGC_0229	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0230	ICGC_0230	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0234	ICGC_0234	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0236	ICGC_0236	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0239	ICGC_0239	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0241	ICGC_0241	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0242	ICGC_0242	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0243	ICGC_0243	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0244	ICGC_0244	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0245	ICGC_0245	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0247	ICGC_0247	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0251	ICGC_0251	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0252	ICGC_0252	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0253	ICGC_0253	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0254	ICGC_0254	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0255	ICGC_0255	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0256	ICGC_0256	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0257	ICGC_0257	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0258	ICGC_0258	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0259	ICGC_0259	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0260	ICGC_0260	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0263	ICGC_0263	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0264	ICGC_0264	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0265	ICGC_0265	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0266	ICGC_0266	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0267	ICGC_0267	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0269	ICGC_0269	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0270	ICGC_0270	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0271	ICGC_0271	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0273	ICGC_0273	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0274	ICGC_0274	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0275	ICGC_0275	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0276	ICGC_0276	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0277	ICGC_0277	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0278	ICGC_0278	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0279	ICGC_0279	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0280	ICGC_0280	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0282	ICGC_0282	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0283	ICGC_0283	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0288	ICGC_0288	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0289	ICGC_0289	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0290	ICGC_0290	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0292	ICGC_0292	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0294	ICGC_0294	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0295	ICGC_0295	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0296	ICGC_0296	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0300	ICGC_0300	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0301	ICGC_0301	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0302	ICGC_0302	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0304	ICGC_0304	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0305	ICGC_0305	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0307	ICGC_0307	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0308	ICGC_0308	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0310	ICGC_0310	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0311	ICGC_0311	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0312	ICGC_0312	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0314	ICGC_0314	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0315	ICGC_0315	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0316	ICGC_0316	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0317	ICGC_0317	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0318	ICGC_0318	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0320	ICGC_0320	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0321	ICGC_0321	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0322	ICGC_0322	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0323	ICGC_0323	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0324	ICGC_0324	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0326	ICGC_0326	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0336	ICGC_0336	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0337	ICGC_0337	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0339	ICGC_0339	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0340	ICGC_0340	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0341	ICGC_0341	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0342	ICGC_0342	Pancreas	Metastatic tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0345	ICGC_0345	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0346	ICGC_0346	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0347	ICGC_0347	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0349	ICGC_0349	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0352	ICGC_0352	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0354	ICGC_0354	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0358	ICGC_0358	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0361	ICGC_0361	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0362	ICGC_0362	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0363	ICGC_0363	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0364	ICGC_0364	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0365	ICGC_0365	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0366	ICGC_0366	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0367	ICGC_0367	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0368	ICGC_0368	Pancreas	Primary tumour	4 - Undifferentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0369	ICGC_0369	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0371	ICGC_0371	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0372	ICGC_0372	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0373	ICGC_0373	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0374	ICGC_0374	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0375	ICGC_0375	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0376	ICGC_0376	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0377	ICGC_0377	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0378	ICGC_0378	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0380	ICGC_0380	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0381	ICGC_0381	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0382	ICGC_0382	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0384	ICGC_0384	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0385	ICGC_0385	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0386	ICGC_0386	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0387	ICGC_0387	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0388	ICGC_0388	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0389	ICGC_0389	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0392	ICGC_0392	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0394	ICGC_0394	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0396	ICGC_0396	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0398	ICGC_0398	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0399	ICGC_0399	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0401	ICGC_0401	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0402	ICGC_0402	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0403	ICGC_0403	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0405	ICGC_0405	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0406	ICGC_0406	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0407	ICGC_0407	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0408	ICGC_0408	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0411	ICGC_0411	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0412	ICGC_0412	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0414	ICGC_0414	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0415	ICGC_0415	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0417	ICGC_0417	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0418	ICGC_0418	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0420	ICGC_0420	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0422	ICGC_0422	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0423	ICGC_0423	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0462	ICGC_0462	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0464	ICGC_0464	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0465	ICGC_0465	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0467	ICGC_0467	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0468	ICGC_0468	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0469	ICGC_0469	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0470	ICGC_0470	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0472	ICGC_0472	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0474	ICGC_0474	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0476	ICGC_0476	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0478	ICGC_0478	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0479	ICGC_0479	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0480	ICGC_0480	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0481	ICGC_0481	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0482	ICGC_0482	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0483	ICGC_0483	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0485	ICGC_0485	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0486	ICGC_0486	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0488	ICGC_0488	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0493	ICGC_0493	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0503	ICGC_0503	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0504	ICGC_0504	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0505	ICGC_0505	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0507	ICGC_0507	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0508	ICGC_0508	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0509	ICGC_0509	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0510	ICGC_0510	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0511	ICGC_0511	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0512	ICGC_0512	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0518	ICGC_0518	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0520	ICGC_0520	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0521	ICGC_0521	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0522	ICGC_0522	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0523	ICGC_0523	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0524	ICGC_0524	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0526	ICGC_0526	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0527	ICGC_0527	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0528	ICGC_0528	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0529	ICGC_0529	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0530	ICGC_0530	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0531	ICGC_0531	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0535	ICGC_0535	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0536	ICGC_0536	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0542	ICGC_0542	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PACA-2440-T	PACA-2440-T	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PACA-44-T	PACA-44-T	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PACA-55-T	PACA-55-T	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PACA-59-T	PACA-59-T	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0001	PCSI0001	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0002	PCSI0002	Pancreas	Primary tumour	4 - Undifferentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0007	PCSI0007	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0010	PCSI0010	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0018	PCSI0018	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0019	PCSI0019	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0022	PCSI0022	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0023	PCSI0023	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0024	PCSI0024	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0044	PCSI0044	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0046	PCSI0046	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0047	PCSI0047	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0048	PCSI0048	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0072	PCSI0072	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+PCSI0073	PCSI0073	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Pancreatic Ductal Adenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0351	ICGC_0351	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mixed ductal endocrine carcinoma	70117	PNET
+ICGC_0055	ICGC_0055	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDAC-Clear Cell	70387	Pancreatic Carcinoma
+ICGC_0240	ICGC_0240	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDAC-Clear Cell	70387	Pancreatic Carcinoma
+ICGC_0360	ICGC_0360	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDAC-Clear Cell	70387	Pancreatic Carcinoma
+ICGC_0179	ICGC_0179	Pancreas	Primary tumour	1 - Well differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Mucinous Cystadenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0499	ICGC_0499	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Mucinous Cystadenocarcinoma	70387	Pancreatic Carcinoma
+PACA-73-T	PACA-73-T	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	Mucinous Cystadenocarcinoma	70387	Pancreatic Carcinoma
+ICGC_0071	ICGC_0071	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mucinous Non-cystic carcinoma	70387	Pancreatic Carcinoma
+ICGC_0088	ICGC_0088	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mucinous Non-cystic carcinoma	70387	Pancreatic Carcinoma
+ICGC_0238	ICGC_0238	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mucinous Non-cystic carcinoma	70387	Pancreatic Carcinoma
+ICGC_0246	ICGC_0246	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mucinous Non-cystic carcinoma	70387	Pancreatic Carcinoma
+ICGC_0286	ICGC_0286	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA - Mucinous Non-cystic carcinoma	70387	Pancreatic Carcinoma
+ICGC_0143	ICGC_0143	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	PDA -  signet ring	70387	Pancreatic Carcinoma
+ICGC_0002	ICGC_0002	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0004	ICGC_0004	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0035	ICGC_0035	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0047	ICGC_0047	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0060	ICGC_0060	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0063	ICGC_0063	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0105	ICGC_0105	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0123	ICGC_0123	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0125	ICGC_0125	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0140	ICGC_0140	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0149	ICGC_0149	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0150	ICGC_0150	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0224	ICGC_0224	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0235	ICGC_0235	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0303	ICGC_0303	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0309	ICGC_0309	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0343	ICGC_0343	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0370	ICGC_0370	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0383	ICGC_0383	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0395	ICGC_0395	Pancreas	Primary tumour		Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0404	ICGC_0404	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0416	ICGC_0416	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0419	ICGC_0419	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0502	ICGC_0502	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0513	ICGC_0513	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Intraductal Papillary Mucinous Neoplasm with invasion	70387	Pancreatic Carcinoma
+ICGC_0338	ICGC_0338	Pancreas	Primary tumour	2 - Moderately differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Acinar Cell Carcinoma	70397	Acinar Cell Carcinoma of the Pancreas
+ICGC_0391	ICGC_0391	Pancreas	Primary tumour	3 - Poorly differentiated	Pancreatic Cancer	Pancreatic Adenocarcinoma	Acinar Cell Carcinoma	70397	Acinar Cell Carcinoma of the Pancreas

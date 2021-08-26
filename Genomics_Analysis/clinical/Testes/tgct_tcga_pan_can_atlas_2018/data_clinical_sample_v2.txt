@@ -1,0 +1,129 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	TUMOR_TISSUE_SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-2G-AAEW	TCGA-2G-AAEW-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAEX	TCGA-2G-AAEX-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAF1	TCGA-2G-AAF1-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAF4	TCGA-2G-AAF4-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAF6	TCGA-2G-AAF6-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAF8	TCGA-2G-AAF8-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAFG	TCGA-2G-AAFG-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAFH	TCGA-2G-AAFH-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAG9	TCGA-2G-AAG9-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAH0	TCGA-2G-AAH0-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAH3	TCGA-2G-AAH3-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAH8	TCGA-2G-AAH8-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHA	TCGA-2G-AAHA-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHC	TCGA-2G-AAHC-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHG	TCGA-2G-AAHG-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHL	TCGA-2G-AAHL-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHN	TCGA-2G-AAHN-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHP	TCGA-2G-AAHP-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAHT	TCGA-2G-AAHT-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2X-A9D5	TCGA-2X-A9D5-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2X-A9D6	TCGA-2X-A9D6-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-4K-AA1G	TCGA-4K-AA1G-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-4K-AA1H	TCGA-4K-AA1H-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-4K-AA1I	TCGA-4K-AA1I-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-4K-AAAL	TCGA-4K-AAAL-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-S6-A8JW	TCGA-S6-A8JW-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-S6-A8JX	TCGA-S6-A8JX-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-S6-A8JY	TCGA-S6-A8JY-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-SB-A6J6	TCGA-SB-A6J6-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-SB-A76C	TCGA-SB-A76C-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-SO-A8JP	TCGA-SO-A8JP-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-VF-A8A9	TCGA-VF-A8A9-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-VF-A8AA	TCGA-VF-A8AA-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-VF-A8AB	TCGA-VF-A8AB-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-VF-A8AC	TCGA-VF-A8AC-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-VF-A8AE	TCGA-VF-A8AE-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-WZ-A7V3	TCGA-WZ-A7V3-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-WZ-A7V4	TCGA-WZ-A7V4-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-WZ-A7V5	TCGA-WZ-A7V5-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-WZ-A8D5	TCGA-WZ-A8D5-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-A8H4	TCGA-XE-A8H4-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-A8H5	TCGA-XE-A8H5-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-A9SE	TCGA-XE-A9SE-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AANJ	TCGA-XE-AANJ-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AANR	TCGA-XE-AANR-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AANV	TCGA-XE-AANV-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AAO3	TCGA-XE-AAO3-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AAO4	TCGA-XE-AAO4-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AAO6	TCGA-XE-AAO6-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AAOF	TCGA-XE-AAOF-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XE-AAOL	TCGA-XE-AAOL-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XY-A89B	TCGA-XY-A89B-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-XY-A9T9	TCGA-XY-A9T9-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-YU-A90Q	TCGA-YU-A90Q-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-YU-A90S	TCGA-YU-A90S-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-YU-A90W	TCGA-YU-A90W-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-YU-A912	TCGA-YU-A912-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA05	TCGA-ZM-AA05-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA06	TCGA-ZM-AA06-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0B	TCGA-ZM-AA0B-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0D	TCGA-ZM-AA0D-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0E	TCGA-ZM-AA0E-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0F	TCGA-ZM-AA0F-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0H	TCGA-ZM-AA0H-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-ZM-AA0N	TCGA-ZM-AA0N-01	C62.9	Seminoma	Seminoma	Seminoma (NOS)	Testes	Primary	70017	Seminoma
+TCGA-2G-AAFI	TCGA-2G-AAFI-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAFL	TCGA-2G-AAFL-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAFM	TCGA-2G-AAFM-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAFN	TCGA-2G-AAFN-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAFO	TCGA-2G-AAFO-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAFY	TCGA-2G-AAFY-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAG8	TCGA-2G-AAG8-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAGA	TCGA-2G-AAGA-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAGE	TCGA-2G-AAGE-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAGN	TCGA-2G-AAGN-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAGO	TCGA-2G-AAGO-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAGZ	TCGA-2G-AAGZ-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90703	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AAKD	TCGA-2G-AAKD-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAKG	TCGA-2G-AAKG-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAKH	TCGA-2G-AAKH-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Seminoma (NOS)	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Seminoma (NOS)
+TCGA-2G-AAKL	TCGA-2G-AAKL-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAL7	TCGA-2G-AAL7-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-SN-A84Y	TCGA-SN-A84Y-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-VF-A8A8	TCGA-VF-A8A8-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)
+TCGA-VF-A8AD	TCGA-VF-A8AD-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-W4-A7U4	TCGA-W4-A7U4-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-XE-A8H1	TCGA-XE-A8H1-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-XY-A8S2	TCGA-XY-A8S2-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	NA|Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	NA|Non-Seminoma, Embryonal Carcinoma
+TCGA-XY-A8S3	TCGA-XY-A8S3-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-YU-A90P	TCGA-YU-A90P-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-YU-A90Y	TCGA-YU-A90Y-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-YU-AA4L	TCGA-YU-AA4L-01	C62.9	Non-Seminomatous Germ Cell Tumor	Embryonal Carcinoma	Non-Seminoma, Embryonal Carcinoma	Testes	Primary	90703	Non-Seminoma, Embryonal Carcinoma
+TCGA-2G-AAFV	TCGA-2G-AAFV-01	C62.9	Non-Seminomatous Germ Cell Tumor	Yolk Sac Tumor	Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90713	Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGM	TCGA-2G-AAGM-01	C62.9	Non-Seminomatous Germ Cell Tumor	Yolk Sac Tumor	Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90713	Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGW	TCGA-2G-AAGW-01	C62.9	Non-Seminomatous Germ Cell Tumor	Yolk Sac Tumor	Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90713	Non-Seminoma, Yolk Sac Tumor
+TCGA-YU-A94I	TCGA-YU-A94I-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90713	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAFJ	TCGA-2G-AAFJ-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90803	Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-XE-AAOC	TCGA-XE-AAOC-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90803	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-YU-A94D	TCGA-YU-A94D-01	C62.9	Non-Seminomatous Germ Cell Tumor	Teratoma	Non-Seminoma, Teratoma (Immature)	Testes	Primary	90803	Non-Seminoma, Teratoma (Immature)
+TCGA-XE-AANI	TCGA-XE-AANI-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90813	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-XE-AAOB	TCGA-XE-AAOB-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90813	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAFZ	TCGA-2G-AAFZ-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAG0	TCGA-2G-AAG0-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAG3	TCGA-2G-AAG3-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AAG7	TCGA-2G-AAG7-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGC	TCGA-2G-AAGC-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGF	TCGA-2G-AAGF-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGG	TCGA-2G-AAGG-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGI	TCGA-2G-AAGI-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AAGJ	TCGA-2G-AAGJ-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Seminoma (NOS)
+TCGA-2G-AAGK	TCGA-2G-AAGK-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGP	TCGA-2G-AAGP-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGS	TCGA-2G-AAGS-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAGT	TCGA-2G-AAGT-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAH2	TCGA-2G-AAH2-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AAH4	TCGA-2G-AAH4-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AAKM	TCGA-2G-AAKM-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-2G-AAL5	TCGA-2G-AAL5-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-2G-AALP	TCGA-2G-AALP-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-SN-A6IS	TCGA-SN-A6IS-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Mature)|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Teratoma (Mature)|Seminoma (NOS)
+TCGA-SN-A84W	TCGA-SN-A84W-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-SN-A84X	TCGA-SN-A84X-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-W4-A7U2	TCGA-W4-A7U2-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Mature)|Seminoma (NOS)
+TCGA-W4-A7U3	TCGA-W4-A7U3-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Choriocarcinoma|Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor
+TCGA-X3-A8G4	TCGA-X3-A8G4-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-XE-AAOD	TCGA-XE-AAOD-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Choriocarcinoma|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Choriocarcinoma|Seminoma (NOS)
+TCGA-XE-AAOJ	TCGA-XE-AAOJ-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)	Testes	Primary	90853	Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Teratoma (Mature)|Non-Seminoma, Yolk Sac Tumor|Seminoma (NOS)
+TCGA-YU-AA61	TCGA-YU-AA61-01	C62.9	Non-Seminomatous Germ Cell Tumor	Mixed Germ Cell Tumor	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor	Testes	Primary	90853	Non-Seminoma, Embryonal Carcinoma|Non-Seminoma, Teratoma (Immature)|Non-Seminoma, Yolk Sac Tumor

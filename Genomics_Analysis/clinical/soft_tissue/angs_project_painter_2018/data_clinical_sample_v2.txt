@@ -1,0 +1,49 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SAMPLE_TIMEPOINT	CANCER_TYPE	CANCER_TYPE_DETAILED	BX_LOCATION	BX_TYPE	CODE	CATEGORY_NAME
+Angio-ASCProject_EAuOu4uD	Angio-ASCProject_EAuOu4uD-Tumor-SM-DADQD	Primary	ASCProject_EAuOu4uD_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_RvtOtjtj	Angio-ASCProject_RvtOtjtj-Tumor-SM-DACL5	Primary	ASCProject_RvtOtjtj_T3	Soft Tissue Sarcoma	Angiosarcoma	BACK	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_RvtOtjtj	Angio-ASCProject_RvtOtjtj-Tumor-SM-DACOW	Primary	ASCProject_RvtOtjtj_T2	Soft Tissue Sarcoma	Angiosarcoma	BACK	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_zQtVt5tr	Angio-ASCProject_zQtVt5tr-Tumor-SM-DADUR	Primary	ASCProject_zQtVt5tr_T2	Soft Tissue Sarcoma	Angiosarcoma	OVARY	BILATERAL SALPINGO-OOPHORECTOMY	91203	Angiosarcoma
+Angio-ASCProject_zQtVt5tr	Angio-ASCProject_zQtVt5tr-Tumor-SM-E76O4	Primary	ASCProject_zQtVt5tr_BLOOD	Soft Tissue Sarcoma	Angiosarcoma	BLOOD BIOPSY	BLOOD BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_03IpIBIR	Angio-ASCProject_03IpIBIR-Tumor-SM-DAE1F	Primary	ASCProject_03IpIBIR_T1	Soft Tissue Sarcoma	Angiosarcoma	BLADDER WALL	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_xdigi2t7	Angio-ASCProject_xdigi2t7-Tumor-SM-DADLY	Primary	ASCProject_xdigi2t7_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_bRSGSlCG	Angio-ASCProject_bRSGSlCG-Tumor-SM-DACJV	Primary	ASCProject_bRSGSlCG_T2	Soft Tissue Sarcoma	Angiosarcoma	LUNG	PNEUMONECTOMY	91203	Angiosarcoma
+Angio-ASCProject_nvfdfZCz	Angio-ASCProject_nvfdfZCz-Tumor-SM-DADGX	Primary	ASCProject_nvfdfZCz_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_Y4SjSnIg	Angio-ASCProject_Y4SjSnIg-Tumor-SM-DADSQ	Primary	ASCProject_Y4SjSnIg_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_bJi9iyCb	Angio-ASCProject_bJi9iyCb-Tumor-SM-DAE73	Primary	ASCProject_bJi9iyCb_T1	Soft Tissue Sarcoma	Angiosarcoma	SCALP	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_3NflfGHo	Angio-ASCProject_3NflfGHo-Tumor-SM-DADBW	Primary	ASCProject_3NflfGHo_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_EdCVC0um	Angio-ASCProject_EdCVC0um-Tumor-SM-DADA1	Primary	ASCProject_EdCVC0um_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_QYsAsrTO	Angio-ASCProject_QYsAsrTO-Tumor-SM-DACQ6	Primary	ASCProject_QYsAsrTO_T2	Soft Tissue Sarcoma	Angiosarcoma	PECTORALIS MINOR	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_QYsAsrTO	Angio-ASCProject_QYsAsrTO-Tumor-SM-DAE3X	Primary	ASCProject_QYsAsrTO_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_XbieiohK	Angio-ASCProject_XbieiohK-Tumor-SM-DADIT	Primary	ASCProject_XbieiohK_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_oQi7i3U5	Angio-ASCProject_oQi7i3U5-Tumor-SM-DADHK	Primary	ASCProject_oQi7i3U5_T2	Soft Tissue Sarcoma	Angiosarcoma	SCALP	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_YzTlTytj	Angio-ASCProject_YzTlTytj-Tumor-SM-DAD69	Primary	ASCProject_YzTlTytj_T1	Soft Tissue Sarcoma	Angiosarcoma	FOREHEAD	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_YzTlTytj	Angio-ASCProject_YzTlTytj-Tumor-SM-DADML	Primary	ASCProject_YzTlTytj_T2	Soft Tissue Sarcoma	Angiosarcoma	LUNG	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_5NsKslTb	Angio-ASCProject_5NsKslTb-Tumor-SM-DACSO	Primary	ASCProject_5NsKslTb_T1	Soft Tissue Sarcoma	Angiosarcoma	ABDOMEN	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_5DFyF0HA	Angio-ASCProject_5DFyF0HA-Tumor-SM-DAD34	Primary	ASCProject_5DFyF0HA_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	LUMPECTOMY	91203	Angiosarcoma
+Angio-ASCProject_5Ph4hetv	Angio-ASCProject_5Ph4hetv-Tumor-SM-DAE5T	Primary	ASCProject_5Ph4hetv_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_GXTMTxU7	Angio-ASCProject_GXTMTxU7-Tumor-SM-DACLR	Primary	ASCProject_GXTMTxU7_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_7bt2t8IJ	Angio-ASCProject_7bt2t8IJ-Tumor-SM-DACTX	Primary	ASCProject_7bt2t8IJ_T3	Soft Tissue Sarcoma	Angiosarcoma	NECK	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_7bt2t8IJ	Angio-ASCProject_7bt2t8IJ-Tumor-SM-DAD18	Primary	ASCProject_7bt2t8IJ_T2	Soft Tissue Sarcoma	Angiosarcoma	NECK	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_7bt2t8IJ	Angio-ASCProject_7bt2t8IJ-Tumor-SM-DADQZ	Primary	ASCProject_7bt2t8IJ_T4	Soft Tissue Sarcoma	Angiosarcoma	CHIN,NECK	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_NdUxUwCM	Angio-ASCProject_NdUxUwCM-Tumor-SM-DAE57	Primary	ASCProject_NdUxUwCM_T1	Soft Tissue Sarcoma	Angiosarcoma	BROW	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_blh1uyhK	Angio-ASCProject_blh1uyhK-Tumor-SM-DACPJ	Primary	ASCProject_blh1uyhK_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_blh1uyhK	Angio-ASCProject_blh1uyhK-Tumor-SM-DADU5	Primary	ASCProject_blh1uyhK_T2	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_ZXi6FXFo	Angio-ASCProject_ZXi6FXFo-Tumor-SM-DADXW	Primary	ASCProject_ZXi6FXFo_T1	Soft Tissue Sarcoma	Angiosarcoma	FACE	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_JkivIBSV	Angio-ASCProject_JkivIBSV-Tumor-SM-DACIM	Primary	ASCProject_JkivIBSV_T1	Soft Tissue Sarcoma	Angiosarcoma	SCALP	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_JkivIBSV	Angio-ASCProject_JkivIBSV-Tumor-SM-DAE6G	Primary	ASCProject_JkivIBSV_T2	Soft Tissue Sarcoma	Angiosarcoma	FOREHEAD	PUNCH BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_YzTxcouV	Angio-ASCProject_YzTxcouV-Tumor-SM-DAD9E	Primary	ASCProject_YzTxcouV_T2	Soft Tissue Sarcoma	Angiosarcoma	BREAST	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_KxFGsofW	Angio-ASCProject_KxFGsofW-Tumor-SM-DAD4D	Primary	ASCProject_KxFGsofW_T2	Soft Tissue Sarcoma	Angiosarcoma	SCALP	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_dyhLT8sG	Angio-ASCProject_dyhLT8sG-Tumor-SM-DACWG	Primary	ASCProject_dyhLT8sG_T1	Soft Tissue Sarcoma	Angiosarcoma	MANDIBULAR NODE	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_kJFaIXcN	Angio-ASCProject_kJFaIXcN-Tumor-SM-DADTI	Primary	ASCProject_kJFaIXcN_T3	Soft Tissue Sarcoma	Angiosarcoma	CHEST WALL	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_kJFaIXcN	Angio-ASCProject_kJFaIXcN-Tumor-SM-DAE4K	Primary	ASCProject_kJFaIXcN_T2	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_XjHAU9uR	Angio-ASCProject_XjHAU9uR-Tumor-SM-DADEF	Primary	ASCProject_XjHAU9uR_T2	Soft Tissue Sarcoma	Angiosarcoma	RIGHT ATRIUM	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_eVIAsEIy	Angio-ASCProject_eVIAsEIy-Tumor-SM-DADLC	Primary	ASCProject_eVIAsEIy_T2	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_YLCRINC8	Angio-ASCProject_YLCRINC8-Tumor-SM-DACNN	Primary	ASCProject_YLCRINC8_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_lYIMuWu5	Angio-ASCProject_lYIMuWu5-Tumor-SM-DACJ9	Primary	ASCProject_lYIMuWu5_T3	Soft Tissue Sarcoma	Angiosarcoma	FACE	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_loC8UQUk	Angio-ASCProject_loC8UQUk-Tumor-SM-DACX3	Primary	ASCProject_loC8UQUk_T2	Soft Tissue Sarcoma	Angiosarcoma	BREAST	MASTECTOMY	91203	Angiosarcoma
+Angio-ASCProject_loC8UQUk	Angio-ASCProject_loC8UQUk-Tumor-SM-DADBA	Primary	ASCProject_loC8UQUk_T1	Soft Tissue Sarcoma	Angiosarcoma	BREAST	BIOPSY	91203	Angiosarcoma
+Angio-ASCProject_09iyC6Cp	Angio-ASCProject_09iyC6Cp-Tumor-SM-DACME	Primary	ASCProject_09iyC6Cp_T2	Soft Tissue Sarcoma	Angiosarcoma	FACE	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_mpUNibFx	Angio-ASCProject_mpUNibFx-Tumor-SM-DAD3Q	Primary	ASCProject_mpUNibFx_T1	Soft Tissue Sarcoma	Angiosarcoma	SPLEEN	SPLENECTOMY	91203	Angiosarcoma
+Angio-ASCProject_aPskieIL	Angio-ASCProject_aPskieIL-Tumor-SM-DACOA	Primary	ASCProject_aPskieIL_T2	Soft Tissue Sarcoma	Angiosarcoma	CHEST WALL	EXCISION	91203	Angiosarcoma
+Angio-ASCProject_aPskieIL	Angio-ASCProject_aPskieIL-Tumor-SM-DACTB	Primary	ASCProject_aPskieIL_T3	Soft Tissue Sarcoma	Angiosarcoma	CHEST WALL	RESECTION	91203	Angiosarcoma
+Angio-ASCProject_aPskieIL	Angio-ASCProject_aPskieIL-Tumor-SM-DAD5M	Primary	ASCProject_aPskieIL_T1	Soft Tissue Sarcoma	Angiosarcoma	CHEST WALL	EXCISION	91203	Angiosarcoma

@@ -1,0 +1,49 @@
+Recode	Recode_Name	Location	Codes
+70137	Lung Small Cell Carcinoma	Lung & Bronchus	80413-80453
+70507	Ovarian Small Cell Carcinoma	Ovary	80413-80453
+80503-85893	list	All	80103-80463
+70207	Head Neck Squamous Cell Carcinoma	Oral Cavity & Pharynx,Larynx	80503-80843
+70217	Esophageal Squamous Cell Carcinoma	Esophagus,Stomach	80503-80843
+70227	Cervical Squamous Cell Carcinoma	Uterine Cervix	80503-80843
+70237	Lung Squamous Cell Carcinoma	Lung & Bronchus	80503-80843
+70247	Vulval Squamous Cell Carcinoma	Vagina & Other Genital,Vulva	80503-80843
+70257	Other Squamous Cell Carcinoma	All	80503-80843
+70167	Urothelial Cancer	Urinary Bladder,Kidney & Renal Pelvis,Ureter & Other	81203-81313
+70177	Transitional Carcinoma – Other	All	81203-81313
+70117	Pancreatic Neuroendocrine Tumor	Pancreas	81503,81513,81523,81533,81543,81553,81563,82403,82463
+70267	Salivary Adenoid Cystic Carcinoma	Oral Cavity & Pharynx	82003
+70397	Acinar Cell Carcinoma of the Pancreas	Pancreas	85503
+70187	Hepatocellular Carcinoma	Liver & Intrahepatic Bile Duct	81403-85799;81603,83173,83703
+70197	Thyroid Carcinoma	Thyroid	81403-85799;81603,83173,83703
+70277	Renal Cell Carcinoma	Kidney & Renal Pelvis	81403-85799;81603,83173,83703
+70287	Ovarian Cancer	Ovary	81403-85799;81603,83173,83703
+70297	Endometrial Cancer	Uterine Corpus	81403-85799;81603,83173,83703
+70307	Cervical Carcinoma	Uterine Cervix	81403-85799;81603,83173,83703
+70317	Breast Carcinoma	Breast	81403-85799;81603,83173,83703
+70327	Prostate Cancer	Prostate	81403-85799;81603,83173,83703
+70337	Esophageal Adenocarcinoma	Esophagus	81403-85799;81603,83173,83703
+70347	Gastric Adenocarcinoma	Stomach	81403-85799;81603,83173,83703
+70357	Lung Adenocarcinoma	Lung & Bronchus	81403-85799;81603,83173,83703
+70367	Colorectal Adenocarcinoma	Colon,Rectum	81403-85799;81603,83173,83703
+70377	Gallbladder Cancer	Gall & Other Biliary	81403-85799;81603,83173,83703
+70387	Pancreatic Adenocarcinoma	Pancreas	81403-85799;81603,83173,83703
+70407	Other Adenocarcinoma	All	81403-85799;81603,83173,83703
+70157	Carcinoma of the Thymus	All	85803,85813,85823,85833,85843,85853,85863,85883,85893
+70047	Paraganglioma	All	86803,86833,86903,86933,87003,87103
+70097	Uveal Melanoma	Eye & Orbit	87200-87999;87443
+70107	Malignant Melanoma	All	87200-87999;87443
+70027	Sarcoma	All	88000-88099
+70607	Fibromatous Neoplasms	All	88100-88399
+70617	Myxomatous neoplasms	All	88400-88499
+70627	Lipomatous neoplasms	All	88500-88899
+70037	Rhabdomyosarcoma	All	89003,89013,89023,89103,89123,89203,89213
+70637	Myomatous neoplasms	All	88900-89299;89003,89013,89023,89103,89123,89203,89213
+89503	Uterine Carcinosarcoma	Uterine Cervix,Uterine Corpus,Ovary,Vagina & Other Genital	89513,89803
+70517	Synovial Sarcoma	All	90403,90413,90423,90433,90443
+70067	Mesothelioma	All	90503,90513,90523,90533,90553
+70017	Seminoma	All	90613,90623,90633
+70087	Astrocytoma	All	94000-94013
+70057	Oligodendroma	All	94500-94513
+70077	Medulloblastoma	All	94703,94713,94743
+70547	Follicular lymphoma	All	96903,96913,96953,96983
+70537	B lymphoblastic leukemia or lymphoma	All	98113,98123,98133,98143,98153,98163,98173,98183

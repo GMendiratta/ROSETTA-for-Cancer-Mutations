@@ -1,0 +1,136 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+DLBCL-DFCI_DLBCL_Goe05	DLBCL-DFCI_DLBCL_Goe05	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-DFCI_DLBCL_Goe08	DLBCL-DFCI_DLBCL_Goe08	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-DFCI_DLBCL_Goe16	DLBCL-DFCI_DLBCL_Goe16	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-DFCI_DLBCL_Goe17	DLBCL-DFCI_DLBCL_Goe17	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS1098	DLBCL-LS1098	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS1395	DLBCL-LS1395	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS148	DLBCL-LS148	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS1668	DLBCL-LS1668	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS1757	DLBCL-LS1757	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS2264	DLBCL-LS2264	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS2305	DLBCL-LS2305	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS2325	DLBCL-LS2325	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS2357	DLBCL-LS2357	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS2595	DLBCL-LS2595	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS3615	DLBCL-LS3615	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS378	DLBCL-LS378	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS3808	DLBCL-LS3808	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS4222	DLBCL-LS4222	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS4394	DLBCL-LS4394	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS4593	DLBCL-LS4593	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS762	DLBCL-LS762	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS843	DLBCL-LS843	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-MAYO_DLBCL_7359	DLBCL-MAYO_DLBCL_7359	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_102	DLBCL-RICOVER_102	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_107	DLBCL-RICOVER_107	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_1199	DLBCL-RICOVER_1199	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_1235	DLBCL-RICOVER_1235	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_1237	DLBCL-RICOVER_1237	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_1263	DLBCL-RICOVER_1263	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_151	DLBCL-RICOVER_151	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_181	DLBCL-RICOVER_181	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_224	DLBCL-RICOVER_224	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_314	DLBCL-RICOVER_314	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_325	DLBCL-RICOVER_325	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_336	DLBCL-RICOVER_336	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_401	DLBCL-RICOVER_401	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_449	DLBCL-RICOVER_449	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_543	DLBCL-RICOVER_543	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_839	DLBCL-RICOVER_839	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-RICOVER_950	DLBCL-RICOVER_950	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse Large B-Cell Lymphoma, NOS
+DLBCL-LS1065	DLBCL-LS1065	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS1304	DLBCL-LS1304	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS1546	DLBCL-LS1546	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS1583	DLBCL-LS1583	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS1683	DLBCL-LS1683	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2089	DLBCL-LS2089	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2154	DLBCL-LS2154	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2208	DLBCL-LS2208	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2258	DLBCL-LS2258	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2590	DLBCL-LS2590	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2596	DLBCL-LS2596	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2848	DLBCL-LS2848	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS2978	DLBCL-LS2978	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS3085	DLBCL-LS3085	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS3200	DLBCL-LS3200	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS3219	DLBCL-LS3219	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS3271	DLBCL-LS3271	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS3809	DLBCL-LS3809	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS4054	DLBCL-LS4054	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS4085	DLBCL-LS4085	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS4323	DLBCL-LS4323	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS88	DLBCL-LS88	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-MAYO_DLBCL_5613	DLBCL-MAYO_DLBCL_5613	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1032	DLBCL-RICOVER_1032	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1060	DLBCL-RICOVER_1060	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1106	DLBCL-RICOVER_1106	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1150	DLBCL-RICOVER_1150	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1169	DLBCL-RICOVER_1169	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1190	DLBCL-RICOVER_1190	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_1219	DLBCL-RICOVER_1219	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_134	DLBCL-RICOVER_134	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_173	DLBCL-RICOVER_173	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_174	DLBCL-RICOVER_174	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_215	DLBCL-RICOVER_215	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_266	DLBCL-RICOVER_266	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_274	DLBCL-RICOVER_274	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_288	DLBCL-RICOVER_288	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_417	DLBCL-RICOVER_417	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_467	DLBCL-RICOVER_467	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_473	DLBCL-RICOVER_473	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_506	DLBCL-RICOVER_506	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_597	DLBCL-RICOVER_597	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_704	DLBCL-RICOVER_704	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_712	DLBCL-RICOVER_712	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_720	DLBCL-RICOVER_720	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_763	DLBCL-RICOVER_763	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_773	DLBCL-RICOVER_773	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_910	DLBCL-RICOVER_910	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_977	DLBCL-RICOVER_977	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-RICOVER_99	DLBCL-RICOVER_99	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Activated B-cell Type
+DLBCL-LS146	DLBCL-LS146	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS155	DLBCL-LS155	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS1620	DLBCL-LS1620	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS1899	DLBCL-LS1899	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS1921	DLBCL-LS1921	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS2245	DLBCL-LS2245	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS2328	DLBCL-LS2328	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS2367	DLBCL-LS2367	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS2599	DLBCL-LS2599	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS297	DLBCL-LS297	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3204	DLBCL-LS3204	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3245	DLBCL-LS3245	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3309	DLBCL-LS3309	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3387	DLBCL-LS3387	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3499	DLBCL-LS3499	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3749	DLBCL-LS3749	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3820	DLBCL-LS3820	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS3866	DLBCL-LS3866	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS4592	DLBCL-LS4592	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS4616	DLBCL-LS4616	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS4618	DLBCL-LS4618	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS4619	DLBCL-LS4619	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-LS951	DLBCL-LS951	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-MAYO_DLBCL_234	DLBCL-MAYO_DLBCL_234	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-MAYO_DLBCL_3653	DLBCL-MAYO_DLBCL_3653	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_1013	DLBCL-RICOVER_1013	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_1081	DLBCL-RICOVER_1081	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_126	DLBCL-RICOVER_126	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_1269	DLBCL-RICOVER_1269	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_148	DLBCL-RICOVER_148	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_197	DLBCL-RICOVER_197	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_253	DLBCL-RICOVER_253	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_267	DLBCL-RICOVER_267	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_269	DLBCL-RICOVER_269	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_299	DLBCL-RICOVER_299	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_320	DLBCL-RICOVER_320	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_338	DLBCL-RICOVER_338	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_361	DLBCL-RICOVER_361	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_384	DLBCL-RICOVER_384	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_496	DLBCL-RICOVER_496	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_522	DLBCL-RICOVER_522	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_533	DLBCL-RICOVER_533	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_623	DLBCL-RICOVER_623	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_685	DLBCL-RICOVER_685	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type
+DLBCL-RICOVER_711	DLBCL-RICOVER_711	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Germinal Center B-Cell Type

@@ -1,0 +1,115 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	SITE	CODE	CATEGORY_NAME
+WCMC159	WCMC159_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Adrenal	70327	Prostate Cancer
+WCMC10364	WCMC10364_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Bladder	70327	Prostate Cancer
+WCMC1	WCMC1_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC3	WCMC3_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC4	WCMC4_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC9	WCMC9_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC80	WCMC80_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC90	WCMC90_5_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC91	WCMC91_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC124	WCMC124_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC131	WCMC131_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC139	WCMC139_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC158	WCMC158_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC159	WCMC159_6_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC160	WCMC160_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC161	WCMC161_3_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC162	WCMC162_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC164	WCMC164_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC170	WCMC170_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC172	WCMC172_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC216	WCMC216_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC218	WCMC218_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC243	WCMC243_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC261	WCMC261_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Bone	70327	Prostate Cancer
+WCMC154	WCMC154_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Bone	70327	Prostate Cancer
+WCMC18248	WCMC18248_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Brain	70327	Prostate Cancer
+WCMC18248	WCMC18248_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Brain	70327	Prostate Cancer
+WCMC12	WCMC12_2_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Brain	70327	Prostate Cancer
+WCMC185	WCMC185_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Epidural	70327	Prostate Cancer
+WCMC7	WCMC7_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC59	WCMC59_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC90	WCMC90_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC90	WCMC90_3_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC183	WCMC183_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC199	WCMC199_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC213	WCMC213_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC221	WCMC221_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Liver	70327	Prostate Cancer
+WCMC79	WCMC79_2_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC155	WCMC155_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC161	WCMC161_2_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC163	WCMC163_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC207	WCMC207_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC252	WCMC252_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC0	WCMC0_5_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC0	WCMC0_6_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Liver	70327	Prostate Cancer
+WCMC159	WCMC159_3_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lung	70327	Prostate Cancer
+WCMC162	WCMC162_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lung	70327	Prostate Cancer
+WCMC4240	WCMC4240_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lung	70327	Prostate Cancer
+WCMC2	WCMC2_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC6	WCMC6_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC78	WCMC78_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC89	WCMC89_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC89	WCMC89_4_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC90	WCMC90_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC90	WCMC90_4_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC119	WCMC119_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC121	WCMC121_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC159	WCMC159_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC159	WCMC159_5_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC161	WCMC161_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC189	WCMC189_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC201	WCMC201_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC258	WCMC258_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC11040	WCMC11040_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC11040	WCMC11040_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC20870	WCMC20870_2_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Lymph node	70327	Prostate Cancer
+WCMC10	WCMC10_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC15	WCMC15_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC198	WCMC198_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC210	WCMC210_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC0	WCMC0_9_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC0	WCMC0_10_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC7520	WCMC7520_2_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Lymph node	70327	Prostate Cancer
+WCMC0	WCMC0_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Pelvic mass	70327	Prostate Cancer
+WCMC0	WCMC0_8_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Pelvic mass	70327	Prostate Cancer
+WCMC7520	WCMC7520_3_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Pelvic mass	70327	Prostate Cancer
+WCMC7520	WCMC7520_4_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Pelvic mass	70327	Prostate Cancer
+WCMC9	WCMC9_2_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC11	WCMC11_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC14	WCMC14_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC63	WCMC63_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC73	WCMC73_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC89	WCMC89_2_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC89	WCMC89_3_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC169	WCMC169_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC187	WCMC187_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC195	WCMC195_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC10362	WCMC10362_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC10362	WCMC10362_2_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC21016	WCMC21016_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC21016	WCMC21016_2_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC10680	WCMC10680_1_C	Primary	Prostate Cancer	Castration-Resistant Prostate Cancer	Prostate	70327	Prostate Cancer
+WCMC12	WCMC12_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC79	WCMC79_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC156	WCMC156_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC192	WCMC192_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC0	WCMC0_7_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC21014	WCMC21014_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC21014	WCMC21014_2_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC21010	WCMC21010_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC12688	WCMC12688_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC7951	WCMC7951_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC24290	WCMC24290_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC21017	WCMC21017_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC24854	WCMC24854_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC12728	WCMC12728_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC12728	WCMC12728_2_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC26731	WCMC26731_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC26731	WCMC26731_2_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC10363	WCMC10363_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC7520	WCMC7520_1_N	Primary	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Prostate	70327	Prostate Cancer
+WCMC10361	WCMC10361_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Retroperitoneal mass	70327	Prostate Cancer
+WCMC188	WCMC188_1_C	Metastasis	Prostate Cancer	Castration-Resistant Prostate Cancer	Skull base	70327	Prostate Cancer
+WCMC212	WCMC212_1_N	Metastasis	Prostate Cancer	Prostate Neuroendocrine Carcinoma	Soft tissue	70327	Prostate Cancer

@@ -1,0 +1,97 @@
+PATIENT_ID	SAMPLE_ID	SITE	SAMPLE_TYPE	TUMOR_LOCATION	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+ICGC_PA3	ICGC_PA3	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA4	ICGC_PA4	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA5	ICGC_PA5	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA8	ICGC_PA8	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA9	ICGC_PA9	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA10	ICGC_PA10	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA11	ICGC_PA11	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA12	ICGC_PA12	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA14	ICGC_PA14	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA17	ICGC_PA17	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA20	ICGC_PA20	Brain	Primary	Thalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA21	ICGC_PA21	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA22	ICGC_PA22	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA24	ICGC_PA24	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA25	ICGC_PA25	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA27	ICGC_PA27	Brain	Primary	Optic nerve	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA28	ICGC_PA28	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA29	ICGC_PA29	Brain	Primary	Hypothalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA30	ICGC_PA30	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA33	ICGC_PA33	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA34	ICGC_PA34	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA36	ICGC_PA36	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA37	ICGC_PA37	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA39	ICGC_PA39	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA41	ICGC_PA41	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA42	ICGC_PA42	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA43	ICGC_PA43	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA46	ICGC_PA46	Brain	Primary	Thalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA48	ICGC_PA48	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA50	ICGC_PA50	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA53	ICGC_PA53	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA55	ICGC_PA55	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA56	ICGC_PA56	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA58	ICGC_PA58	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA59	ICGC_PA59	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA62	ICGC_PA62	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA63	ICGC_PA63	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA64	ICGC_PA64	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA65	ICGC_PA65	Brain	Primary	Thalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA69	ICGC_PA69	Brain	Primary	Thalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA70	ICGC_PA70	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA71	ICGC_PA71	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA73	ICGC_PA73	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA75	ICGC_PA75	Brain	Primary	Thalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA79	ICGC_PA79	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA81	ICGC_PA81	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA82	ICGC_PA82	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA83	ICGC_PA83	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA84	ICGC_PA84	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA85	ICGC_PA85	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA86	ICGC_PA86	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA87	ICGC_PA87	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA88	ICGC_PA88	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA89	ICGC_PA89	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA91	ICGC_PA91	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA92	ICGC_PA92	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA93	ICGC_PA93	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA94	ICGC_PA94	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA95	ICGC_PA95	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA96	ICGC_PA96	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA97	ICGC_PA97	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA99	ICGC_PA99	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA100	ICGC_PA100	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA102	ICGC_PA102	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA103	ICGC_PA103	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA105	ICGC_PA105	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA107	ICGC_PA107	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA108	ICGC_PA108	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA109	ICGC_PA109	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA110	ICGC_PA110	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA112	ICGC_PA112	Brain	Primary	Parietal Lobe	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA116	ICGC_PA116	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA117	ICGC_PA117	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA126	ICGC_PA126	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA129	ICGC_PA129	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA131	ICGC_PA131	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA134	ICGC_PA134	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA135	ICGC_PA135	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA136	ICGC_PA136	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA138	ICGC_PA138	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA140	ICGC_PA140	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA142	ICGC_PA142	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA143	ICGC_PA143	Brain	Primary	4th ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA144	ICGC_PA144	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA145	ICGC_PA145	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA147	ICGC_PA147	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA148	ICGC_PA148	Brain	Primary	3rd ventricle	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA150	ICGC_PA150	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA157	ICGC_PA157	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA158	ICGC_PA158	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA159	ICGC_PA159	Brain	Primary	Optic chiasm	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA161	ICGC_PA161	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA162	ICGC_PA162	Brain	Primary	Cerebellum	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA163	ICGC_PA163	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA165	ICGC_PA165	Brain	Primary	Brainstem	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma
+ICGC_PA166	ICGC_PA166	Brain	Primary	Hypothalamus	Glioma	Pilocytic Astrocytoma	94213	Pilocytic Astrocytoma

@@ -1,0 +1,1048 @@
+PATIENT_ID	SAMPLE_ID	SITE	HISTOLOGICAL_DIAGNOSIS	GRADE	CANCER_TYPE_DETAILED	CANCER_TYPE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-CS-4938	TCGA-CS-4938	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-4941	TCGA-CS-4941	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-4942	TCGA-CS-4942	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-4943	TCGA-CS-4943	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-4944	TCGA-CS-4944	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-5393	TCGA-CS-5393	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-5394	TCGA-CS-5394	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-5397	TCGA-CS-5397	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-6188	TCGA-CS-6188	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-6290	TCGA-CS-6290	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-6665	TCGA-CS-6665	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-6666	TCGA-CS-6666	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-CS-6667	TCGA-CS-6667	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-5273	TCGA-DB-5273	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-5277	TCGA-DB-5277	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A4XB	TCGA-DB-A4XB	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A4XD	TCGA-DB-A4XD	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A4XF	TCGA-DB-A4XF	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A64X	TCGA-DB-A64X	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A75L	TCGA-DB-A75L	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A75M	TCGA-DB-A75M	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A75O	TCGA-DB-A75O	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DB-A75P	TCGA-DB-A75P	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-5142	TCGA-DH-5142	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-A66B	TCGA-DH-A66B	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-A66D	TCGA-DH-A66D	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-A7UT	TCGA-DH-A7UT	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-A7UU	TCGA-DH-A7UU	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DH-A7UV	TCGA-DH-A7UV	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-5847	TCGA-DU-5847	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-5854	TCGA-DU-5854	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-6392	TCGA-DU-6392	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-6402	TCGA-DU-6402	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-6405	TCGA-DU-6405	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7006	TCGA-DU-7006	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7007	TCGA-DU-7007	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7010	TCGA-DU-7010	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7012	TCGA-DU-7012	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7013	TCGA-DU-7013	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7290	TCGA-DU-7290	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7292	TCGA-DU-7292	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7298	TCGA-DU-7298	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-7299	TCGA-DU-7299	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-8158	TCGA-DU-8158	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A5TP	TCGA-DU-A5TP	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A5TU	TCGA-DU-A5TU	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A5TW	TCGA-DU-A5TW	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A5TY	TCGA-DU-A5TY	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A6S7	TCGA-DU-A6S7	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A76O	TCGA-DU-A76O	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A7TC	TCGA-DU-A7TC	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-DU-A7TJ	TCGA-DU-A7TJ	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-5302	TCGA-E1-5302	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-5303	TCGA-E1-5303	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-5304	TCGA-E1-5304	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-5305	TCGA-E1-5305	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-5307	TCGA-E1-5307	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-E1-A7Z6	TCGA-E1-A7Z6	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-F6-A8O4	TCGA-F6-A8O4	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-5963	TCGA-FG-5963	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-6688	TCGA-FG-6688	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-6689	TCGA-FG-6689	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-6691	TCGA-FG-6691	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-7636	TCGA-FG-7636	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-8185	TCGA-FG-8185	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-A4MX	TCGA-FG-A4MX	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-A60L	TCGA-FG-A60L	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-A6J3	TCGA-FG-A6J3	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-A87N	TCGA-FG-A87N	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-FG-A87Q	TCGA-FG-A87Q	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7476	TCGA-HT-7476	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7477	TCGA-HT-7477	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7478	TCGA-HT-7478	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7479	TCGA-HT-7479	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7485	TCGA-HT-7485	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7601	TCGA-HT-7601	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7604	TCGA-HT-7604	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7606	TCGA-HT-7606	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7607	TCGA-HT-7607	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7680	TCGA-HT-7680	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7686	TCGA-HT-7686	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7691	TCGA-HT-7691	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7854	TCGA-HT-7854	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7855	TCGA-HT-7855	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7857	TCGA-HT-7857	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7858	TCGA-HT-7858	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7860	TCGA-HT-7860	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-7884	TCGA-HT-7884	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8011	TCGA-HT-8011	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8015	TCGA-HT-8015	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8104	TCGA-HT-8104	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8106	TCGA-HT-8106	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8110	TCGA-HT-8110	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8563	TCGA-HT-8563	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-8564	TCGA-HT-8564	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A4DS	TCGA-HT-A4DS	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A5R7	TCGA-HT-A5R7	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A5RA	TCGA-HT-A5RA	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A5RB	TCGA-HT-A5RB	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A5RC	TCGA-HT-A5RC	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A616	TCGA-HT-A616	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A618	TCGA-HT-A618	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A74H	TCGA-HT-A74H	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HT-A74O	TCGA-HT-A74O	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-7490	TCGA-HW-7490	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-7493	TCGA-HW-7493	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-8319	TCGA-HW-8319	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-8320	TCGA-HW-8320	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-8321	TCGA-HW-8321	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-A5KK	TCGA-HW-A5KK	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-A5KL	TCGA-HW-A5KL	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-HW-A5KM	TCGA-HW-A5KM	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-KT-A7W1	TCGA-KT-A7W1	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5EU	TCGA-P5-A5EU	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5EV	TCGA-P5-A5EV	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5EW	TCGA-P5-A5EW	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5EY	TCGA-P5-A5EY	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5EZ	TCGA-P5-A5EZ	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5F1	TCGA-P5-A5F1	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A5F2	TCGA-P5-A5F2	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A72W	TCGA-P5-A72W	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A72X	TCGA-P5-A72X	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-P5-A733	TCGA-P5-A733	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-QH-A6CS	TCGA-QH-A6CS	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-QH-A6CX	TCGA-QH-A6CX	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-QH-A6XC	TCGA-QH-A6XC	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6TS	TCGA-S9-A6TS	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6TU	TCGA-S9-A6TU	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6TZ	TCGA-S9-A6TZ	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U0	TCGA-S9-A6U0	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U1	TCGA-S9-A6U1	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U5	TCGA-S9-A6U5	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U6	TCGA-S9-A6U6	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U8	TCGA-S9-A6U8	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6U9	TCGA-S9-A6U9	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6UA	TCGA-S9-A6UA	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6WG	TCGA-S9-A6WG	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6WL	TCGA-S9-A6WL	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6WM	TCGA-S9-A6WM	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6WN	TCGA-S9-A6WN	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A6WO	TCGA-S9-A6WO	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7IS	TCGA-S9-A7IS	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7IX	TCGA-S9-A7IX	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7IZ	TCGA-S9-A7IZ	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7QW	TCGA-S9-A7QW	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7QX	TCGA-S9-A7QX	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7R2	TCGA-S9-A7R2	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7R3	TCGA-S9-A7R3	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7R4	TCGA-S9-A7R4	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7R7	TCGA-S9-A7R7	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A7R8	TCGA-S9-A7R8	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A89V	TCGA-S9-A89V	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-S9-A89Z	TCGA-S9-A89Z	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A7C3	TCGA-TM-A7C3	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A7C4	TCGA-TM-A7C4	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A7CA	TCGA-TM-A7CA	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A7CF	TCGA-TM-A7CF	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A84B	TCGA-TM-A84B	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A84C	TCGA-TM-A84C	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A84F	TCGA-TM-A84F	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A84I	TCGA-TM-A84I	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-TM-A84Q	TCGA-TM-A84Q	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-VM-A8C9	TCGA-VM-A8C9	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-VM-A8CD	TCGA-VM-A8CD	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-VM-A8CH	TCGA-VM-A8CH	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-VV-A86M	TCGA-VV-A86M	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-VW-A8FI	TCGA-VW-A8FI	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-WH-A86K	TCGA-WH-A86K	Brain	astrocytoma	G2	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-WY-A858	TCGA-WY-A858	Brain	astrocytoma	G3	Diffuse Glioma	Glioma	Primary	70087	Astrocytoma
+TCGA-02-0001	TCGA-02-0001	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0003	TCGA-02-0003	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0004	TCGA-02-0004	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0006	TCGA-02-0006	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0007	TCGA-02-0007	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0009	TCGA-02-0009	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0010	TCGA-02-0010	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0011	TCGA-02-0011	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0014	TCGA-02-0014	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0015	TCGA-02-0015	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0016	TCGA-02-0016	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0021	TCGA-02-0021	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0023	TCGA-02-0023	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0024	TCGA-02-0024	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0025	TCGA-02-0025	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0026	TCGA-02-0026	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0027	TCGA-02-0027	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0028	TCGA-02-0028	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0033	TCGA-02-0033	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0034	TCGA-02-0034	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0037	TCGA-02-0037	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0038	TCGA-02-0038	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0039	TCGA-02-0039	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0043	TCGA-02-0043	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0046	TCGA-02-0046	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0047	TCGA-02-0047	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0048	TCGA-02-0048	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0051	TCGA-02-0051	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0052	TCGA-02-0052	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0054	TCGA-02-0054	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0055	TCGA-02-0055	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0057	TCGA-02-0057	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0058	TCGA-02-0058	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0059	TCGA-02-0059	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0060	TCGA-02-0060	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0064	TCGA-02-0064	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0068	TCGA-02-0068	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0069	TCGA-02-0069	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0070	TCGA-02-0070	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0071	TCGA-02-0071	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0074	TCGA-02-0074	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0075	TCGA-02-0075	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0079	TCGA-02-0079	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0080	TCGA-02-0080	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0083	TCGA-02-0083	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0084	TCGA-02-0084	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0085	TCGA-02-0085	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0086	TCGA-02-0086	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0087	TCGA-02-0087	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0089	TCGA-02-0089	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0099	TCGA-02-0099	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0102	TCGA-02-0102	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0104	TCGA-02-0104	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0106	TCGA-02-0106	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0107	TCGA-02-0107	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0111	TCGA-02-0111	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0113	TCGA-02-0113	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0114	TCGA-02-0114	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0115	TCGA-02-0115	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0116	TCGA-02-0116	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0258	TCGA-02-0258	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0260	TCGA-02-0260	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0266	TCGA-02-0266	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0269	TCGA-02-0269	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0271	TCGA-02-0271	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0281	TCGA-02-0281	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0285	TCGA-02-0285	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0289	TCGA-02-0289	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0290	TCGA-02-0290	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0317	TCGA-02-0317	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0321	TCGA-02-0321	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0324	TCGA-02-0324	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0325	TCGA-02-0325	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0326	TCGA-02-0326	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0330	TCGA-02-0330	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0332	TCGA-02-0332	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0333	TCGA-02-0333	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0337	TCGA-02-0337	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0338	TCGA-02-0338	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0339	TCGA-02-0339	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0422	TCGA-02-0422	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0430	TCGA-02-0430	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0432	TCGA-02-0432	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0439	TCGA-02-0439	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0440	TCGA-02-0440	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0446	TCGA-02-0446	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0451	TCGA-02-0451	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-0456	TCGA-02-0456	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-2466	TCGA-02-2466	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-2470	TCGA-02-2470	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-2483	TCGA-02-2483	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-2485	TCGA-02-2485	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-02-2486	TCGA-02-2486	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0119	TCGA-06-0119	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0122	TCGA-06-0122	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0124	TCGA-06-0124	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0125	TCGA-06-0125	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0126	TCGA-06-0126	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0127	TCGA-06-0127	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0128	TCGA-06-0128	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0129	TCGA-06-0129	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0130	TCGA-06-0130	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0132	TCGA-06-0132	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0133	TCGA-06-0133	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0137	TCGA-06-0137	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0138	TCGA-06-0138	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0139	TCGA-06-0139	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0140	TCGA-06-0140	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0141	TCGA-06-0141	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0142	TCGA-06-0142	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0143	TCGA-06-0143	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0145	TCGA-06-0145	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0146	TCGA-06-0146	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0147	TCGA-06-0147	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0148	TCGA-06-0148	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0149	TCGA-06-0149	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0150	TCGA-06-0150	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0151	TCGA-06-0151	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0152	TCGA-06-0152	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0154	TCGA-06-0154	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0155	TCGA-06-0155	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0156	TCGA-06-0156	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0157	TCGA-06-0157	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0158	TCGA-06-0158	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0159	TCGA-06-0159	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0160	TCGA-06-0160	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0162	TCGA-06-0162	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0164	TCGA-06-0164	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0165	TCGA-06-0165	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0166	TCGA-06-0166	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0167	TCGA-06-0167	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0168	TCGA-06-0168	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0169	TCGA-06-0169	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0171	TCGA-06-0171	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0173	TCGA-06-0173	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0174	TCGA-06-0174	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0175	TCGA-06-0175	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0176	TCGA-06-0176	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0177	TCGA-06-0177	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0178	TCGA-06-0178	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0179	TCGA-06-0179	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0182	TCGA-06-0182	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0184	TCGA-06-0184	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0185	TCGA-06-0185	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0187	TCGA-06-0187	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0188	TCGA-06-0188	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0189	TCGA-06-0189	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0190	TCGA-06-0190	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0192	TCGA-06-0192	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0194	TCGA-06-0194	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0195	TCGA-06-0195	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0197	TCGA-06-0197	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0201	TCGA-06-0201	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0206	TCGA-06-0206	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0208	TCGA-06-0208	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0209	TCGA-06-0209	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0210	TCGA-06-0210	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0211	TCGA-06-0211	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0213	TCGA-06-0213	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0214	TCGA-06-0214	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0216	TCGA-06-0216	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0219	TCGA-06-0219	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0221	TCGA-06-0221	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0237	TCGA-06-0237	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0238	TCGA-06-0238	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0240	TCGA-06-0240	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0241	TCGA-06-0241	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0394	TCGA-06-0394	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0397	TCGA-06-0397	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0402	TCGA-06-0402	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0409	TCGA-06-0409	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0410	TCGA-06-0410	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0412	TCGA-06-0412	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0413	TCGA-06-0413	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0414	TCGA-06-0414	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0644	TCGA-06-0644	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0645	TCGA-06-0645	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0646	TCGA-06-0646	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0648	TCGA-06-0648	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0649	TCGA-06-0649	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0650	TCGA-06-0650	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0686	TCGA-06-0686	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0743	TCGA-06-0743	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0744	TCGA-06-0744	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0745	TCGA-06-0745	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0747	TCGA-06-0747	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0749	TCGA-06-0749	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0750	TCGA-06-0750	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0875	TCGA-06-0875	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0876	TCGA-06-0876	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0877	TCGA-06-0877	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0878	TCGA-06-0878	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0879	TCGA-06-0879	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0881	TCGA-06-0881	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0882	TCGA-06-0882	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-0939	TCGA-06-0939	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1084	TCGA-06-1084	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1086	TCGA-06-1086	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1087	TCGA-06-1087	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1800	TCGA-06-1800	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1801	TCGA-06-1801	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1802	TCGA-06-1802	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1804	TCGA-06-1804	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1805	TCGA-06-1805	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-1806	TCGA-06-1806	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2557	TCGA-06-2557	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2558	TCGA-06-2558	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2559	TCGA-06-2559	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2561	TCGA-06-2561	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2562	TCGA-06-2562	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2563	TCGA-06-2563	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2564	TCGA-06-2564	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2565	TCGA-06-2565	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2566	TCGA-06-2566	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2567	TCGA-06-2567	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2569	TCGA-06-2569	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-2570	TCGA-06-2570	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5408	TCGA-06-5408	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5410	TCGA-06-5410	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5411	TCGA-06-5411	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5412	TCGA-06-5412	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5413	TCGA-06-5413	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5414	TCGA-06-5414	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5415	TCGA-06-5415	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5416	TCGA-06-5416	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5417	TCGA-06-5417	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5418	TCGA-06-5418	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5856	TCGA-06-5856	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5858	TCGA-06-5858	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-5859	TCGA-06-5859	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6388	TCGA-06-6388	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6389	TCGA-06-6389	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6390	TCGA-06-6390	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6391	TCGA-06-6391	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6693	TCGA-06-6693	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6694	TCGA-06-6694	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6695	TCGA-06-6695	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6697	TCGA-06-6697	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6698	TCGA-06-6698	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6699	TCGA-06-6699	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6700	TCGA-06-6700	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-6701	TCGA-06-6701	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-A5U0	TCGA-06-A5U0	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-A5U1	TCGA-06-A5U1	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-A6S0	TCGA-06-A6S0	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-A6S1	TCGA-06-A6S1	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-06-A7TK	TCGA-06-A7TK	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0244	TCGA-08-0244	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0245	TCGA-08-0245	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0246	TCGA-08-0246	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0344	TCGA-08-0344	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0345	TCGA-08-0345	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0346	TCGA-08-0346	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0347	TCGA-08-0347	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0348	TCGA-08-0348	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0349	TCGA-08-0349	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0350	TCGA-08-0350	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0351	TCGA-08-0351	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0352	TCGA-08-0352	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0353	TCGA-08-0353	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0354	TCGA-08-0354	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0355	TCGA-08-0355	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0356	TCGA-08-0356	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0357	TCGA-08-0357	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0358	TCGA-08-0358	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0359	TCGA-08-0359	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0360	TCGA-08-0360	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0373	TCGA-08-0373	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0375	TCGA-08-0375	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0380	TCGA-08-0380	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0385	TCGA-08-0385	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0386	TCGA-08-0386	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0389	TCGA-08-0389	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0390	TCGA-08-0390	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0392	TCGA-08-0392	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0509	TCGA-08-0509	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0510	TCGA-08-0510	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0511	TCGA-08-0511	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0512	TCGA-08-0512	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0514	TCGA-08-0514	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0516	TCGA-08-0516	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0517	TCGA-08-0517	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0518	TCGA-08-0518	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0520	TCGA-08-0520	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0521	TCGA-08-0521	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0522	TCGA-08-0522	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0524	TCGA-08-0524	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0525	TCGA-08-0525	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0529	TCGA-08-0529	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-08-0531	TCGA-08-0531	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0615	TCGA-12-0615	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0616	TCGA-12-0616	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0618	TCGA-12-0618	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0619	TCGA-12-0619	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0620	TCGA-12-0620	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0654	TCGA-12-0654	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0656	TCGA-12-0656	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0657	TCGA-12-0657	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0662	TCGA-12-0662	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0670	TCGA-12-0670	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0688	TCGA-12-0688	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0691	TCGA-12-0691	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0692	TCGA-12-0692	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0703	TCGA-12-0703	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0707	TCGA-12-0707	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0769	TCGA-12-0769	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0772	TCGA-12-0772	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0773	TCGA-12-0773	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0775	TCGA-12-0775	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0776	TCGA-12-0776	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0778	TCGA-12-0778	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0780	TCGA-12-0780	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0818	TCGA-12-0818	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0819	TCGA-12-0819	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0820	TCGA-12-0820	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0821	TCGA-12-0821	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0822	TCGA-12-0822	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0826	TCGA-12-0826	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0827	TCGA-12-0827	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0828	TCGA-12-0828	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-0829	TCGA-12-0829	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1088	TCGA-12-1088	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1089	TCGA-12-1089	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1090	TCGA-12-1090	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1091	TCGA-12-1091	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1092	TCGA-12-1092	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1093	TCGA-12-1093	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1094	TCGA-12-1094	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1095	TCGA-12-1095	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1096	TCGA-12-1096	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1097	TCGA-12-1097	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1098	TCGA-12-1098	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1099	TCGA-12-1099	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1597	TCGA-12-1597	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1598	TCGA-12-1598	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1599	TCGA-12-1599	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1600	TCGA-12-1600	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-1602	TCGA-12-1602	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3644	TCGA-12-3644	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3646	TCGA-12-3646	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3648	TCGA-12-3648	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3649	TCGA-12-3649	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3650	TCGA-12-3650	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3651	TCGA-12-3651	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3652	TCGA-12-3652	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-3653	TCGA-12-3653	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-5295	TCGA-12-5295	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-5299	TCGA-12-5299	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-12-5301	TCGA-12-5301	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0736	TCGA-14-0736	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0740	TCGA-14-0740	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0781	TCGA-14-0781	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0783	TCGA-14-0783	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0786	TCGA-14-0786	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0787	TCGA-14-0787	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0789	TCGA-14-0789	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0790	TCGA-14-0790	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0812	TCGA-14-0812	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0813	TCGA-14-0813	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0817	TCGA-14-0817	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0862	TCGA-14-0862	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0865	TCGA-14-0865	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0866	TCGA-14-0866	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0867	TCGA-14-0867	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-0871	TCGA-14-0871	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1034	TCGA-14-1034	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1037	TCGA-14-1037	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1043	TCGA-14-1043	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1395	TCGA-14-1395	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1396	TCGA-14-1396	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1401	TCGA-14-1401	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1402	TCGA-14-1402	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1450	TCGA-14-1450	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1451	TCGA-14-1451	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1452	TCGA-14-1452	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1453	TCGA-14-1453	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1454	TCGA-14-1454	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1455	TCGA-14-1455	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1456	TCGA-14-1456	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1458	TCGA-14-1458	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1459	TCGA-14-1459	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1794	TCGA-14-1794	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1795	TCGA-14-1795	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1821	TCGA-14-1821	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1823	TCGA-14-1823	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1825	TCGA-14-1825	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1827	TCGA-14-1827	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-1829	TCGA-14-1829	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-2554	TCGA-14-2554	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-2555	TCGA-14-2555	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-3476	TCGA-14-3476	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-3477	TCGA-14-3477	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-14-4157	TCGA-14-4157	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-15-0742	TCGA-15-0742	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-15-1444	TCGA-15-1444	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-15-1446	TCGA-15-1446	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-15-1447	TCGA-15-1447	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-15-1449	TCGA-15-1449	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-0846	TCGA-16-0846	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-0848	TCGA-16-0848	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-0849	TCGA-16-0849	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-0850	TCGA-16-0850	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-0861	TCGA-16-0861	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1045	TCGA-16-1045	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1047	TCGA-16-1047	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1055	TCGA-16-1055	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1056	TCGA-16-1056	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1060	TCGA-16-1060	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1062	TCGA-16-1062	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1063	TCGA-16-1063	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-16-1460	TCGA-16-1460	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0955	TCGA-19-0955	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0957	TCGA-19-0957	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0960	TCGA-19-0960	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0962	TCGA-19-0962	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0963	TCGA-19-0963	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-0964	TCGA-19-0964	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1385	TCGA-19-1385	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1386	TCGA-19-1386	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1387	TCGA-19-1387	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1388	TCGA-19-1388	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1389	TCGA-19-1389	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1390	TCGA-19-1390	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1392	TCGA-19-1392	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1786	TCGA-19-1786	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1787	TCGA-19-1787	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1788	TCGA-19-1788	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1789	TCGA-19-1789	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1790	TCGA-19-1790	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-1791	TCGA-19-1791	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2619	TCGA-19-2619	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2620	TCGA-19-2620	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2621	TCGA-19-2621	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2623	TCGA-19-2623	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2624	TCGA-19-2624	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2625	TCGA-19-2625	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2629	TCGA-19-2629	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-2631	TCGA-19-2631	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-4065	TCGA-19-4065	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-4068	TCGA-19-4068	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5947	TCGA-19-5947	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5950	TCGA-19-5950	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5951	TCGA-19-5951	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5952	TCGA-19-5952	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5953	TCGA-19-5953	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5954	TCGA-19-5954	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5955	TCGA-19-5955	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5956	TCGA-19-5956	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5958	TCGA-19-5958	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5959	TCGA-19-5959	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-5960	TCGA-19-5960	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-A60I	TCGA-19-A60I	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-A6J4	TCGA-19-A6J4	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-19-A6J5	TCGA-19-A6J5	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1438	TCGA-26-1438	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1439	TCGA-26-1439	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1440	TCGA-26-1440	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1442	TCGA-26-1442	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1443	TCGA-26-1443	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-1799	TCGA-26-1799	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5132	TCGA-26-5132	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5133	TCGA-26-5133	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5134	TCGA-26-5134	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5135	TCGA-26-5135	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5136	TCGA-26-5136	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-5139	TCGA-26-5139	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-6173	TCGA-26-6173	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-6174	TCGA-26-6174	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-26-A7UX	TCGA-26-A7UX	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1830	TCGA-27-1830	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1831	TCGA-27-1831	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1832	TCGA-27-1832	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1833	TCGA-27-1833	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1834	TCGA-27-1834	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1835	TCGA-27-1835	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1836	TCGA-27-1836	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1837	TCGA-27-1837	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-1838	TCGA-27-1838	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2518	TCGA-27-2518	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2519	TCGA-27-2519	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2521	TCGA-27-2521	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2523	TCGA-27-2523	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2524	TCGA-27-2524	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2526	TCGA-27-2526	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2527	TCGA-27-2527	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-27-2528	TCGA-27-2528	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1745	TCGA-28-1745	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1746	TCGA-28-1746	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1747	TCGA-28-1747	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1749	TCGA-28-1749	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1750	TCGA-28-1750	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1751	TCGA-28-1751	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1752	TCGA-28-1752	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1753	TCGA-28-1753	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1755	TCGA-28-1755	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1756	TCGA-28-1756	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1757	TCGA-28-1757	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-1760	TCGA-28-1760	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2499	TCGA-28-2499	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2502	TCGA-28-2502	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2506	TCGA-28-2506	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2509	TCGA-28-2509	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2512	TCGA-28-2512	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2513	TCGA-28-2513	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-2514	TCGA-28-2514	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5204	TCGA-28-5204	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5207	TCGA-28-5207	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5208	TCGA-28-5208	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5209	TCGA-28-5209	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5211	TCGA-28-5211	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5213	TCGA-28-5213	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5214	TCGA-28-5214	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5215	TCGA-28-5215	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5216	TCGA-28-5216	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5218	TCGA-28-5218	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5219	TCGA-28-5219	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-5220	TCGA-28-5220	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-28-6450	TCGA-28-6450	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1970	TCGA-32-1970	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1973	TCGA-32-1973	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1976	TCGA-32-1976	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1977	TCGA-32-1977	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1978	TCGA-32-1978	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1979	TCGA-32-1979	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1980	TCGA-32-1980	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1982	TCGA-32-1982	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1986	TCGA-32-1986	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1987	TCGA-32-1987	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-1991	TCGA-32-1991	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2491	TCGA-32-2491	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2494	TCGA-32-2494	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2495	TCGA-32-2495	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2615	TCGA-32-2615	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2616	TCGA-32-2616	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2632	TCGA-32-2632	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2634	TCGA-32-2634	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-2638	TCGA-32-2638	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4208	TCGA-32-4208	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4209	TCGA-32-4209	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4210	TCGA-32-4210	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4211	TCGA-32-4211	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4213	TCGA-32-4213	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-4719	TCGA-32-4719	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-32-5222	TCGA-32-5222	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-2571	TCGA-41-2571	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-2572	TCGA-41-2572	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-2573	TCGA-41-2573	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-2575	TCGA-41-2575	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-3392	TCGA-41-3392	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-3393	TCGA-41-3393	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-3915	TCGA-41-3915	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-4097	TCGA-41-4097	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-5651	TCGA-41-5651	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-41-6646	TCGA-41-6646	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-4W-AA9S	TCGA-4W-AA9S	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-4W-AA9T	TCGA-4W-AA9T	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6573	TCGA-74-6573	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6575	TCGA-74-6575	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6577	TCGA-74-6577	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6578	TCGA-74-6578	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6581	TCGA-74-6581	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-74-6584	TCGA-74-6584	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4925	TCGA-76-4925	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4926	TCGA-76-4926	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4927	TCGA-76-4927	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4928	TCGA-76-4928	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4929	TCGA-76-4929	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4931	TCGA-76-4931	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4932	TCGA-76-4932	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4934	TCGA-76-4934	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-4935	TCGA-76-4935	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6191	TCGA-76-6191	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6192	TCGA-76-6192	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6193	TCGA-76-6193	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6280	TCGA-76-6280	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6282	TCGA-76-6282	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6285	TCGA-76-6285	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6286	TCGA-76-6286	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6656	TCGA-76-6656	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6657	TCGA-76-6657	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6661	TCGA-76-6661	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6662	TCGA-76-6662	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6663	TCGA-76-6663	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-76-6664	TCGA-76-6664	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-81-5910	TCGA-81-5910	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-81-5911	TCGA-81-5911	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-87-5896	TCGA-87-5896	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-OX-A56R	TCGA-OX-A56R	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-RR-A6KA	TCGA-RR-A6KA	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-RR-A6KC	TCGA-RR-A6KC	Brain	glioblastoma	G4	Diffuse Glioma	Glioma	Primary	94403	Glioblastoma NOS
+TCGA-CS-6186	TCGA-CS-6186	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5270	TCGA-DB-5270	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5274	TCGA-DB-5274	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5275	TCGA-DB-5275	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5276	TCGA-DB-5276	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5280	TCGA-DB-5280	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-5281	TCGA-DB-5281	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A4X9	TCGA-DB-A4X9	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A4XA	TCGA-DB-A4XA	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A4XC	TCGA-DB-A4XC	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A4XE	TCGA-DB-A4XE	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A4XH	TCGA-DB-A4XH	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A64O	TCGA-DB-A64O	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A64Q	TCGA-DB-A64Q	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A64S	TCGA-DB-A64S	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A64U	TCGA-DB-A64U	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A64W	TCGA-DB-A64W	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DB-A75K	TCGA-DB-A75K	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DH-5140	TCGA-DH-5140	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DH-5143	TCGA-DH-5143	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5851	TCGA-DU-5851	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5852	TCGA-DU-5852	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5853	TCGA-DU-5853	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5855	TCGA-DU-5855	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5871	TCGA-DU-5871	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-5872	TCGA-DU-5872	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-6395	TCGA-DU-6395	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-6396	TCGA-DU-6396	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-6403	TCGA-DU-6403	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-6406	TCGA-DU-6406	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-6542	TCGA-DU-6542	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-7011	TCGA-DU-7011	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-7019	TCGA-DU-7019	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-7304	TCGA-DU-7304	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-7306	TCGA-DU-7306	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-8161	TCGA-DU-8161	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-8162	TCGA-DU-8162	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-8163	TCGA-DU-8163	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-8166	TCGA-DU-8166	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-8167	TCGA-DU-8167	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-A5TR	TCGA-DU-A5TR	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-A6S6	TCGA-DU-A6S6	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-A7T8	TCGA-DU-A7T8	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-DU-A7TD	TCGA-DU-A7TD	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-E1-5322	TCGA-E1-5322	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-E1-A7YV	TCGA-E1-A7YV	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-E1-A7YW	TCGA-E1-A7YW	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-5965	TCGA-FG-5965	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-7637	TCGA-FG-7637	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-7643	TCGA-FG-7643	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-8181	TCGA-FG-8181	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-8186	TCGA-FG-8186	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-8187	TCGA-FG-8187	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-8188	TCGA-FG-8188	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A4MU	TCGA-FG-A4MU	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A4MW	TCGA-FG-A4MW	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A4MY	TCGA-FG-A4MY	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A60J	TCGA-FG-A60J	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A60K	TCGA-FG-A60K	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A70Z	TCGA-FG-A70Z	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FG-A713	TCGA-FG-A713	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-FN-7833	TCGA-FN-7833	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7473	TCGA-HT-7473	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7474	TCGA-HT-7474	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7475	TCGA-HT-7475	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7482	TCGA-HT-7482	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7483	TCGA-HT-7483	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7608	TCGA-HT-7608	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7609	TCGA-HT-7609	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7610	TCGA-HT-7610	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7611	TCGA-HT-7611	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7681	TCGA-HT-7681	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7684	TCGA-HT-7684	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7690	TCGA-HT-7690	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7692	TCGA-HT-7692	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7873	TCGA-HT-7873	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7879	TCGA-HT-7879	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7880	TCGA-HT-7880	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-7902	TCGA-HT-7902	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-8013	TCGA-HT-8013	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-8018	TCGA-HT-8018	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-8111	TCGA-HT-8111	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-8114	TCGA-HT-8114	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-A614	TCGA-HT-A614	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HT-A74J	TCGA-HT-A74J	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-HW-7489	TCGA-HW-7489	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-IK-8125	TCGA-IK-8125	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-KT-A74X	TCGA-KT-A74X	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-P5-A730	TCGA-P5-A730	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-P5-A731	TCGA-P5-A731	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A65S	TCGA-QH-A65S	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A65X	TCGA-QH-A65X	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6CV	TCGA-QH-A6CV	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6CW	TCGA-QH-A6CW	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6CY	TCGA-QH-A6CY	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6CZ	TCGA-QH-A6CZ	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6X3	TCGA-QH-A6X3	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6X4	TCGA-QH-A6X4	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6X5	TCGA-QH-A6X5	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A6XA	TCGA-QH-A6XA	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-QH-A870	TCGA-QH-A870	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A6TV	TCGA-S9-A6TV	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A6WH	TCGA-S9-A6WH	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A6WI	TCGA-S9-A6WI	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A6WP	TCGA-S9-A6WP	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A6WQ	TCGA-S9-A6WQ	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A7IQ	TCGA-S9-A7IQ	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A7IY	TCGA-S9-A7IY	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-S9-A7QY	TCGA-S9-A7QY	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-TM-A7C5	TCGA-TM-A7C5	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-TM-A84H	TCGA-TM-A84H	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-TM-A84L	TCGA-TM-A84L	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-TM-A84T	TCGA-TM-A84T	Brain	oligoastrocytoma	G2	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-VV-A829	TCGA-VV-A829	Brain	oligoastrocytoma	G3	Diffuse Glioma	Glioma	Primary	93823	Mixed glioma
+TCGA-CS-5390	TCGA-CS-5390	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-CS-5395	TCGA-CS-5395	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-CS-5396	TCGA-CS-5396	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-CS-6668	TCGA-CS-6668	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-CS-6669	TCGA-CS-6669	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-CS-6670	TCGA-CS-6670	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-5278	TCGA-DB-5278	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-5279	TCGA-DB-5279	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-A4XG	TCGA-DB-A4XG	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-A64L	TCGA-DB-A64L	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-A64P	TCGA-DB-A64P	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-A64R	TCGA-DB-A64R	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DB-A64V	TCGA-DB-A64V	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-5141	TCGA-DH-5141	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-5144	TCGA-DH-5144	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-A669	TCGA-DH-A669	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-A66F	TCGA-DH-A66F	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-A66G	TCGA-DH-A66G	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-A7UR	TCGA-DH-A7UR	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DH-A7US	TCGA-DH-A7US	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-5849	TCGA-DU-5849	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-5870	TCGA-DU-5870	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-5874	TCGA-DU-5874	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6393	TCGA-DU-6393	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6394	TCGA-DU-6394	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6397	TCGA-DU-6397	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6399	TCGA-DU-6399	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6400	TCGA-DU-6400	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6401	TCGA-DU-6401	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6404	TCGA-DU-6404	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6407	TCGA-DU-6407	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6408	TCGA-DU-6408	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-6410	TCGA-DU-6410	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7008	TCGA-DU-7008	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7009	TCGA-DU-7009	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7014	TCGA-DU-7014	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7015	TCGA-DU-7015	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7018	TCGA-DU-7018	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7294	TCGA-DU-7294	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7300	TCGA-DU-7300	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7301	TCGA-DU-7301	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7302	TCGA-DU-7302	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-7309	TCGA-DU-7309	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-8164	TCGA-DU-8164	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-8165	TCGA-DU-8165	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-8168	TCGA-DU-8168	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A5TS	TCGA-DU-A5TS	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A5TT	TCGA-DU-A5TT	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A6S2	TCGA-DU-A6S2	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A6S3	TCGA-DU-A6S3	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A6S8	TCGA-DU-A6S8	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A76K	TCGA-DU-A76K	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A76L	TCGA-DU-A76L	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A76R	TCGA-DU-A76R	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A7T6	TCGA-DU-A7T6	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A7TA	TCGA-DU-A7TA	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A7TB	TCGA-DU-A7TB	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-DU-A7TG	TCGA-DU-A7TG	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-E1-5311	TCGA-E1-5311	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-E1-5318	TCGA-E1-5318	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-E1-5319	TCGA-E1-5319	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-E1-A7YO	TCGA-E1-A7YO	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-EZ-7264	TCGA-EZ-7264	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-F6-A8O3	TCGA-F6-A8O3	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-5962	TCGA-FG-5962	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-5964	TCGA-FG-5964	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-6690	TCGA-FG-6690	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-6692	TCGA-FG-6692	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-7634	TCGA-FG-7634	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-7638	TCGA-FG-7638	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-7641	TCGA-FG-7641	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-8182	TCGA-FG-8182	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-8189	TCGA-FG-8189	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-8191	TCGA-FG-8191	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A4MT	TCGA-FG-A4MT	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A6IZ	TCGA-FG-A6IZ	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A6J1	TCGA-FG-A6J1	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A70Y	TCGA-FG-A70Y	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A710	TCGA-FG-A710	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-FG-A711	TCGA-FG-A711	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7467	TCGA-HT-7467	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7468	TCGA-HT-7468	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7469	TCGA-HT-7469	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7470	TCGA-HT-7470	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7471	TCGA-HT-7471	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7472	TCGA-HT-7472	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7480	TCGA-HT-7480	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7481	TCGA-HT-7481	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7602	TCGA-HT-7602	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7603	TCGA-HT-7603	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7605	TCGA-HT-7605	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7616	TCGA-HT-7616	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7620	TCGA-HT-7620	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7676	TCGA-HT-7676	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7677	TCGA-HT-7677	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7687	TCGA-HT-7687	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7688	TCGA-HT-7688	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7689	TCGA-HT-7689	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7693	TCGA-HT-7693	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7694	TCGA-HT-7694	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7695	TCGA-HT-7695	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7856	TCGA-HT-7856	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7874	TCGA-HT-7874	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7875	TCGA-HT-7875	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7877	TCGA-HT-7877	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7881	TCGA-HT-7881	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-7882	TCGA-HT-7882	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8010	TCGA-HT-8010	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8012	TCGA-HT-8012	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8019	TCGA-HT-8019	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8105	TCGA-HT-8105	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8107	TCGA-HT-8107	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8108	TCGA-HT-8108	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8109	TCGA-HT-8109	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8113	TCGA-HT-8113	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-8558	TCGA-HT-8558	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A4DV	TCGA-HT-A4DV	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A5R5	TCGA-HT-A5R5	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A5R9	TCGA-HT-A5R9	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A615	TCGA-HT-A615	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A617	TCGA-HT-A617	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A619	TCGA-HT-A619	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A61A	TCGA-HT-A61A	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HT-A61C	TCGA-HT-A61C	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-7486	TCGA-HW-7486	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-7487	TCGA-HW-7487	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-7491	TCGA-HW-7491	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-7495	TCGA-HW-7495	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-8322	TCGA-HW-8322	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-HW-A5KJ	TCGA-HW-A5KJ	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-IK-7675	TCGA-IK-7675	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A5ET	TCGA-P5-A5ET	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A5EX	TCGA-P5-A5EX	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A5F0	TCGA-P5-A5F0	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A5F4	TCGA-P5-A5F4	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A5F6	TCGA-P5-A5F6	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A72U	TCGA-P5-A72U	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-P5-A72Z	TCGA-P5-A72Z	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A65R	TCGA-QH-A65R	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A65V	TCGA-QH-A65V	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A65Z	TCGA-QH-A65Z	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A6CU	TCGA-QH-A6CU	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A6X8	TCGA-QH-A6X8	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A6X9	TCGA-QH-A6X9	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-QH-A86X	TCGA-QH-A86X	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-R8-A6MK	TCGA-R8-A6MK	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-R8-A6ML	TCGA-R8-A6ML	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-R8-A6MO	TCGA-R8-A6MO	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-R8-A73M	TCGA-R8-A73M	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6TW	TCGA-S9-A6TW	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6TX	TCGA-S9-A6TX	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6TY	TCGA-S9-A6TY	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6U2	TCGA-S9-A6U2	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6UB	TCGA-S9-A6UB	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6WD	TCGA-S9-A6WD	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A6WE	TCGA-S9-A6WE	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7J0	TCGA-S9-A7J0	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7J1	TCGA-S9-A7J1	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7J2	TCGA-S9-A7J2	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7J3	TCGA-S9-A7J3	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7QZ	TCGA-S9-A7QZ	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-S9-A7R1	TCGA-S9-A7R1	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84G	TCGA-TM-A84G	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84J	TCGA-TM-A84J	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84M	TCGA-TM-A84M	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84O	TCGA-TM-A84O	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84R	TCGA-TM-A84R	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-TM-A84S	TCGA-TM-A84S	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-VM-A8C8	TCGA-VM-A8C8	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-VM-A8CA	TCGA-VM-A8CA	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-VM-A8CB	TCGA-VM-A8CB	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-VM-A8CE	TCGA-VM-A8CE	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-VW-A7QS	TCGA-VW-A7QS	Brain	oligodendroglioma	G3	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma
+TCGA-W9-A837	TCGA-W9-A837	Brain	oligodendroglioma	G2	Diffuse Glioma	Glioma	Primary	70057	Oligodendroma

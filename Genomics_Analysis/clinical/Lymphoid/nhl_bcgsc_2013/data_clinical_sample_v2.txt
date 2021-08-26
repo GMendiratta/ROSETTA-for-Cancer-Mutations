@@ -1,0 +1,54 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_CLASS	SAMPLE_TYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+99-27137	RG111	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+98-22532	RG013	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+95-32814	RG040	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+81-52884	RG081	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+09-41082	RG130	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+09-33003	RG115	Tumor	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse large B cell lymphoma
+09-12737	RG116	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+08-25894	RG135	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+08-15460	RG067	Tumor	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse large B cell lymphoma
+07-35482	RG043	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+07-30628	RG075	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+07-25012	RG132	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+07-17613	RG038	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-34043	RG036	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-33777	RG133	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-30145	RG068	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-30025	RG034	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-25674	RG138	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-24915	RG065	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-23907	RG028	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-22057	RG027	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-19919	RG054	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-16716	RG026	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+06-15256	RG136	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-14634	RG142	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+06-11535	RG024	Tumor	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse large B cell lymphoma
+06-10398	RG074	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+05-32947	RG014	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-25674	RG083	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-25439	RG003	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-24904	RG077	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-24561	RG055	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-24395	RG051	Tumor	Primary	Mature B-Cell Neoplasms	Diffuse Large B-Cell Lymphoma, NOS	96803	Diffuse large B cell lymphoma
+05-24006	RG082	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-23110	RG064	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+05-12939	RG023	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+04-29264	RG008	Tumor	Primary	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+03-10363	RG049	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+02-22991	RG061	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+02-20170	RG086	Tumor	Primary	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+DB	DB	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+DOHH-2	DOHH-2	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+Karpas422	Karpas422	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+MD903	MD903	Cellline	Cellline	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+NU-DHL-1	NU-DHL-1	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+NU-DUL-1	NU-DUL-1	Cellline	Cellline	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+OCI-Ly1	OCI-Ly1	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+OCI-Ly19	OCI-Ly19	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+OCI-Ly3	OCI-Ly3	Cellline	Cellline	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+OCI-Ly7	OCI-Ly7	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+SU-DHL-6	SU-DHL-6	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma
+SU-DHL-9	SU-DHL-9	Cellline	Cellline	Mature B-Cell Neoplasms	Activated B-cell Type	96803	Diffuse large B cell lymphoma
+WSU-DLCL2	WSU-DLCL2	Cellline	Cellline	Mature B-Cell Neoplasms	Germinal Center B-Cell Type	96803	Diffuse large B cell lymphoma

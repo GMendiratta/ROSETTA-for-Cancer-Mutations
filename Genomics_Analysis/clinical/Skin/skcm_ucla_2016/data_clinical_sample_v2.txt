@@ -1,0 +1,40 @@
+SAMPLE_ID	PATIENT_ID	SAMPLE_TYPE	SEER_SITE	SITE	ANATOMICAL_SUBTYPE	CANCER_TYPE	CANCER_TYPE_DETAILED	CODE	CATEGORY_NAME
+Pt1	Pt1	Metastasis	Other Non-Epithelial Skin	Thigh	L post. Thigh, inf., SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt2	Pt2	Metastasis	Other Non-Epithelial Skin	Lung	Lung	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt3	Pt3	Metastasis	Other Non-Epithelial Skin	Bowel	Bowel	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt4	Pt4	Metastasis	Other Non-Epithelial Skin	Adrenal	Adrenal	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt5	Pt5	Metastasis	Other Non-Epithelial Skin	Chestwall	L Chestwall, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt6	Pt6	Metastasis	Other Non-Epithelial Skin	forearm	L forearm, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt7	Pt7	Metastasis	Other Non-Epithelial Skin	scalp	Crown/scalp, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt8	Pt8	Metastasis	Other Non-Epithelial Skin	leg	R leg, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt9	Pt9	Metastasis	Other Non-Epithelial Skin	forearm	L forearm, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt10	Pt10	Metastasis	Other Non-Epithelial Skin	Neck	Neck, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt11	Pt11	Metastasis	Other Non-Epithelial Skin	face	L face, C	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt12	Pt12	Metastasis	Other Non-Epithelial Skin	abdomen	L lower abdomen, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt13	Pt13	Metastasis	Other Non-Epithelial Skin	back	Lower back, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt14	Pt14	Metastasis	Other Non-Epithelial Skin	neck	R neck, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt15	Pt15	Metastasis	Other Non-Epithelial Skin	Lymph node	R clavicle, LN	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt16	Pt16	Metastasis	Other Non-Epithelial Skin	Lung	Lung	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt17	Pt17	Metastasis	Other Non-Epithelial Skin	Scalp	Scalp, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt18	Pt18	Metastasis	Other Non-Epithelial Skin	Axilla, Lymph node	R Axilla, LN	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt19	Pt19	Metastasis	Other Non-Epithelial Skin	Chest	Chest, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt20	Pt20	Metastasis	Other Non-Epithelial Skin	L clavicle	L clavicle	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt21	Pt21	Metastasis	Other Non-Epithelial Skin	Lung	Lung	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt22	Pt22	Metastasis	Other Non-Epithelial Skin	Left Flank	Left Flank, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt23	Pt23	Metastasis	Other Non-Epithelial Skin	Left Leg	Left Leg, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt24	Pt24	Metastasis	Other Non-Epithelial Skin	Inguinal, Lymph node	L Inguinal, LN	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt25	Pt25	Metastasis	Other Non-Epithelial Skin	Outer Inguinal	L Outer Inguinal	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt26	Pt26	Metastasis	Other Non-Epithelial Skin	L Inguinal	L Inguinal	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt27	Pt27	Metastasis	Other Non-Epithelial Skin	arm	R upper arm	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt27_2	Pt27	Metastasis	Other Non-Epithelial Skin	back	R upper back	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt28	Pt28	Metastasis	Other Non-Epithelial Skin	Scalp	Scalp, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt29	Pt29	Metastasis	Other Non-Epithelial Skin	Lung	Lung	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt30	Pt30	Metastasis	Other Non-Epithelial Skin	Retrocecal	Retrocecal mass	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt31	Pt31	Metastasis	Other Non-Epithelial Skin	Sigmoid colon	Sigmoid colon	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt32	Pt32	Metastasis	Other Non-Epithelial Skin	Abdominal wall	Abdominal wall	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt33	Pt33	Metastasis	Other Non-Epithelial Skin	Groin	Groin, SC	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt34	Pt34	Metastasis	Other Non-Epithelial Skin	Abdominal wall	Abdominal wall	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt35	Pt35	Metastasis	Other Non-Epithelial Skin	Flank	Flank	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt36	Pt36	Metastasis	Other Non-Epithelial Skin	Axillary Lymph node	Axillary LN	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt37	Pt37	Metastasis	Other Non-Epithelial Skin	Small bowel	Small bowel	Melanoma	Cutaneous Melanom	70107	Malignant melanoma
+Pt38	Pt38	Metastasis	Other Non-Epithelial Skin	Cervical, Lymph node	Cervical, LN	Melanoma	Cutaneous Melanom	70107	Malignant melanoma

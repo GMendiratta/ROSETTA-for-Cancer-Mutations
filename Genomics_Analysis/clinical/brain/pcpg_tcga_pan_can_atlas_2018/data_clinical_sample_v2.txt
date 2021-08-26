@@ -1,0 +1,47 @@
+PATIENT_ID	SAMPLE_ID	ICD_O_3_SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	TUMOR_TYPE	SITE	SAMPLE_TYPE	CODE	CATEGORY_NAME
+TCGA-SR-A6MV	TCGA-SR-A6MV-01	C74.9	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-SR-A6MX	TCGA-SR-A6MX-01	C72.9	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-RM-A68T	TCGA-RM-A68T-01	C76.0	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-RM-A68W	TCGA-RM-A68W-01	C76.0	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma, Extra-Adrenal Pheochromocytoma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-SR-A6MR	TCGA-SR-A6MR-01	C48.0	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-WB-A80P	TCGA-WB-A80P-01	C48.0	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma, Extra-Adrenal Pheochromocytoma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-WB-A814	TCGA-WB-A814-01	C48.0	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma, Extra-Adrenal Pheochromocytoma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-WB-A81E	TCGA-WB-A81E-01	C38.3	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma, Extra-Adrenal Pheochromocytoma	Extra-Adrenal	Primary	70047	Paraganglioma
+TCGA-P7-A5NX	TCGA-P7-A5NX-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-P7-A5NY	TCGA-P7-A5NY-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-P8-A6RY	TCGA-P8-A6RY-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-PR-A5PF	TCGA-PR-A5PF-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-PR-A5PG	TCGA-PR-A5PG-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-PR-A5PH	TCGA-PR-A5PH-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QR-A6GO	TCGA-QR-A6GO-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XJ	TCGA-QT-A5XJ-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XK	TCGA-QT-A5XK-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XL	TCGA-QT-A5XL-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XM	TCGA-QT-A5XM-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XN	TCGA-QT-A5XN-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XO	TCGA-QT-A5XO-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A5XP	TCGA-QT-A5XP-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-QT-A69Q	TCGA-QT-A69Q-01	C74.1	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-RW-A686	TCGA-RW-A686-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-RW-A8AZ	TCGA-RW-A8AZ-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WL	TCGA-S7-A7WL-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WM	TCGA-S7-A7WM-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WN	TCGA-S7-A7WN-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WQ	TCGA-S7-A7WQ-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WT	TCGA-S7-A7WT-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WU	TCGA-S7-A7WU-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WV	TCGA-S7-A7WV-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-S7-A7WX	TCGA-S7-A7WX-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-SQ-A6I6	TCGA-SQ-A6I6-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-SR-A6MU	TCGA-SR-A6MU-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-TT-A6YN	TCGA-TT-A6YN-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-TT-A6YO	TCGA-TT-A6YO-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A80Q	TCGA-WB-A80Q-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A815	TCGA-WB-A815-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A819	TCGA-WB-A819-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A81A	TCGA-WB-A81A-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A81Q	TCGA-WB-A81Q-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A821	TCGA-WB-A821-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-WB-A822	TCGA-WB-A822-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-XG-A823	TCGA-XG-A823-01	C74.9	Pheochromocytoma	Pheochromocytoma	Pheochromocytoma	Adrenal Gland	Primary	70047	Paraganglioma
+TCGA-SR-A6MQ	TCGA-SR-A6MQ-01	C75.5	Miscellaneous Neuroepithelial Tumor	Paraganglioma	Paraganglioma	Extra-Adrenal	Primary	70047	Paraganglioma

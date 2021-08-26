@@ -1,0 +1,21 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	SOURCE	DETAILED_SAMPLE_HISTOLOGY_CATEGORY	SITE	CANCER_TYPE	CANCER_TYPE_DETAILED	Unnamed: 8	Meraj annotation	CODE	CATEGORY_NAME
+11M	11M	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+12M	12M	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+19M	19M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+35M	35M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+37M	37M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+40M	40M	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+46M	46M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+49M	49M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+53M	53M	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+71M	71M	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au1	Au1	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au2	Au2	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au3	Au3	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au4	Au4	Primary	Fresh Frozen	Mixed	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au5	Au5	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au6	Au6	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au7	Au7	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au8	Au8	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au9	Au9	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
+Au10	Au10	Primary	Fresh Frozen	Pure	Skin Melanoma	Melanoma	Desmoplastic Melanoma		Desmoplastic melanoma, malignant (C44._)	70107	Malignant melanoma
