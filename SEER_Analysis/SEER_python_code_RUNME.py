@@ -89,8 +89,8 @@ df_SEERedit=df_SEERedit.drop(index=[''],level=0) # This step removes a number of
 df_SEERedit.to_excel('SEER2_CleanedLocations.xlsx',index=True)
 
 # PREPROCESS: Smear misc locations
-miscvals0=pd.DataFrame.copy(df_SEERedit.loc['Other & Unspecified','"Miscellaneous_Count"']) # values in other and unspecified misc counts
-df_SEERnoMisc=pd.DataFrame.copy(df_SEERedit.drop(index=['Other & Unspecified','"Miscellaneous_Count"'],level=1)) # remove the misc column from the SEER matrix
+miscvals0=pd.DataFrame.copy(df_SEERedit.loc[('Other & Unspecified','"Miscellaneous_Count"')]) # values in other and unspecified misc counts
+df_SEERnoMisc=pd.DataFrame.copy(df_SEERedit.drop(index=[('Other & Unspecified','"Miscellaneous_Count"')])) # remove the misc column from the SEER matrix
 locsums=df_SEERnoMisc.sum() # add over locations excluding misc
 coltrue=[it1 for it1 in miscvals0.index if ((miscvals0[it1]>0.) and ((miscvals0[it1]/2)<locsums[it1]))] # columns for which the other misc counts are less than twice the sum of rest of the counts.
 miscvals=df_SEERedit[coltrue].loc['Other & Unspecified','"Miscellaneous_Count"']
